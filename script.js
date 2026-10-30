@@ -1,52 +1,4 @@
-const products = [
-  { name: 'iPhone 16', brand: 'Apple', detail: 'A fresh perspective. All day.', color: '#7e8eaa', light: '#c0cbdc', badge: 'Fan favourite', mark: 'Apple', description: 'Discover the iPhone experience, with an elegant design and a camera ready for everyday moments.' },
-  { name: 'Galaxy S25 Ultra', brand: 'Samsung', detail: 'More power. More possibility.', color: '#92948c', light: '#deded3', badge: 'Premium pick', mark: 'SAMSUNG', description: 'Explore Samsung’s premium Galaxy range for photography, productivity, and creativity.' },
-  { name: 'Redmi Note 14', brand: 'Xiaomi', detail: 'Big on the everyday.', color: '#86a79b', light: '#d4e3d4', badge: 'Everyday essential', mark: 'Redmi', description: 'Meet an everyday smartphone built around the things you enjoy, from streaming to staying connected.' },
-  { name: 'Galaxy A56', brand: 'Samsung', detail: 'A little more awesome.', color: '#a49cb1', light: '#dbd5e6', badge: 'Worth a look', mark: 'SAMSUNG', description: 'Discover the Galaxy A series, combining a clean design with everyday features.' }
-];
-const grid = document.querySelector('#products');
-const search = document.querySelector('#search');
-const filters = document.querySelectorAll('[data-brand]');
-const dialog = document.querySelector('#product-dialog');
-let selectedBrand = 'All';
-
-function renderProducts() {
-  const query = search.value.trim().toLowerCase();
-  const matches = products.filter(product => (selectedBrand === 'All' || product.brand === selectedBrand) && `${product.name} ${product.brand}`.toLowerCase().includes(query));
-  grid.innerHTML = matches.map(product => `<article class="product-card">
-    <div class="product-art" role="img" aria-label="Stylized illustration of ${product.name}"><span class="product-badge">${product.badge}</span><div class="mini-phone" style="--phone-color:${product.color};--phone-light:${product.light}" data-mark="${product.mark}"></div></div>
-    <div class="product-info"><span class="brand">${product.brand}</span><h3>${product.name}</h3><p>${product.detail}</p><div class="product-bottom"><span>Enquire in store</span><button class="details-button" data-product="${product.name}" aria-label="View ${product.name} details">↗</button></div></div>
-  </article>`).join('');
-  document.querySelector('#empty-state').hidden = matches.length > 0;
-}
-
-filters.forEach(button => button.addEventListener('click', () => {
-  selectedBrand = button.dataset.brand;
-  filters.forEach(filter => {
-    const active = filter === button;
-    filter.classList.toggle('selected', active);
-    filter.setAttribute('aria-pressed', String(active));
-  });
-  renderProducts();
-}));
-search.addEventListener('input', renderProducts);
-grid.addEventListener('click', event => {
-  const button = event.target.closest('[data-product]');
-  if (!button) return;
-  const product = products.find(item => item.name === button.dataset.product);
-  document.querySelector('#dialog-title').textContent = product.name;
-  document.querySelector('#dialog-description').textContent = product.description;
-  dialog.setAttribute('aria-labelledby', 'dialog-title');
-  dialog.showModal();
-});
-document.querySelector('.dialog-close').addEventListener('click', () => dialog.close());
-document.querySelector('#dialog-visit').addEventListener('click', () => dialog.close());
-dialog.addEventListener('click', event => {
-  if (event.target === dialog) {
-    const bounds = dialog.getBoundingClientRect();
-    if (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom) dialog.close();
-  }
-});
+'use strict';
 const menuButton = document.querySelector('.menu-toggle');
 const navigation = document.querySelector('#navigation');
 function closeMenu() {
@@ -61,5 +13,56 @@ menuButton.addEventListener('click', () => {
 });
 navigation.querySelectorAll('a').forEach(link => link.addEventListener('click', closeMenu));
 document.addEventListener('keydown', event => { if (event.key === 'Escape') closeMenu(); });
+document.addEventListener('click', event => { if (!event.target.closest('.header')) closeMenu(); });
 document.querySelector('#year').textContent = new Date().getFullYear();
-renderProducts();
+
+const grid = document.querySelector('#products');
+if (grid) {
+  const cards = Array.from(grid.querySelectorAll('.product-card'));
+  const search = document.querySelector('#search');
+  const sort = document.querySelector('#sort');
+  const filters = document.querySelectorAll('[data-filter]');
+  let brand = 'All';
+  function updateCatalog() {
+    const query = search.value.trim().toLowerCase();
+    const sorted = [...cards].sort((a, b) => {
+      if (sort.value === 'price-low') return Number(a.dataset.price) - Number(b.dataset.price);
+      if (sort.value === 'price-high') return Number(b.dataset.price) - Number(a.dataset.price);
+      if (sort.value === 'name') return a.dataset.name.localeCompare(b.dataset.name);
+      return Number(a.dataset.order) - Number(b.dataset.order);
+    });
+    let count = 0;
+    sorted.forEach(card => {
+      card.hidden = !((brand === 'All' || card.dataset.brand === brand) && (card.dataset.name + ' ' + card.dataset.brand.toLowerCase()).includes(query));
+      if (!card.hidden) count++;
+      grid.appendChild(card);
+    });
+    document.querySelector('#results-count').textContent = count + (count === 1 ? ' phone' : ' phones');
+    document.querySelector('#empty-state').hidden = count > 0;
+    filters.forEach(button => {
+      const active = button.dataset.filter === brand;
+      button.classList.toggle('selected', active);
+      button.setAttribute('aria-pressed', String(active));
+    });
+  }
+  filters.forEach(button => button.addEventListener('click', () => { brand = button.dataset.filter; updateCatalog(); }));
+  search.addEventListener('input', updateCatalog);
+  sort.addEventListener('change', updateCatalog);
+  document.querySelector('#reset-filters').addEventListener('click', () => {
+    brand = 'All'; search.value = ''; sort.value = 'featured'; updateCatalog(); search.focus();
+  });
+}
+
+const enquiryForm = document.querySelector('#enquiry-form');
+if (enquiryForm) {
+  enquiryForm.addEventListener('submit', event => {
+    event.preventDefault();
+    const name = document.querySelector('#enquiry-name').value.trim();
+    const interest = document.querySelector('#enquiry-interest').value;
+    const message = document.querySelector('#enquiry-message').value.trim();
+    if (!message) { document.querySelector('#enquiry-message').setCustomValidity('Please enter your question.'); enquiryForm.reportValidity(); return; }
+    const text = 'Hi Eakraj Mobile Shop,' + (name ? ' I am ' + name + '.' : '') + '\nI am interested in: ' + interest + '\n' + message;
+    window.location.href = 'https://wa.me/9779707293923?text=' + encodeURIComponent(text);
+  });
+  document.querySelector('#enquiry-message').addEventListener('input', event => event.target.setCustomValidity(''));
+}
