@@ -68,3 +68,4 @@ let sourceText=fs.readFileSync('SOURCES.md','utf8').split('\n\n## Laptops and ac
 const files=[...new Set([...baseFiles,...pageFiles,'store-data.js','store.js','store.css','store-catalog.json','build-store.cjs','collect-store.cjs','prepare-store.cjs',...items.map(p=>p.image)])];
 fs.writeFileSync('publish-files.json',JSON.stringify(files,null,2));
 console.log('Built 260 detail pages, 7 department listings, and a 250-product accessory hub. Connected',htmlFiles.length,'HTML pages.');
+require('./redesign.cjs');
