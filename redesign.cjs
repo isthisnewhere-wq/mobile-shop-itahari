@@ -3,6 +3,7 @@ const fs=require('node:fs');
 const phones=JSON.parse(fs.readFileSync('catalog.json','utf8'));
 const extras=JSON.parse(fs.readFileSync('store-catalog.json','utf8'));
 const published=JSON.parse(fs.readFileSync('publish-files.json','utf8'));
+for(const file of fs.readdirSync('.').filter(f=>/^shop-.*\.html$/.test(f)))if(!published.includes(file))published.push(file);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const money=n=>'NRs. '+new Intl.NumberFormat('en-IN',{maximumFractionDigits:2}).format(n);
 const icons={
@@ -66,6 +67,6 @@ for(const file of published.filter(f=>f.endsWith('.html'))){
  const kind=body.includes('catalog-results')?'catalog':body.includes('product-page')?'product':'information';
  fs.writeFileSync(file,'<!DOCTYPE html><html lang="en"><head>'+head+'</head><body data-layout="'+(file==='index.html'?'home':kind)+'"><a class="skip-link" href="#main">Skip to content</a>'+header(file)+'<main id="main">'+body+'</main>'+tray+footer+'</body></html>');
 }
-for(const file of ['theme.js','redesign.cjs','DESIGN.md'])if(!published.includes(file))published.push(file);
+for(const file of ['theme.js','redesign.cjs','DESIGN.md','verify-store.cjs','verify-catalog.cjs'])if(!published.includes(file))published.push(file);
 fs.writeFileSync('publish-files.json',JSON.stringify(published,null,2));
 console.log('Redesigned',published.filter(f=>f.endsWith('.html')).length,'pages with the shared Eakraj design system.');
