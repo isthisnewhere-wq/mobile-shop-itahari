@@ -10,7 +10,7 @@ A modern, approachable technology store: deep navy, electric lime accents, cool 
 - Lime accent: `#c6ee70` with navy text; muted text: `#526176`; border: `#dce2e8`.
 - Font: Outfit with system sans-serif fallbacks. Body 16px; content line-height 1.6–1.8.
 - Layout: max-width 1320px; consistent 4/8px spacing rhythm; 12–24px card radii.
-- Mobile: 44px controls, collapsible navigation/filter controls, two-column product cards, no page-wide overflow.
+- Mobile: 44px controls, collapsible navigation/filter controls, single-column product cards on small phones, two-column cards on tablets, no page-wide overflow.
 - Focus: visible navy outline; reduced-motion support; native labelled controls and disclosure menus.
 
 ## Page system
@@ -18,3 +18,8 @@ A modern, approachable technology store: deep navy, electric lime accents, cool 
 The homepage uses a product-led bento hero, seven departments, featured phones, clearly labelled proposed laptop offers, setup collections, and local contact guidance. Catalogs use a desktop filter sidebar and a compact mobile filter toggle. Product pages use an image panel, prominent price/enquiry panel, specifications, and related products. Guides, reviews, comparison, and contact pages share the same typography, chrome, surfaces, and controls.
 
 Run `node redesign.cjs` after generating the catalog. The existing product data, NRs. reference pricing, proposed 10% laptop offers, WhatsApp enquiries, URL filters, pagination, and comparison logic are preserved.
+
+
+## Readability and phone discovery
+
+Small-phone product lists use one column so names, reference prices, and comparison controls remain readable. Body and review content use 16px type; product metadata uses at least 12px and important price/stock notes use 14px. Navigation and form controls have comfortable touch targets. The searchable brand directory links every one of the 122 currently listed phones across 15 brands; it does not claim complete worldwide model coverage.
