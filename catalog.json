@@ -6481,5 +6481,1477 @@
         "Do not assume flagship gaming performance from RAM capacity alone."
       ]
     }
+  },
+  {
+    "name": "Galaxy S26",
+    "brand": "Samsung",
+    "source": "https://www.gadgetbytenepal.com/samsung-galaxy-s26-price-in-nepal/",
+    "variants": [
+      {
+        "label": "12GB / 256GB",
+        "price": 139999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "samsung-galaxy-s26",
+    "specs": {
+      "display": "6.3-inch LTPO AMOLED screen, FHD+, 120Hz refresh rate, Corning Gorilla Glass Victus 2",
+      "chipset": "Samsung Exynos 2600 (2nm mobile platform)",
+      "memory": "12GB RAM, 256GB storage (non-expandable)",
+      "software": "One UI 8.5 on top of Android 16",
+      "camera": "Triple (50MP main, 10MP telephoto, 12MP ultrawide)",
+      "selfie": "12MP (hole-punch)",
+      "battery": "4300mAh with 25W charging (power adapter not provided)",
+      "connectivity": "Dual-SIM (Nano), WiFi 7 (Tri-band), Bluetooth 5.4, USB-C, 4G LTE, 5G",
+      "build": "149.6 x 71.7 x 7.2 mm, 167 gm, IP68 rated",
+      "security": "Fingerprint sensor (ultrasonic in-display)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/09/Samsung-Galaxy-S26-price-nepal.jpg",
+    "review": null,
+    "specSource": "https://www.gadgetbytenepal.com/samsung-galaxy-s26-price-in-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/samsung-galaxy-s26-price-in-nepal/",
+    "price": 139999,
+    "variant": "12GB / 256GB",
+    "image": "phone-samsung-galaxy-s26.jpg",
+    "assessment": {
+      "tier": "Performance",
+      "fiveG": true,
+      "battery": 4300,
+      "refresh": 120,
+      "oled": true,
+      "performance": "The listed chipset targets performance-focused daily use. It should suit multitasking and many games, with graphics settings adjusted for heavier titles.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "The named storage variant makes price comparisons more specific."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
+  },
+  {
+    "name": "Galaxy S26+",
+    "brand": "Samsung",
+    "source": "https://www.gadgetbytenepal.com/samsung-galaxy-s26-plus-price-in-nepal/",
+    "variants": [
+      {
+        "label": "12GB / 256GB",
+        "price": 159999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "samsung-galaxy-s26-plus",
+    "specs": {
+      "display": "6.7-inch Dynamic AMOLED 2X screen, QHD+, 120Hz refresh rate, Gorilla Glass Victus 2",
+      "chipset": "Qualcomm Snapdragon 8 Elite Gen 5 for Galaxy (US/China) / Samsung Exynos 2600 2nm (global)",
+      "memory": "12GB RAM, 256/512GB storage (non-expandable)",
+      "software": "One UI 8.5 on top of Android 16",
+      "camera": "Triple (50MP primary, 10MP 3x telephoto, 12MP ultrawide)",
+      "selfie": "12MP sensor (hole-punch)",
+      "battery": "4900mAh with 45W charging (power adapter not provided)",
+      "connectivity": "Dual SIM (Nano + eSIM), 5G (Sub-6), WiFi 7 (Tri-band), Bluetooth 6.0, USB-C 3.2 Gen 1, 5G",
+      "build": "158.4 × 75.8 × 7.3 mm, 190 gm, IP68 rated",
+      "security": "Fingerprint sensor (ultrasonic in-display)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/02/Samsung-Galaxy-S26-Plus-price-in-Nepal.jpg",
+    "review": "https://www.gadgetbytenepal.com/samsung-galaxy-s26-ultra-review/",
+    "specSource": "https://www.gadgetbytenepal.com/samsung-galaxy-s26-plus-price-in-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/samsung-galaxy-s26-plus-price-in-nepal/",
+    "price": 159999,
+    "variant": "12GB / 256GB",
+    "image": "phone-samsung-galaxy-s26-plus.jpg",
+    "assessment": {
+      "tier": "Flagship",
+      "fiveG": true,
+      "battery": 4900,
+      "refresh": 120,
+      "oled": true,
+      "performance": "The listed chipset belongs to a high-end family. It is a strong starting point for demanding apps, multitasking, and games, although sustained speed depends on cooling and software.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "The named storage variant makes price comparisons more specific."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
+  },
+  {
+    "name": "Galaxy S26 Ultra",
+    "brand": "Samsung",
+    "source": "https://www.gadgetbytenepal.com/samsung-galaxy-s26-ultra-price-in-nepal/",
+    "variants": [
+      {
+        "label": "12 / 256GB",
+        "price": 224999
+      },
+      {
+        "label": "12 / 512GB",
+        "price": 259999
+      },
+      {
+        "label": "16 / 1TB",
+        "price": 293999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "samsung-galaxy-s26-ultra",
+    "specs": {
+      "display": "6.9-inch LTPO AMOLED screen, QHD+, 120Hz refresh rate, Corning Gorilla Armor 2",
+      "chipset": "Qualcomm Snapdragon 8 Elite Gen 5 for Galaxy (3nm mobile platform)",
+      "memory": "12/16GB RAM, 256/512GB/1TB storage (non-expandable)",
+      "software": "One UI 8.5 on top of Android 16",
+      "camera": "Quad (200MP main, 50MP 5x periscope, 10MP 3x telephoto, 50MP ultrawide)",
+      "selfie": "12MP sensor (hole-punch)",
+      "battery": "5000 mAh with 60W charging (power adapter not provided)",
+      "connectivity": "Dual-SIM (Nano), WiFi 7 (Tri-band), Bluetooth 6.0, USB-C, 4G LTE, 5G",
+      "build": "163.6 x 78.1 x 7.9 mm, 214 gm, IP68 rated",
+      "security": "Fingerprint sensor (ultrasonic in-display)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/03/Samsung-Galaxy-S26-Ultra-Price-in-Nepal.jpg",
+    "review": "https://www.gadgetbytenepal.com/samsung-galaxy-s26-ultra-review/",
+    "specSource": "https://www.gadgetbytenepal.com/samsung-galaxy-s26-ultra-price-in-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/samsung-galaxy-s26-ultra-price-in-nepal/",
+    "price": 224999,
+    "variant": "12 / 256GB",
+    "image": "phone-samsung-galaxy-s26-ultra.jpg",
+    "assessment": {
+      "tier": "Flagship",
+      "fiveG": true,
+      "battery": 5000,
+      "refresh": 120,
+      "oled": true,
+      "performance": "The listed chipset belongs to a high-end family. It is a strong starting point for demanding apps, multitasking, and games, although sustained speed depends on cooling and software.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "The named storage variant makes price comparisons more specific."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
+  },
+  {
+    "name": "Galaxy Z Flip 7",
+    "brand": "Samsung",
+    "source": "https://www.gadgetbytenepal.com/galaxy-z-flip-7-price-nepal/",
+    "variants": [
+      {
+        "label": "12 / 256GB",
+        "price": 154999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "samsung-galaxy-z-flip-7",
+    "specs": {
+      "display": "Inner: 6.9-inch Dynamic AMOLED 2X screen, FHD+, 120Hz refresh rate, Ultra-Thin Glass (UTG)",
+      "chipset": "Samsung Exynos 2500 (3nm mobile platform)",
+      "memory": "12GB RAM, 256/512GB storage (non-expandable)",
+      "software": "Android 16 with One UI 8",
+      "camera": "Dual (50MP primary, 12MP ultrawide)",
+      "selfie": "10MP sensor (hole-punch)",
+      "battery": "4300mAh with 25W charging (power adapter not provided)",
+      "connectivity": "Dual SIM (Nano + eSIM), WiFi 7 (Tri-band), Bluetooth 5.4, USB-C 3.2 Gen 1, 5G",
+      "build": "Unfolded: 166.7 x 75.2 x 6.5 mm, 188 gm, IP48 rated",
+      "security": "Fingerprint sensor (side-mounted)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2025/07/Samsung-Galaxy-Flip7-price-in-Nepal.jpg",
+    "review": null,
+    "specSource": "https://www.gadgetbytenepal.com/galaxy-z-flip-7-price-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/galaxy-z-flip-7-price-nepal/",
+    "price": 154999,
+    "variant": "12 / 256GB",
+    "image": "phone-samsung-galaxy-z-flip-7.jpg",
+    "assessment": {
+      "tier": "Performance",
+      "fiveG": true,
+      "battery": 4300,
+      "refresh": 120,
+      "oled": true,
+      "performance": "The listed chipset targets performance-focused daily use. It should suit multitasking and many games, with graphics settings adjusted for heavier titles.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "The named storage variant makes price comparisons more specific."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
+  },
+  {
+    "name": "Galaxy Z Flip 8",
+    "brand": "Samsung",
+    "source": "https://gadgetbytenepal.com/samsung-galaxy-z-flip-8-price-in-nepal/",
+    "variants": [
+      {
+        "label": "12 / 256GB",
+        "price": 194999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "samsung-galaxy-z-flip-8",
+    "specs": {
+      "display": "Inner: 6.9-inch Foldable Dynamic LTPO AMOLED 2X screen, FHD+ (1080 x 2520 pixels), 120Hz",
+      "chipset": "Qualcomm Snapdragon 8 Elite Gen 5 for Galaxy (3nm mobile platform—in USA) / Exynos 2600 (3nm—for other regions)",
+      "memory": "12GB RAM, 256/512GB storage (non-expandable)",
+      "software": "One UI 9 on top of Android 17",
+      "camera": "Dual (50MP primary, 12MP ultrawide)",
+      "selfie": "10MP sensor (hole-punch)",
+      "battery": "Si/Ca 4300mAh with 25W charging, 15W wireless charging, reverse wireless charging",
+      "connectivity": "Dual SIM (Nano + eSIM), WiFi 7 (Tri-Band), Bluetooth 5.4, USB-C 3.2, 5G",
+      "build": "180 gm, IP48 rated, Armor aluminum frame Unfolded: 166.9 x 75.4 x 6.1 mm",
+      "security": "Fingerprint sensor (side-mounted)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/07/Samsung-Galaxy-Z-Flip8-Price-in-Nepal.jpg",
+    "review": null,
+    "specSource": "https://gadgetbytenepal.com/samsung-galaxy-z-flip-8-price-in-nepal/",
+    "imageSource": "https://gadgetbytenepal.com/samsung-galaxy-z-flip-8-price-in-nepal/",
+    "price": 194999,
+    "variant": "12 / 256GB",
+    "image": "phone-samsung-galaxy-z-flip-8.jpg",
+    "assessment": {
+      "tier": "Flagship",
+      "fiveG": true,
+      "battery": 4300,
+      "refresh": 120,
+      "oled": true,
+      "performance": "The listed chipset belongs to a high-end family. It is a strong starting point for demanding apps, multitasking, and games, although sustained speed depends on cooling and software.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "The named storage variant makes price comparisons more specific."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
+  },
+  {
+    "name": "Galaxy Z Fold 7",
+    "brand": "Samsung",
+    "source": "https://www.gadgetbytenepal.com/samsung-galaxy-z-fold-7-price-nepal/",
+    "variants": [
+      {
+        "label": "12 / 256GB",
+        "price": 259999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "samsung-galaxy-z-fold-7",
+    "specs": {
+      "display": "Inner: 8.0-inch Foldable Dynamic LTPO AMOLED 2X screen, QXGA+, 120Hz refresh rate, Ultra-Thin Glass (UTG)",
+      "chipset": "Qualcomm Snapdragon 8 Elite for Galaxy (3nm mobile platform)",
+      "memory": "12/16GB RAM, 256/512GB/1TB storage (non-expandable)",
+      "software": "One UI 8 on top of Android 16",
+      "camera": "Triple (200MP primary, 10MP 3x telephoto , 12MP ultrawide)",
+      "selfie": "10MP sensor (hole-punch)",
+      "battery": "4400mAh with 25W charging (power adapter not provided)",
+      "connectivity": "Dual SIM (Nano + eSIM), WiFi 7 (Tri-Band), Bluetooth 5.4, USB-C 3.2, 5G",
+      "build": "Unfolded: 158.4 x 143.2 x 4.2 mm, 215 gm, IP48 rated",
+      "security": "Fingerprint sensor (side-mounted)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2025/07/Samsung-Galaxy-Z-Fold-7-Price-in-Nepal.jpg",
+    "review": "https://www.gadgetbytenepal.com/samsung-galaxy-z-fold-6-review/",
+    "specSource": "https://www.gadgetbytenepal.com/samsung-galaxy-z-fold-7-price-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/samsung-galaxy-z-fold-7-price-nepal/",
+    "price": 259999,
+    "variant": "12 / 256GB",
+    "image": "phone-samsung-galaxy-z-fold-7.jpg",
+    "assessment": {
+      "tier": "Flagship",
+      "fiveG": true,
+      "battery": 4400,
+      "refresh": 120,
+      "oled": true,
+      "performance": "The listed chipset belongs to a high-end family. It is a strong starting point for demanding apps, multitasking, and games, although sustained speed depends on cooling and software.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "The named storage variant makes price comparisons more specific."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
+  },
+  {
+    "name": "Galaxy Z Fold 8",
+    "brand": "Samsung",
+    "source": "https://gadgetbytenepal.com/samsung-galaxy-z-fold-8-price-in-nepal/",
+    "variants": [
+      {
+        "label": "12 / 256GB",
+        "price": 274999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "samsung-galaxy-z-fold-8",
+    "specs": {
+      "display": "Folded: 5.5-inch Dynamic LTPO AMOLED 2X, 1248 × 1972 pixels, 120Hz, 3,000 nits peak, Corning Gorilla Ceramic 2",
+      "chipset": "Snapdragon 8 Elite Gen 5 for Galaxy",
+      "memory": "12GB RAM (256/512GB variant), 16GB RAM (1TB variant) storage (non-expandable)",
+      "software": "One UI 9 based on Android 17",
+      "camera": "Dual (50MP primary with OIS, 50MP ultrawide, 8K video recording at 30fps)",
+      "selfie": "Dual (10MP main display, 10MP cover display)",
+      "battery": "4,800 mAh with 45W wired, 20W wireless, and 4.5W reverse wireless charging",
+      "connectivity": "Dual-SIM (Nano), WiFi 7, Bluetooth 6.0, aptX HD, USB-C, OTG, NFC, 5G",
+      "build": "Armor aluminum frame, 201 gm, IP48 rating Folded: 181.9 x 123.9 x 9.7 mm",
+      "security": "Fingerprint sensor (side-mounted)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/07/Samsung-Galaxy-Z-Fold-8-Price-Nepal-1.jpg",
+    "review": null,
+    "specSource": "https://gadgetbytenepal.com/samsung-galaxy-z-fold-8-price-in-nepal/",
+    "imageSource": "https://gadgetbytenepal.com/samsung-galaxy-z-fold-8-price-in-nepal/",
+    "price": 274999,
+    "variant": "12 / 256GB",
+    "image": "phone-samsung-galaxy-z-fold-8.jpg",
+    "assessment": {
+      "tier": "Flagship",
+      "fiveG": true,
+      "battery": 4800,
+      "refresh": 120,
+      "oled": true,
+      "performance": "The listed chipset belongs to a high-end family. It is a strong starting point for demanding apps, multitasking, and games, although sustained speed depends on cooling and software.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "The named storage variant makes price comparisons more specific."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
+  },
+  {
+    "name": "Galaxy Z Fold 8 Ultra",
+    "brand": "Samsung",
+    "source": "https://gadgetbytenepal.com/samsung-galaxy-z-fold-8-ultra-price-in-nepal/",
+    "variants": [
+      {
+        "label": "12 / 256GB",
+        "price": 299999
+      },
+      {
+        "label": "12 / 512GB",
+        "price": 339999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "samsung-galaxy-z-fold-8-ultra",
+    "specs": {
+      "display": "Folded: 6.5-inch Dynamic LTPO AMOLED 2X, 1080 × 2520 pixels, 120Hz, up to 3,000 nits peak, Corning Gorilla Ceramic 3",
+      "chipset": "Snapdragon 8 Elite Gen 5 for Galaxy (3nm)",
+      "memory": "12/16GB RAM, 256/512GB/1TB UFS 4 storage (non-expandable)",
+      "software": "One UI 9 based on Android 17",
+      "camera": "Triple (200MP primary sensor with OIS, 50MP ultrawide camera, 10MP telephoto lens)",
+      "selfie": "Dual (10MP main display, 10MP cover display)",
+      "battery": "5,000 mAh with 45W wired, 20W wireless, and 4.5W reverse wireless charging",
+      "connectivity": "Dual-SIM (Nano), WiFi 7, Bluetooth 6.0, aptX HD, USB-C, OTG, NFC, 5G",
+      "build": "Armor aluminum frame, 215 gm, IP48 rating Folded: 158.4 x 72.8 x 8.9 mm",
+      "security": "Fingerprint sensor (side-mounted)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/07/Samsung-Galaxy-Z-Fold8-Ultra-Price-Nepal.jpg",
+    "review": null,
+    "specSource": "https://gadgetbytenepal.com/samsung-galaxy-z-fold-8-ultra-price-in-nepal/",
+    "imageSource": "https://gadgetbytenepal.com/samsung-galaxy-z-fold-8-ultra-price-in-nepal/",
+    "price": 299999,
+    "variant": "12 / 256GB",
+    "image": "phone-samsung-galaxy-z-fold-8-ultra.jpg",
+    "assessment": {
+      "tier": "Flagship",
+      "fiveG": true,
+      "battery": 5000,
+      "refresh": 120,
+      "oled": true,
+      "performance": "The listed chipset belongs to a high-end family. It is a strong starting point for demanding apps, multitasking, and games, although sustained speed depends on cooling and software.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "The named storage variant makes price comparisons more specific."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
+  },
+  {
+    "name": "Honor X7e",
+    "brand": "Honor",
+    "source": "https://gadgetbytenepal.com/honor-x7e-price-nepal/",
+    "variants": [
+      {
+        "label": "6 / 256GB",
+        "price": 39999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "honor-x7e",
+    "specs": {
+      "display": "6.61-inch TFT LCD screen, HD+(720 x 1604 pixels), 120Hz refresh rate, 1010 nits (HDR)",
+      "chipset": "MediaTek Helio G81 Ultra (12nm)",
+      "memory": "Up to 8GB RAM, up to 256GB storage (non-expandable)",
+      "software": "MagicOS 10 on top of Android 16",
+      "camera": "Dual (50MP primary, Auxiliary lens)",
+      "selfie": "5MP sensor (hole-punch)",
+      "battery": "7500 mAh with 45W fast wired charging, 7.5 reverse wired charging",
+      "connectivity": "Dual-SIM (Nano), WiFi 5 (Dual-band), Bluetooth 5.1, USB-C, 4G LTE",
+      "build": "163.9 x 75.9 x 8.3 mm, 200 gm, IP64 rated",
+      "security": "Fingerprint (Side-mounted)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/06/Honor-X7e-Price-in-Nepal.jpg",
+    "review": null,
+    "specSource": "https://gadgetbytenepal.com/honor-x7e-price-nepal/",
+    "imageSource": "https://gadgetbytenepal.com/honor-x7e-price-nepal/",
+    "price": 39999,
+    "variant": "6 / 256GB",
+    "image": "phone-honor-x7e.jpg",
+    "assessment": {
+      "tier": "Everyday",
+      "fiveG": false,
+      "battery": 7500,
+      "refresh": 120,
+      "oled": false,
+      "performance": "Treat this as an everyday-use option for messaging, calls, browsing, and lighter apps. Check a model-specific gaming test before choosing it for demanding titles.",
+      "pros": [
+        "Compare the listed screen size and panel type for your viewing needs.",
+        "Consider it primarily for the listed mobile network support.",
+        "A battery capacity of at least 5,500mAh is listed."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "5G support is not confirmed in the collected specifications.",
+        "Do not assume flagship gaming performance from RAM capacity alone."
+      ]
+    }
+  },
+  {
+    "name": "Honor X8d",
+    "brand": "Honor",
+    "source": "https://www.gadgetbytenepal.com/honor-x8d-price-nepal/",
+    "variants": [
+      {
+        "label": "8 / 128GB",
+        "price": 39999
+      },
+      {
+        "label": "8 / 256GB",
+        "price": 43999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "honor-x8d",
+    "specs": {
+      "display": "6.77-inch AMOLED screen, FHD+, 120Hz refresh rate",
+      "chipset": "Qualcomm Snapdragon 6s 4G Gen 2 (6nm mobile platform)",
+      "memory": "8GB RAM, 128GB storage (expandable)",
+      "software": "MagicOS 10 on top of Android 16",
+      "camera": "Dual (108MP primary, 5MP ultrawide)",
+      "selfie": "16MP sensor (hole-punch)",
+      "battery": "7000mAh with 45W charging (45W power adapter provided)",
+      "connectivity": "Dual-SIM (Nano), WiFi 5 (Dual-band), Bluetooth 5.0, USB-C 2.0, 4G",
+      "build": "162.9 × 76.3 × 7.5mm, 188 gm, IP65 rated",
+      "security": "Fingerprint sensor (side-mounted)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/03/Honor-X8d-Price-in-Nepal.jpg",
+    "review": null,
+    "specSource": "https://www.gadgetbytenepal.com/honor-x8d-price-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/honor-x8d-price-nepal/",
+    "price": 39999,
+    "variant": "8 / 128GB",
+    "image": "phone-honor-x8d.jpg",
+    "assessment": {
+      "tier": "Balanced",
+      "fiveG": false,
+      "battery": 7000,
+      "refresh": 120,
+      "oled": true,
+      "performance": "This hardware targets everyday multitasking and lighter gaming. Start demanding games at modest settings; smoothness will vary by title and software.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "Consider it primarily for the listed mobile network support.",
+        "A battery capacity of at least 5,500mAh is listed."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "5G support is not confirmed in the collected specifications.",
+        "Do not assume flagship gaming performance from RAM capacity alone."
+      ]
+    }
+  },
+  {
+    "name": "Honor X9d",
+    "brand": "Honor",
+    "source": "https://www.gadgetbytenepal.com/honor-x9d-price-nepal/",
+    "variants": [
+      {
+        "label": "8 / 256GB",
+        "price": 54999
+      },
+      {
+        "label": "12 / 256GB",
+        "price": 59999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "honor-x9d",
+    "specs": {
+      "display": "6.79-inch AMOLED screen, FHD+, 120Hz refresh rate, HONOR Ultra-Bounce Anti-Drop Display",
+      "chipset": "Qualcomm Snapdragon 6 Gen 4 (4nm mobile platform)",
+      "memory": "8/12GB RAM, 256/512GB storage (non-expandable)",
+      "software": "MagicOS 9.0 on top of Android 15",
+      "camera": "Dual (108MP primary, 5MP ultrawide)",
+      "selfie": "16MP sensor (hole-punch)",
+      "battery": "8300mAh with 66W charging (66W power adapter provided)",
+      "connectivity": "Dual SIM (Nano), WiFi 6 (Dual-band), Bluetooth 5.2, USB-C 2.0, 4G LTE, 5G",
+      "build": "161.9 × 76.1 × 7.76 mm, 193g, IP69K + IP68 + IP66 rated",
+      "security": "Fingerprint sensor (optical in-display)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2025/09/Honor-X9d-Price-in-Nepal.jpg",
+    "review": null,
+    "specSource": "https://www.gadgetbytenepal.com/honor-x9d-price-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/honor-x9d-price-nepal/",
+    "price": 54999,
+    "variant": "8 / 256GB",
+    "image": "phone-honor-x9d.jpg",
+    "assessment": {
+      "tier": "Balanced",
+      "fiveG": true,
+      "battery": 8300,
+      "refresh": 120,
+      "oled": true,
+      "performance": "This hardware targets everyday multitasking and lighter gaming. Start demanding games at modest settings; smoothness will vary by title and software.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "A battery capacity of at least 5,500mAh is listed."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "Do not assume flagship gaming performance from RAM capacity alone."
+      ]
+    }
+  },
+  {
+    "name": "Honor 600 Lite",
+    "brand": "Honor",
+    "source": "https://www.gadgetbytenepal.com/honor-600-lite-price-in-nepal/",
+    "variants": [
+      {
+        "label": "8 / 256GB",
+        "price": 59999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "honor-600-lite",
+    "specs": {
+      "display": "6.6-inch AMOLED screen, 1.5K, 120Hz refresh rate, Aluminosilicate glass",
+      "chipset": "MediaTek Dimensity 7100 Elite (6nm mobile platform)",
+      "memory": "8GB RAM, 256GB storage (non-expandable)",
+      "software": "MagicOS 10 on top of Android 16",
+      "camera": "Dual (108MP primary, 5MP ultrawide)",
+      "selfie": "16MP sensor",
+      "battery": "6520mAh with 45W charging (45W power adapter provided)",
+      "connectivity": "Dual-SIM (Nano + eSIM), Wi-Fi 5 (Dual-band), Bluetooth 6.0, USB-C, 5G",
+      "build": "157.43 × 75.35 × 7.34 mm, 180 gm, IP66 rating",
+      "security": "Fingerprint sensor (optical in-display)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/03/Honor-600-Lite-price-in-nepal.png",
+    "review": null,
+    "specSource": "https://www.gadgetbytenepal.com/honor-600-lite-price-in-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/honor-600-lite-price-in-nepal/",
+    "price": 59999,
+    "variant": "8 / 256GB",
+    "image": "phone-honor-600-lite.jpg",
+    "assessment": {
+      "tier": "Performance",
+      "fiveG": true,
+      "battery": 6520,
+      "refresh": 120,
+      "oled": true,
+      "performance": "The listed chipset targets performance-focused daily use. It should suit multitasking and many games, with graphics settings adjusted for heavier titles.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "A battery capacity of at least 5,500mAh is listed."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
+  },
+  {
+    "name": "Honor 600",
+    "brand": "Honor",
+    "source": "https://www.gadgetbytenepal.com/honor-600-price-in-nepal/",
+    "variants": [
+      {
+        "label": "8 / 256GB",
+        "price": 84999
+      },
+      {
+        "label": "12 / 256GB",
+        "price": 89999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "honor-600",
+    "specs": {
+      "display": "6.57-inch flat AMOLED, 2728 × 1264 pixels, 1B colors, 120Hz, 3840Hz PWM, HDR Vivid, 8,000 nits (peak)",
+      "chipset": "Snapdragon 7 Gen 4 (4nm)",
+      "memory": "8/12GB RAM, 256/512GB storage",
+      "software": "MagicOS 10 based on Android 16",
+      "camera": "200MP main, f/1.9, OIS + 12MP ultrawide, 112° FoV, AF",
+      "selfie": "50MP, f/2.0 wide, 4K video",
+      "battery": "7000mAh, 80W wired, 27W reverse wired",
+      "connectivity": "Wi-Fi 7, Bluetooth 5.4, USB-C, 5G, e-SIM,",
+      "build": "156.0 x 74.7 x 7.8 mm, Glass back, aluminum frame, IP68/IP69/IP69K rating, 190 gm",
+      "security": "Optical in-display fingerprint sensor, 2D face unlock"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/05/Honor-600-Price-in-Nepal-2026.jpg",
+    "review": null,
+    "specSource": "https://www.gadgetbytenepal.com/honor-600-price-in-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/honor-600-price-in-nepal/",
+    "price": 84999,
+    "variant": "8 / 256GB",
+    "image": "phone-honor-600.jpg",
+    "assessment": {
+      "tier": "Performance",
+      "fiveG": true,
+      "battery": 7000,
+      "refresh": 120,
+      "oled": true,
+      "performance": "The listed chipset targets performance-focused daily use. It should suit multitasking and many games, with graphics settings adjusted for heavier titles.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "A battery capacity of at least 5,500mAh is listed."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
+  },
+  {
+    "name": "Honor 600 Pro",
+    "brand": "Honor",
+    "source": "https://www.gadgetbytenepal.com/honor-600-pro-price-in-nepal/",
+    "variants": [
+      {
+        "label": "12 / 256GB",
+        "price": 129999
+      },
+      {
+        "label": "12 / 512GB",
+        "price": 149999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "honor-600-pro",
+    "specs": {
+      "display": "6.57-inch flat AMOLED, 2728 × 1264 pixels, 1B colors, 120Hz, 3840Hz PWM, HDR Vivid, 8000 nits (peak)",
+      "chipset": "Snapdragon 8 Elite (3nm)",
+      "memory": "12/16GB RAM; up to 1TB storage",
+      "software": "MagicOS 10 based on Android 16",
+      "camera": "200MP main, f/1.9, OIS + 50MP, f/2.8 telephoto lens with 3.5x optical zoom, 12MP f/2.2, 112° ultrawide, AF",
+      "selfie": "50MP, f/2.0 wide, 4K video",
+      "battery": "7000mAh, 80W wired, 50W wireless, 27W reverse wired",
+      "connectivity": "Wi-Fi 7, Bluetooth 5.4, USB-C, 5G, e-SIM",
+      "build": "156.0 x 74.7 x 7.8mm, Glass back, aluminum frame, IP68/IP69/IP69K rating",
+      "security": "Optical in-display fingerprint sensor, 2D face unlock"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/05/Honor-600-Pro-Price-in-Nepal-2026.jpg",
+    "review": null,
+    "specSource": "https://www.gadgetbytenepal.com/honor-600-pro-price-in-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/honor-600-pro-price-in-nepal/",
+    "price": 129999,
+    "variant": "12 / 256GB",
+    "image": "phone-honor-600-pro.jpg",
+    "assessment": {
+      "tier": "Flagship",
+      "fiveG": true,
+      "battery": 7000,
+      "refresh": 120,
+      "oled": true,
+      "performance": "The listed chipset belongs to a high-end family. It is a strong starting point for demanding apps, multitasking, and games, although sustained speed depends on cooling and software.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "A battery capacity of at least 5,500mAh is listed."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
+  },
+  {
+    "name": "Honor Magic 8 Pro",
+    "brand": "Honor",
+    "source": "https://www.gadgetbytenepal.com/honor-magic-8-pro-price-nepal/",
+    "variants": [
+      {
+        "label": "12 / 512GB",
+        "price": 179999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "honor-magic-8-pro",
+    "specs": {
+      "display": "6.71-inch LTPO OLED screen, FHD+, 120Hz refresh rate, Honor NanoCrystal Sheild",
+      "chipset": "Qualcomm Snapdragon 8 Elite Gen 5 (3nm mobile platform)",
+      "memory": "12/16GB RAM, Up to 1TB storage (non-expandable)",
+      "software": "MagicOS 10 on top of Android 16",
+      "camera": "Triple (50MP primary, 200MP 3.7x periscope, 50MP ultrawide)",
+      "selfie": "50MP sensor (pill-shaped cutout)",
+      "battery": "7100mAh with 100W charging (100W power adapter provided)",
+      "connectivity": "Dual-SIM (Nano), WiFi 7 (Tri-band), Bluetooth 6.0, USB-C, 4G LTE, 5G",
+      "build": "161.15 x 75 x 8.32 mm, 219 gm, IP68 + IP69 + IP69K rated",
+      "security": "Fingerprint sensor (ultrasonic in-display)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/04/Honor-Magic-8-Pro-camera.jpg",
+    "review": null,
+    "specSource": "https://www.gadgetbytenepal.com/honor-magic-8-pro-price-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/honor-magic-8-pro-price-nepal/",
+    "price": 179999,
+    "variant": "12 / 512GB",
+    "image": "phone-honor-magic-8-pro.jpg",
+    "assessment": {
+      "tier": "Flagship",
+      "fiveG": true,
+      "battery": 7100,
+      "refresh": 120,
+      "oled": true,
+      "performance": "The listed chipset belongs to a high-end family. It is a strong starting point for demanding apps, multitasking, and games, although sustained speed depends on cooling and software.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "A battery capacity of at least 5,500mAh is listed."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
+  },
+  {
+    "name": "Honor Magic V5",
+    "brand": "Honor",
+    "source": "https://www.gadgetbytenepal.com/honor-magic-v5-price-nepal/",
+    "variants": [
+      {
+        "label": "16 / 512GB",
+        "price": 266999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "honor-magic-v5",
+    "specs": {
+      "display": "Inner : 7.95-inch AMOLED screen, QHD+, 120Hz refresh rate, Honor King Kong Flexible Armor Glass",
+      "chipset": "Qualcomm Snapdragon 8 Elite (3nm mobile platform)",
+      "memory": "16GB RAM, 512GB storage (non-expandable)",
+      "software": "MagicOS 9.0.1 on top of Android 15",
+      "camera": "Triple (50MP main, 64MP telephoto, 50MP ultrawide)",
+      "selfie": "20MP sensor (hole-punch, cover display + main display)",
+      "battery": "5820mAh with 66W charging (66W power adapter provided)",
+      "connectivity": "Dual-SIM (Nano), WiFi 7 (Tri-band), Bluetooth 6.0, USB-C, 5G",
+      "build": "Unfolded : 156.8 x 145.9 x 4.1 – 4.2 mm, 217-222 gm, IP58 + IP59 rated",
+      "security": "Fingerprint sensor (side-mounted)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2025/07/Honor-Magic-V5-price-in-nepal.jpg",
+    "review": null,
+    "specSource": "https://www.gadgetbytenepal.com/honor-magic-v5-price-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/honor-magic-v5-price-nepal/",
+    "price": 266999,
+    "variant": "16 / 512GB",
+    "image": "phone-honor-magic-v5.jpg",
+    "assessment": {
+      "tier": "Flagship",
+      "fiveG": true,
+      "battery": 5820,
+      "refresh": 120,
+      "oled": true,
+      "performance": "The listed chipset belongs to a high-end family. It is a strong starting point for demanding apps, multitasking, and games, although sustained speed depends on cooling and software.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "A battery capacity of at least 5,500mAh is listed."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
+  },
+  {
+    "name": "Vivo V80 Lite 5G",
+    "brand": "Vivo",
+    "source": "https://www.gadgetbytenepal.com/vivo-v80-lite-5g-price-in-nepal/",
+    "variants": [
+      {
+        "label": "8 / 128GB",
+        "price": 63999
+      },
+      {
+        "label": "8 / 256GB",
+        "price": 73999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "vivo-v80-lite-5g",
+    "specs": {
+      "display": "6.83-inch AMOLED, 1.5K (1260 x 2800 pixels), Up to 120Hz refresh rate, 2000 nits (HBM), 3,000 nits (peak)",
+      "chipset": "MediaTek Dimensity 7360 Turbo (4nm)",
+      "memory": "Up to 8GB RAM, up to 256GB UFS 3.1 storage",
+      "software": "OriginOS 6, Android 16",
+      "camera": "Dual (50MP main, 2MP depth sensor)",
+      "selfie": "32MP sensor (hole-punch)",
+      "battery": "Li-Ion 7,050mAh with 44W wired charging, reverse wired charging, bypass Charging",
+      "connectivity": "Dual-SIM, Wi-Fi 6 (Dual-band), Bluetooth 5.4, USB-C, 5G",
+      "build": "IP68/IP69 rated Sapphire Blue: 164.42 × 75.25 × 7.99 mm, 197 gm",
+      "security": "Fingerprint (Under-display, Optical)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/08/Vivo-V80-Lite-5G-Price-in-Nepal.jpg",
+    "review": null,
+    "specSource": "https://www.gadgetbytenepal.com/vivo-v80-lite-5g-price-in-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/vivo-v80-lite-5g-price-in-nepal/",
+    "price": 63999,
+    "variant": "8 / 128GB",
+    "image": "phone-vivo-v80-lite-5g.jpg",
+    "assessment": {
+      "tier": "Performance",
+      "fiveG": true,
+      "battery": 7050,
+      "refresh": 120,
+      "oled": true,
+      "performance": "The listed chipset targets performance-focused daily use. It should suit multitasking and many games, with graphics settings adjusted for heavier titles.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "A battery capacity of at least 5,500mAh is listed."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
+  },
+  {
+    "name": "Vivo V60 5G",
+    "brand": "Vivo",
+    "source": "https://www.gadgetbytenepal.com/vivo-v60-price-nepal/",
+    "variants": [
+      {
+        "label": "12 / 256GB",
+        "price": 74999
+      },
+      {
+        "label": "12 / 512GB",
+        "price": 79999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "vivo-v60-5g",
+    "specs": {
+      "display": "6.77-inch AMOLED screen, FHD+, 120Hz refresh rate, Schott Xensation Core",
+      "chipset": "Qualcomm Snapdragon 7 Gen 4 (4nm mobile platform)",
+      "memory": "12GB RAM, 256/512GB storage (non-expandable)",
+      "software": "Origin OS on top of Android 16",
+      "camera": "Triple (50MP primary, 50MP 3x telephoto, 8MP ultrawide)",
+      "selfie": "50MP sensor (hole-punch)",
+      "battery": "6500 mAh with 90W charging (90W power adapter provided)",
+      "connectivity": "Dual-SIM (Nano), WiFi 6 (Dual-band), Bluetooth 5.4, USB-C, 4G LTE, 5G",
+      "build": "163.5 x 77 x 7.5 - 7.8 mm, 192 - 201 gm, IP68 + IP69 rated",
+      "security": "Fingerprint sensor (optical in-display)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2025/08/Vivo-V60-Price-in-Nepal-2025.jpg",
+    "review": null,
+    "specSource": "https://www.gadgetbytenepal.com/vivo-v60-price-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/vivo-v60-price-nepal/",
+    "price": 74999,
+    "variant": "12 / 256GB",
+    "image": "phone-vivo-v60-5g.jpg",
+    "assessment": {
+      "tier": "Performance",
+      "fiveG": true,
+      "battery": 6500,
+      "refresh": 120,
+      "oled": true,
+      "performance": "The listed chipset targets performance-focused daily use. It should suit multitasking and many games, with graphics settings adjusted for heavier titles.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "A battery capacity of at least 5,500mAh is listed."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
+  },
+  {
+    "name": "Vivo V70 5G",
+    "brand": "Vivo",
+    "source": "https://www.gadgetbytenepal.com/vivo-v70-price-nepal/",
+    "variants": [
+      {
+        "label": "8 / 256GB",
+        "price": 84999
+      },
+      {
+        "label": "12 / 256GB",
+        "price": 102999
+      },
+      {
+        "label": "12 / 512GB",
+        "price": 122999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "vivo-v70-5g",
+    "specs": {
+      "display": "6.59-inch AMOLED screen, 1.5K, 120Hz refresh rate, Schott Xensation Core",
+      "chipset": "Qualcomm Snapdragon 7 Gen 4 (4nm mobile platform)",
+      "memory": "8/12GB RAM, 128/256/512GB storage (non-expandable)",
+      "software": "Origin OS 6 on top of Android 16",
+      "camera": "Triple (50MP primary, 50MP 3x periscope, 8MP ultrawide)",
+      "selfie": "50MP sensor (hole-punch)",
+      "battery": "6500 mAh with 90W charging (90W power adapter provided)",
+      "connectivity": "Dual-SIM (Nano), WiFi 6 (Dual-band), Bluetooth 5.4, USB-C 2.0, 5G",
+      "build": "157.5 x 74.3 x 7.4 mm, 187 gm, IP68 + IP69 rated",
+      "security": "Fingerprint sensor (ultrasonic in-display)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/04/Vivo-V70-Price-in-Nepal-2026.jpg",
+    "review": null,
+    "specSource": "https://www.gadgetbytenepal.com/vivo-v70-price-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/vivo-v70-price-nepal/",
+    "price": 84999,
+    "variant": "8 / 256GB",
+    "image": "phone-vivo-v70-5g.jpg",
+    "assessment": {
+      "tier": "Performance",
+      "fiveG": true,
+      "battery": 6500,
+      "refresh": 120,
+      "oled": true,
+      "performance": "The listed chipset targets performance-focused daily use. It should suit multitasking and many games, with graphics settings adjusted for heavier titles.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "A battery capacity of at least 5,500mAh is listed."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
+  },
+  {
+    "name": "Vivo X300 Pro",
+    "brand": "Vivo",
+    "source": "https://gadgetbytenepal.com/vivo-x300-pro-price-nepal/",
+    "variants": [
+      {
+        "label": "16 / 512GB",
+        "price": 199999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "vivo-x300-pro",
+    "specs": {
+      "display": "6.78-inch LTPO AMOLED screen, 1.5K, 120Hz refresh rate, Armor Glass",
+      "chipset": "MediaTek Dimensity 9500 (3nm mobile platform)",
+      "memory": "16GB LPDDR5X RAM, 512GB UFS 4.1 storage (non-expandable)",
+      "software": "OriginOS 6 on top of Android 16",
+      "camera": "Triple (50MP primary, 200MP 3.5x periscope, 50MP ultrawide)",
+      "selfie": "50MP sensor (hole-punch)",
+      "battery": "6510mAh with 90W charging (90W power adapter provided)",
+      "connectivity": "Dual-SIM (Nano), WiFi 7 (Dual-band), Bluetooth 6.0, USB-C, 4G LTE, 5G",
+      "build": "161.98 x 75.48 x 7.99 mm, 226 gm, IP68 + IP69 rated",
+      "security": "Fingerprint sensor (ultrasonic in-display)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/09/Vivo-X300-Pro-Price-in-Nepal.png",
+    "review": "https://www.gadgetbytenepal.com/vivo-x300-pro-review/",
+    "specSource": "https://gadgetbytenepal.com/vivo-x300-pro-price-nepal/",
+    "imageSource": "https://gadgetbytenepal.com/vivo-x300-pro-price-nepal/",
+    "price": 199999,
+    "variant": "16 / 512GB",
+    "image": "phone-vivo-x300-pro.jpg",
+    "assessment": {
+      "tier": "Flagship",
+      "fiveG": true,
+      "battery": 6510,
+      "refresh": 120,
+      "oled": true,
+      "performance": "The listed chipset belongs to a high-end family. It is a strong starting point for demanding apps, multitasking, and games, although sustained speed depends on cooling and software.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "A battery capacity of at least 5,500mAh is listed."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
+  },
+  {
+    "name": "Realme C85 Pro",
+    "brand": "Realme",
+    "source": "https://www.gadgetbytenepal.com/realme-c85-pro-price-nepal/",
+    "variants": [
+      {
+        "label": "8 / 128GB",
+        "price": 36999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "realme-c85-pro",
+    "specs": {
+      "display": "6.8-inch AMOLED screen, FHD+, 120Hz refresh rate",
+      "chipset": "Qualcomm Snapdragon 685 (6nm mobile platform)",
+      "memory": "8GB RAM, 128GB storage (expandable)",
+      "software": "Realme UI 6.0 on top of Android 15",
+      "camera": "Single (50MP main)",
+      "selfie": "8MP (hole-punch)",
+      "battery": "7000mAh with 45W charging (power adapter provided)",
+      "connectivity": "Dual-SIM (Nano), WiFi 5 (dual-band), Bluetooth 5.0, USB-C, 4G LTE",
+      "build": "164.4 x 78 x 8.1 mm, 205 g, IP66/IP68/IP69/IP69K rated",
+      "security": "Fingerprint sensor (Optical In-display)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/05/Realme-C85-Pro-Price-in-Nepal.png",
+    "review": null,
+    "specSource": "https://www.gadgetbytenepal.com/realme-c85-pro-price-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/realme-c85-pro-price-nepal/",
+    "price": 36999,
+    "variant": "8 / 128GB",
+    "image": "phone-realme-c85-pro.jpg",
+    "assessment": {
+      "tier": "Balanced",
+      "fiveG": false,
+      "battery": 7000,
+      "refresh": 120,
+      "oled": true,
+      "performance": "This hardware targets everyday multitasking and lighter gaming. Start demanding games at modest settings; smoothness will vary by title and software.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "Consider it primarily for the listed mobile network support.",
+        "A battery capacity of at least 5,500mAh is listed."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "5G support is not confirmed in the collected specifications.",
+        "Do not assume flagship gaming performance from RAM capacity alone."
+      ]
+    }
+  },
+  {
+    "name": "Realme P3",
+    "brand": "Realme",
+    "source": "https://www.gadgetbytenepal.com/realme-p3-5gprice-in-nepal/",
+    "variants": [
+      {
+        "label": "8 / 256GB",
+        "price": 44999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "realme-p3",
+    "specs": {
+      "display": "6.67-inch AMOLED screen, FHD+, 120Hz refresh rate",
+      "chipset": "Qualcomm Snapdragon 6 Gen 4 (4 nm)",
+      "memory": "8GB RAM, 256GB storage (expandable)",
+      "software": "Realme UI 6.0 on top of Android 15",
+      "camera": "Single (50MP main)",
+      "selfie": "16MP (hole-punch)",
+      "battery": "6000mAh with 45W charging",
+      "connectivity": "Dual-SIM (Nano), WiFi 6 (Dual-band), Bluetooth 5.2, USB-C, 4G LTE, 5G",
+      "build": "75.65 x 7.98 x 163.15 mm, 169 gm, IP69 rated",
+      "security": "Fingerprint sensor (Optical, in-display)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/06/Realme-P3-5G-Price-in-Nepal.png",
+    "review": null,
+    "specSource": "https://www.gadgetbytenepal.com/realme-p3-5gprice-in-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/realme-p3-5gprice-in-nepal/",
+    "price": 44999,
+    "variant": "8 / 256GB",
+    "image": "phone-realme-p3.jpg",
+    "assessment": {
+      "tier": "Balanced",
+      "fiveG": true,
+      "battery": 6000,
+      "refresh": 120,
+      "oled": true,
+      "performance": "This hardware targets everyday multitasking and lighter gaming. Start demanding games at modest settings; smoothness will vary by title and software.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "A battery capacity of at least 5,500mAh is listed."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "Do not assume flagship gaming performance from RAM capacity alone."
+      ]
+    }
+  },
+  {
+    "name": "Realme P4",
+    "brand": "Realme",
+    "source": "https://www.gadgetbytenepal.com/realme-p4-4g-price-nepal/",
+    "variants": [
+      {
+        "label": "8 / 256GB",
+        "price": 45999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "realme-p4",
+    "specs": {
+      "display": "6.8-inch FHD+ AMOLED 120Hz, 900 nits (HBM), 4000 nits (APL)",
+      "chipset": "Snapdragon 685",
+      "memory": "8GB LPDDR4X RAM, 256GB EMMC 5.1 storage",
+      "software": "Realme UI",
+      "camera": "50MP f/1.8 main",
+      "selfie": "8MP f/2.0 (hole-punch cutout)",
+      "battery": "7,000 mAh battery with 45W wired charging",
+      "connectivity": "USB Type-C, 5G, Bluetooth 5.0, Wi-Fi 5",
+      "build": "164.40 x 77.99 x 8.09mm"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/10/Realme-P4-4G-Price-in-Nepal.png",
+    "review": null,
+    "specSource": "https://www.gadgetbytenepal.com/realme-p4-4g-price-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/realme-p4-4g-price-nepal/",
+    "price": 45999,
+    "variant": "8 / 256GB",
+    "image": "phone-realme-p4.jpg",
+    "assessment": {
+      "tier": "Balanced",
+      "fiveG": true,
+      "battery": 7000,
+      "refresh": 120,
+      "oled": true,
+      "performance": "This hardware targets everyday multitasking and lighter gaming. Start demanding games at modest settings; smoothness will vary by title and software.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "A battery capacity of at least 5,500mAh is listed."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "Do not assume flagship gaming performance from RAM capacity alone."
+      ]
+    }
+  },
+  {
+    "name": "Realme 16",
+    "brand": "Realme",
+    "source": "https://www.gadgetbytenepal.com/realme-16-5g-price-nepal/",
+    "variants": [
+      {
+        "label": "8 / 256GB",
+        "price": 64999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "realme-16",
+    "specs": {
+      "display": "6.57-inch AMOLED, FHD+ (1080×2372), 120Hz, 4500 nits peak, 100% DCI-P3, HDR",
+      "chipset": "MediaTek Dimensity 6400 Turbo, 6nm, Mali-G57 MC2 GPU",
+      "memory": "8GB LPDDR4x RAM, 256GB UFS 2.2, microSD expandable",
+      "software": "Android 16, Realme UI 7.0, Flux Engine",
+      "camera": "50MP f/1.8 PDAF (Sony IMX852) + 2MP auxiliary; 1080p@60fps gyro-EIS; rear selfie mirror, Aura Ring Flash",
+      "selfie": "50MP f/2.4; 1080p video",
+      "battery": "7000mAh silicon-carbon, 60W wired",
+      "connectivity": "5G, Wi-Fi 6, Bluetooth 5.3, NFC, USB-C 2.0, stereo speakers",
+      "build": "8.1mm thickness, 183g, plastic frame and back, AGC DT-Star D+ glass front, IP66 + IP68 + IP69 + IP69K; Air White / Air Black",
+      "security": "In-display ultrasonic fingerprint scanner, face unlock"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/04/Realme-16-5G-price-in-Nepal.jpg",
+    "review": null,
+    "specSource": "https://www.gadgetbytenepal.com/realme-16-5g-price-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/realme-16-5g-price-nepal/",
+    "price": 64999,
+    "variant": "8 / 256GB",
+    "image": "phone-realme-16.jpg",
+    "assessment": {
+      "tier": "Balanced",
+      "fiveG": true,
+      "battery": 7000,
+      "refresh": 120,
+      "oled": true,
+      "performance": "This hardware targets everyday multitasking and lighter gaming. Start demanding games at modest settings; smoothness will vary by title and software.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "A battery capacity of at least 5,500mAh is listed."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "Do not assume flagship gaming performance from RAM capacity alone."
+      ]
+    }
+  },
+  {
+    "name": "Realme P3 Ultra",
+    "brand": "Realme",
+    "source": "https://www.gadgetbytenepal.com/realme-p3-ultra-5g-price-nepal/",
+    "variants": [
+      {
+        "label": "12 / 256GB",
+        "price": 65999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "realme-p3-ultra",
+    "specs": {
+      "display": "6.83-inch AMOLED, 2800 × 1272 pixels resolution, 120Hz refresh rate, up to 1500 nits peak brightness, 240Hz touch sampling rate, 10-bit color depth, 100% DCI-P3",
+      "chipset": "MediaTek Dimensity 8350 Ultra (4nm)",
+      "memory": "12GB RAM, 256GB storage (non-expandable)",
+      "software": "realme UI 6.0 based on Android 15",
+      "camera": "50MP main, 8MP Ultra-wide camera",
+      "selfie": "16MP sensor (hole-punch)",
+      "battery": "6,000 mAh with 80W wired charging, 5W reverse wired, bypass charging",
+      "connectivity": "Dual-SIM (Nano), WiFi 6, Bluetooth 5.4, USB-C, 5G, GPS, GLONASS, GALILEO, BDS, QZSS, NFC",
+      "build": "163.1 x 76.9 x 7.4 mm (Neptune Blue & Onion Red) / 7.38 mm (Glowing Lunar White), 183g / 186g, quad-curved design, aerospace-grade VC cooling system, IP66/IP68/IP69 water and dust resistance",
+      "security": "Fingerprint (under-display optical)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/06/realme-P3-Ultra-5G-Price-Nepal.jpg",
+    "review": null,
+    "specSource": "https://www.gadgetbytenepal.com/realme-p3-ultra-5g-price-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/realme-p3-ultra-5g-price-nepal/",
+    "price": 65999,
+    "variant": "12 / 256GB",
+    "image": "phone-realme-p3-ultra.jpg",
+    "assessment": {
+      "tier": "Performance",
+      "fiveG": true,
+      "battery": 6000,
+      "refresh": 120,
+      "oled": true,
+      "performance": "The listed chipset targets performance-focused daily use. It should suit multitasking and many games, with graphics settings adjusted for heavier titles.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "A battery capacity of at least 5,500mAh is listed."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
+  },
+  {
+    "name": "Realme 15 Pro",
+    "brand": "Realme",
+    "source": "https://www.gadgetbytenepal.com/realme-15-pro-price-nepal/",
+    "variants": [
+      {
+        "label": "12 / 256GB",
+        "price": 66999
+      },
+      {
+        "label": "12 / 512GB",
+        "price": 71999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "realme-15-pro",
+    "specs": {
+      "display": "6.8″ AMOLED, 1B colors, 144Hz, 3840Hz PWM dimming, 6500 nits peak",
+      "chipset": "Snapdragon 7 Gen 4 (4nm, Adreno 722 GPU)",
+      "software": "Android 15 with Realme UI 6.0",
+      "camera": "50MP main (OIS) + 50MP ultrawide",
+      "selfie": "50MP, supports 4K@30fps",
+      "battery": "7000mAh Si/C Li‑Ion, 80W wired charging"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2025/07/Realme-15-pro-price-in-Nepal.jpg",
+    "review": null,
+    "specSource": "https://www.gadgetbytenepal.com/realme-15-pro-price-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/realme-15-pro-price-nepal/",
+    "price": 66999,
+    "variant": "12 / 256GB",
+    "image": "phone-realme-15-pro.jpg",
+    "assessment": {
+      "tier": "Performance",
+      "fiveG": false,
+      "battery": 7000,
+      "refresh": 144,
+      "oled": true,
+      "performance": "The listed chipset targets performance-focused daily use. It should suit multitasking and many games, with graphics settings adjusted for heavier titles.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "Consider it primarily for the listed mobile network support.",
+        "A battery capacity of at least 5,500mAh is listed."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "5G support is not confirmed in the collected specifications.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
+  },
+  {
+    "name": "Realme P4 Power",
+    "brand": "Realme",
+    "source": "https://www.gadgetbytenepal.com/realme-p4-power-price-nepal/",
+    "variants": [
+      {
+        "label": "12 / 256GB",
+        "price": 76999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "realme-p4-power",
+    "specs": {
+      "display": "6.8-inch quad-curved AMOLED, 1.5K (1280×2800), 144Hz refresh rate, 6,500 nits peak brightness, HDR10+, 1.07 billion colors, Corning Gorilla Glass 7i protection",
+      "chipset": "MediaTek Dimensity 7400 Ultra (4nm, up to 2.6 GHz Octa-core), Mali-G615 MC2 GPU",
+      "memory": "Up to 12GB LPDDR4X RAM (with virtual RAM), Up to 256GB UFS 3.1 storage",
+      "software": "Android 16, Realme UI 7.0, 3 years OS updates + 4 years security patches",
+      "camera": "50MP Sony IMX882 main (f/1.8, OIS), 8MP ultra-wide, 4K @ 30fps video",
+      "selfie": "16MP Sony IMX480",
+      "battery": "10,001mAh silicon-carbon Titan battery, 80W SuperVOOC fast charging, 27W reverse charging, Bypass charging",
+      "connectivity": "Dual-SIM 5G, Wi-Fi 5, Bluetooth 5.4, GPS/GLONASS/Beidou, USB-C, NFC",
+      "build": "9.08mm thickness, 219g weight, TransView split-back design (matte + transparent), IP66, IP68, IP69 ratings, Corning Gorilla Glass 7i, Drop-tested 1m, Colors: TransSilver, TransOrange, TransBlue",
+      "security": "In-display fingerprint scanner"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/01/Realme-P4-Power-5G-Price-in-nepal.jpg",
+    "review": null,
+    "specSource": "https://www.gadgetbytenepal.com/realme-p4-power-price-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/realme-p4-power-price-nepal/",
+    "price": 76999,
+    "variant": "12 / 256GB",
+    "image": "phone-realme-p4-power.jpg",
+    "assessment": {
+      "tier": "Performance",
+      "fiveG": true,
+      "battery": 10001,
+      "refresh": 144,
+      "oled": true,
+      "performance": "The listed chipset targets performance-focused daily use. It should suit multitasking and many games, with graphics settings adjusted for heavier titles.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "A battery capacity of at least 5,500mAh is listed."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
+  },
+  {
+    "name": "Realme GT8 Pro",
+    "brand": "Realme",
+    "source": "https://www.gadgetbytenepal.com/realme-gt8-pro-price-nepal/",
+    "variants": [
+      {
+        "label": "16 / 512GB",
+        "price": 149999
+      },
+      {
+        "label": "Aston Martin Edition",
+        "price": 159999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "realme-gt8-pro",
+    "specs": {
+      "display": "6.79-inch 2K OLED (1440 × 3136 pixels), 144Hz refresh rate, 7,000 nits peak brightness, 3,200Hz instantaneous touch sampling, 100% DCI-P3 color gamut",
+      "chipset": "Qualcomm Snapdragon 8 Elite Gen 5 (3nm), Adreno 840 GPU, Realme R1 graphics chip",
+      "memory": "12GB / 16GB LPDDR5X RAM, 256GB / 512GB / 1TB UFS 4.1 storage",
+      "software": "Android 16 with Realme UI 7.0",
+      "camera": "50MP main (1/1.56\" sensor, f/1.8, OIS, Ricoh GR co-engineered) • 200MP periscope telephoto (1/1.4\" Samsung HP5, f/2.6, 3x optical, 6x lossless zoom, dual-axis OIS) • 50MP ultrawide (f/2.0, 116° FOV), 8K video at 30fps",
+      "selfie": "32MP (f/2.4)",
+      "battery": "7,000mAh second-generation Titan battery (dual silicon-carbon cells) • 120W wired charging • 50W wireless charging • 50% charge in 15 minutes (wireless) • Full charge in under 45 minutes (wired)",
+      "connectivity": "5G SA/NSA, Dual 4G VoLTE, Wi-Fi 7 (802.11be), Bluetooth 6.0, NFC • USB Type-C, Infrared sensor, Sky Communication System with S1 chip",
+      "build": "Dimensions: 161.80 × 76.87 × 8.2mm (White) / 8.3mm (Blue, Green), Weight: 214g (Blue, Green) / 218g (White), Colors: White (AG frosted glass), Blue (recycled leather), Green (recycled leather), IP66 + IP68 + IP69 rating",
+      "security": "In-display ultrasonic fingerprint sensor"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2025/10/Realme-GT8-Pro-Price-in-Nepal.jpg",
+    "review": null,
+    "specSource": "https://www.gadgetbytenepal.com/realme-gt8-pro-price-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/realme-gt8-pro-price-nepal/",
+    "price": 149999,
+    "variant": "16 / 512GB",
+    "image": "phone-realme-gt8-pro.jpg",
+    "assessment": {
+      "tier": "Flagship",
+      "fiveG": true,
+      "battery": 7000,
+      "refresh": 144,
+      "oled": true,
+      "performance": "The listed chipset belongs to a high-end family. It is a strong starting point for demanding apps, multitasking, and games, although sustained speed depends on cooling and software.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "A battery capacity of at least 5,500mAh is listed."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
+  },
+  {
+    "name": "RedMagic 11 Pro",
+    "brand": "ZTE",
+    "source": "https://www.gadgetbytenepal.com/redmagic-11-pro-price-nepal/",
+    "variants": [
+      {
+        "label": "16 / 512GB",
+        "price": 164999
+      }
+    ],
+    "checked": "2026-10-31",
+    "slug": "redmagic-11-pro",
+    "specs": {
+      "display": "6.85-inch AMOLED screen, 1.5K, 144Hz refresh rate",
+      "chipset": "Qualcomm Snapdragon 8 Elite Gen 5 (3nm mobile platform)",
+      "memory": "16GB LPDDR5T RAM, 512GB UFS 4.1 Pro storage (non-expandable)",
+      "software": "RedMagic OS 11 on top of Android 16",
+      "camera": "Dual (50MP main, 50MP ultrawide)",
+      "selfie": "16MP sensor (in-display)",
+      "battery": "7,500 mAh with 80W wired charging (80W wireless charging support)",
+      "connectivity": "Dual-SIM (Nano), Tri-band WiFi 7, Bluetooth 5.4, GPS / Glonass / Galileo / BDS, USB-C, 4G LTE, 5G",
+      "build": "163.82 x 76.54 x 8.9 mm, 230 gm, IPX8 rating",
+      "security": "Fingerprint sensor (ultrasonic in-display)"
+    },
+    "imageUrl": "https://media.gadgetbytenepal.com/2026/03/RedMagic-11-Pro-Price-in-Nepal.jpg",
+    "review": null,
+    "specSource": "https://www.gadgetbytenepal.com/redmagic-11-pro-price-nepal/",
+    "imageSource": "https://www.gadgetbytenepal.com/redmagic-11-pro-price-nepal/",
+    "price": 164999,
+    "variant": "16 / 512GB",
+    "image": "phone-redmagic-11-pro.jpg",
+    "assessment": {
+      "tier": "Flagship",
+      "fiveG": true,
+      "battery": 7500,
+      "refresh": 144,
+      "oled": true,
+      "performance": "The listed chipset belongs to a high-end family. It is a strong starting point for demanding apps, multitasking, and games, although sustained speed depends on cooling and software.",
+      "pros": [
+        "OLED-family panel is listed for contrast-rich viewing.",
+        "5G connectivity is listed for compatible networks.",
+        "A battery capacity of at least 5,500mAh is listed."
+      ],
+      "cautions": [
+        "Store stock, local warranty, included charger, and final price need confirmation.",
+        "A fast chipset does not by itself establish battery life, camera quality, or sustained gaming performance."
+      ]
+    }
   }
 ]

@@ -24,10 +24,10 @@ function run(search=''){
  const context={window:{location,matchMedia(){return{matches:true};},addEventListener(){}},history:{replaceState(a,b,url){location.search=url.includes('?')?url.slice(url.indexOf('?')):'';}},URLSearchParams,setTimeout(fn){fn();return 1;},clearTimeout(){},document:{querySelector(s){return nodes[s]||null;}}};
  vm.runInNewContext(fs.readFileSync('store.js','utf8'),context);return{nodes,fields,location,visible:()=>order.filter(c=>!c.hidden)};
 }
-let page=run();assert.equal(page.visible().length,12);assert.match(page.nodes['#store-results'].textContent,/382 products/);page.nodes['#store-next'].listeners.click();assert.equal(page.visible()[0].dataset.storeOrder,'12');assert.match(page.location.search,/page=2/);
+let page=run();assert.equal(page.visible().length,12);assert.match(page.nodes['#store-results'].textContent,/411 products/);page.nodes['#store-next'].listeners.click();assert.equal(page.visible()[0].dataset.storeOrder,'12');assert.match(page.location.search,/page=2/);
 page=run('?department=laptops&sort=price-low');assert.equal(page.visible().length,10);assert(page.visible().every(c=>c.dataset.storeCategory==='laptops'));assert(Number(page.visible()[0].dataset.storePrice)<=Number(page.visible().at(-1).dataset.storePrice));
 page=run('?department=earbuds');assert.match(page.nodes['#store-results'].textContent,/50 products/);assert(page.visible().every(c=>c.dataset.storeCategory==='earbuds'));
 page=run('?budget=0-1000');assert(page.visible().every(c=>Number(c.dataset.storePrice)<1000));
 page=run('?q=not-a-real-product');assert.equal(page.visible().length,0);assert.equal(page.nodes['#store-empty'].hidden,false);
-page=run('?department=invalid&page=9999');assert.equal(page.fields.department.value,'All');assert.equal(page.visible().length,10);assert.match(page.nodes['#store-page'].textContent,/Page 32 of 32/);
-console.log('PASS: 382-product pagination, department filtering, proposed-price sorting, budgets, empty results, and invalid URL recovery.');
+page=run('?department=invalid&page=9999');assert.equal(page.fields.department.value,'All');assert.equal(page.visible().length,3);assert.match(page.nodes['#store-page'].textContent,/Page 35 of 35/);
+console.log('PASS: 411-product pagination, department filtering, proposed-price sorting, budgets, empty results, and invalid URL recovery.');

@@ -33,17 +33,17 @@ function run({search='',stored='[]',comparison=false,variant=false,brokenStorage
   vm.runInNewContext(fs.readFileSync('script.js','utf8'),context);
   return{nodes,fields,buttons,selectors,cards,location,store,visible(){return gridOrder.filter(c=>!c.hidden);}};
 }
-let page=run();assert.equal(page.visible().length,12);assert.match(page.nodes['#results-count'].textContent,/122 phones/);
+let page=run();assert.equal(page.visible().length,12);assert.match(page.nodes['#results-count'].textContent,/151 phones/);
 page.nodes['#next-page'].listeners.click();assert.match(page.nodes['#page-status'].textContent,/Page 2/);assert.match(page.location.search,/page=2/);assert.equal(page.visible()[0].dataset.order,'12');
 page.fields.brand.value='Samsung';page.fields.brand.listeners.change();assert(page.visible().every(c=>c.dataset.brand==='Samsung'));assert(!page.location.search.includes('page=2'));
 page.fields.q.value='no-such-phone';page.fields.q.listeners.input();assert.equal(page.visible().length,0);assert.equal(page.nodes['#empty-state'].hidden,false);
 page=run({search:'?budget=0-20000&sort=price-low'});assert(page.visible().length>0);assert(page.visible().every(c=>Number(c.dataset.price)<20000));assert(Number(page.visible()[0].dataset.price)<=Number(page.visible().at(-1).dataset.price));
 page=run({search:'?brand=Samsung&tier=Flagship'});assert(page.visible().every(c=>c.dataset.brand==='Samsung'&&c.dataset.tier==='Flagship'));
 page=run({search:'?fiveg=1&battery=1'});assert(page.visible().every(c=>c.dataset.fiveg==='true'&&Number(c.dataset.battery)>=5500));
-page=run({search:'?brand=not-real&page=9999'});assert.equal(page.fields.brand.value,'All');assert.equal(page.visible().length,2);assert.match(page.nodes['#page-status'].textContent,/Page 11 of 11/);
+page=run({search:'?brand=not-real&page=9999'});assert.equal(page.fields.brand.value,'All');assert.equal(page.visible().length,products.length%12||12);assert.equal(page.nodes['#page-status'].textContent,'Page '+Math.ceil(products.length/12)+' of '+Math.ceil(products.length/12));
 page=run({brokenStorage:true});assert.equal(page.visible().length,12);
 page=run();for(const b of page.buttons)b.listeners.click();assert.equal(JSON.parse(page.store.get('eakraj-compare')).length,3);assert.match(page.nodes['#compare-status'].textContent,/up to 3/);page.buttons[0].listeners.click();assert.equal(JSON.parse(page.store.get('eakraj-compare')).length,2);page.nodes['#clear-compare'].listeners.click();assert.equal(page.nodes['#compare-tray'].hidden,true);
 page=run({comparison:true,search:'?phones=iphone-16,galaxy-a56,unknown,iphone-16'});assert(page.nodes['#comparison-table'].innerHTML.includes('Galaxy A56'));assert(!page.nodes['#comparison-table'].innerHTML.includes('unknown'));assert.equal(page.selectors.filter(s=>s.value).length,2);
 page.selectors[1].value='iphone-16';page.selectors[1].listeners.change();assert.match(page.nodes['#comparison-message'].textContent,/already selected/);
 page=run({variant:true});const p=products.find(x=>x.variants.length>1),v=p.variants[1];page.nodes['#variant-select'].selectedOptions=[{value:v.label,dataset:{price:v.price}}];page.nodes['#variant-select'].listeners.change();assert(page.nodes['#variant-price'].textContent.includes(new Intl.NumberFormat('en-IN').format(v.price)));assert(decodeURIComponent(page.nodes['#variant-enquiry'].href).includes(v.label));
-console.log('PASS: 122-model pagination, combined filters, sorting, empty results, URL restoration, invalid URL values, blocked storage, comparison limit/removal/duplicates, and variant-price/enquiry updates.');
+console.log('PASS: 151-model pagination, combined filters, sorting, empty results, URL restoration, invalid URL values, blocked storage, comparison limit/removal/duplicates, and variant-price/enquiry updates.');

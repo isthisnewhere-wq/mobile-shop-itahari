@@ -1,6 +1,6 @@
 # Eakraj Mobile Shop catalog
 
-122 distinct phone models across 15 brands. Collected 31 October 2026; two retained models checked 30 October. Source prices are Nepal market references, not store offers. Overviews are specification-based, not hands-on reviews. Hardware classes use a documented chipset heuristic, not benchmarks.
+151 distinct phone models across 15 brands. Collected 31 October 2026; two retained models checked 30 October. Source prices are Nepal market references, not store offers. Overviews are specification-based, not hands-on reviews. Hardware classes use a documented chipset heuristic, not benchmarks.
 
 ## Model references
 
@@ -126,6 +126,35 @@
 - Realme Realme C85 5G: 8 / 128GB — NRs. 39,999; 8 / 256GB — NRs. 44,999. Specs/price: https://gadgetbytenepal.com/realme-c85-5g-price-nepal/ Photo: https://gadgetbytenepal.com/realme-c85-5g-price-nepal/
 - Samsung Galaxy A56 5G: 8GB / 256GB — NRs. 71,999; 12GB / 256GB — NRs. 77,999. Specs/price: https://www.gadgetbytenepal.com/samsung-galaxy-a56-price-nepal/ Photo: https://www.gadgetbytenepal.com/product/samsung-galaxy-a56-5g/ Independent review: https://www.gadgetbytenepal.com/samsung-galaxy-a56-review/
 - Xiaomi Redmi Note 14 4G: 6GB / 128GB — NRs. 23,999; 8GB / 256GB — NRs. 26,999. Specs/price: https://www.gadgetbytenepal.com/redmi-note-14-4g-price-nepal/ Photo: https://www.gadgetbytenepal.com/product/redmi-note-14-4g/
+- Samsung Galaxy S26: 12GB / 256GB — NRs. 1,39,999. Specs/price: https://www.gadgetbytenepal.com/samsung-galaxy-s26-price-in-nepal/ Photo: https://www.gadgetbytenepal.com/samsung-galaxy-s26-price-in-nepal/
+- Samsung Galaxy S26+: 12GB / 256GB — NRs. 1,59,999. Specs/price: https://www.gadgetbytenepal.com/samsung-galaxy-s26-plus-price-in-nepal/ Photo: https://www.gadgetbytenepal.com/samsung-galaxy-s26-plus-price-in-nepal/ Independent review: https://www.gadgetbytenepal.com/samsung-galaxy-s26-ultra-review/
+- Samsung Galaxy S26 Ultra: 12 / 256GB — NRs. 2,24,999; 12 / 512GB — NRs. 2,59,999; 16 / 1TB — NRs. 2,93,999. Specs/price: https://www.gadgetbytenepal.com/samsung-galaxy-s26-ultra-price-in-nepal/ Photo: https://www.gadgetbytenepal.com/samsung-galaxy-s26-ultra-price-in-nepal/ Independent review: https://www.gadgetbytenepal.com/samsung-galaxy-s26-ultra-review/
+- Samsung Galaxy Z Flip 7: 12 / 256GB — NRs. 1,54,999. Specs/price: https://www.gadgetbytenepal.com/galaxy-z-flip-7-price-nepal/ Photo: https://www.gadgetbytenepal.com/galaxy-z-flip-7-price-nepal/
+- Samsung Galaxy Z Flip 8: 12 / 256GB — NRs. 1,94,999. Specs/price: https://gadgetbytenepal.com/samsung-galaxy-z-flip-8-price-in-nepal/ Photo: https://gadgetbytenepal.com/samsung-galaxy-z-flip-8-price-in-nepal/
+- Samsung Galaxy Z Fold 7: 12 / 256GB — NRs. 2,59,999. Specs/price: https://www.gadgetbytenepal.com/samsung-galaxy-z-fold-7-price-nepal/ Photo: https://www.gadgetbytenepal.com/samsung-galaxy-z-fold-7-price-nepal/ Independent review: https://www.gadgetbytenepal.com/samsung-galaxy-z-fold-6-review/
+- Samsung Galaxy Z Fold 8: 12 / 256GB — NRs. 2,74,999. Specs/price: https://gadgetbytenepal.com/samsung-galaxy-z-fold-8-price-in-nepal/ Photo: https://gadgetbytenepal.com/samsung-galaxy-z-fold-8-price-in-nepal/
+- Samsung Galaxy Z Fold 8 Ultra: 12 / 256GB — NRs. 2,99,999; 12 / 512GB — NRs. 3,39,999. Specs/price: https://gadgetbytenepal.com/samsung-galaxy-z-fold-8-ultra-price-in-nepal/ Photo: https://gadgetbytenepal.com/samsung-galaxy-z-fold-8-ultra-price-in-nepal/
+- Honor Honor X7e: 6 / 256GB — NRs. 39,999. Specs/price: https://gadgetbytenepal.com/honor-x7e-price-nepal/ Photo: https://gadgetbytenepal.com/honor-x7e-price-nepal/
+- Honor Honor X8d: 8 / 128GB — NRs. 39,999; 8 / 256GB — NRs. 43,999. Specs/price: https://www.gadgetbytenepal.com/honor-x8d-price-nepal/ Photo: https://www.gadgetbytenepal.com/honor-x8d-price-nepal/
+- Honor Honor X9d: 8 / 256GB — NRs. 54,999; 12 / 256GB — NRs. 59,999. Specs/price: https://www.gadgetbytenepal.com/honor-x9d-price-nepal/ Photo: https://www.gadgetbytenepal.com/honor-x9d-price-nepal/
+- Honor Honor 600 Lite: 8 / 256GB — NRs. 59,999. Specs/price: https://www.gadgetbytenepal.com/honor-600-lite-price-in-nepal/ Photo: https://www.gadgetbytenepal.com/honor-600-lite-price-in-nepal/
+- Honor Honor 600: 8 / 256GB — NRs. 84,999; 12 / 256GB — NRs. 89,999. Specs/price: https://www.gadgetbytenepal.com/honor-600-price-in-nepal/ Photo: https://www.gadgetbytenepal.com/honor-600-price-in-nepal/
+- Honor Honor 600 Pro: 12 / 256GB — NRs. 1,29,999; 12 / 512GB — NRs. 1,49,999. Specs/price: https://www.gadgetbytenepal.com/honor-600-pro-price-in-nepal/ Photo: https://www.gadgetbytenepal.com/honor-600-pro-price-in-nepal/
+- Honor Honor Magic 8 Pro: 12 / 512GB — NRs. 1,79,999. Specs/price: https://www.gadgetbytenepal.com/honor-magic-8-pro-price-nepal/ Photo: https://www.gadgetbytenepal.com/honor-magic-8-pro-price-nepal/
+- Honor Honor Magic V5: 16 / 512GB — NRs. 2,66,999. Specs/price: https://www.gadgetbytenepal.com/honor-magic-v5-price-nepal/ Photo: https://www.gadgetbytenepal.com/honor-magic-v5-price-nepal/
+- Vivo Vivo V80 Lite 5G: 8 / 128GB — NRs. 63,999; 8 / 256GB — NRs. 73,999. Specs/price: https://www.gadgetbytenepal.com/vivo-v80-lite-5g-price-in-nepal/ Photo: https://www.gadgetbytenepal.com/vivo-v80-lite-5g-price-in-nepal/
+- Vivo Vivo V60 5G: 12 / 256GB — NRs. 74,999; 12 / 512GB — NRs. 79,999. Specs/price: https://www.gadgetbytenepal.com/vivo-v60-price-nepal/ Photo: https://www.gadgetbytenepal.com/vivo-v60-price-nepal/
+- Vivo Vivo V70 5G: 8 / 256GB — NRs. 84,999; 12 / 256GB — NRs. 1,02,999; 12 / 512GB — NRs. 1,22,999. Specs/price: https://www.gadgetbytenepal.com/vivo-v70-price-nepal/ Photo: https://www.gadgetbytenepal.com/vivo-v70-price-nepal/
+- Vivo Vivo X300 Pro: 16 / 512GB — NRs. 1,99,999. Specs/price: https://gadgetbytenepal.com/vivo-x300-pro-price-nepal/ Photo: https://gadgetbytenepal.com/vivo-x300-pro-price-nepal/ Independent review: https://www.gadgetbytenepal.com/vivo-x300-pro-review/
+- Realme Realme C85 Pro: 8 / 128GB — NRs. 36,999. Specs/price: https://www.gadgetbytenepal.com/realme-c85-pro-price-nepal/ Photo: https://www.gadgetbytenepal.com/realme-c85-pro-price-nepal/
+- Realme Realme P3: 8 / 256GB — NRs. 44,999. Specs/price: https://www.gadgetbytenepal.com/realme-p3-5gprice-in-nepal/ Photo: https://www.gadgetbytenepal.com/realme-p3-5gprice-in-nepal/
+- Realme Realme P4: 8 / 256GB — NRs. 45,999. Specs/price: https://www.gadgetbytenepal.com/realme-p4-4g-price-nepal/ Photo: https://www.gadgetbytenepal.com/realme-p4-4g-price-nepal/
+- Realme Realme 16: 8 / 256GB — NRs. 64,999. Specs/price: https://www.gadgetbytenepal.com/realme-16-5g-price-nepal/ Photo: https://www.gadgetbytenepal.com/realme-16-5g-price-nepal/
+- Realme Realme P3 Ultra: 12 / 256GB — NRs. 65,999. Specs/price: https://www.gadgetbytenepal.com/realme-p3-ultra-5g-price-nepal/ Photo: https://www.gadgetbytenepal.com/realme-p3-ultra-5g-price-nepal/
+- Realme Realme 15 Pro: 12 / 256GB — NRs. 66,999; 12 / 512GB — NRs. 71,999. Specs/price: https://www.gadgetbytenepal.com/realme-15-pro-price-nepal/ Photo: https://www.gadgetbytenepal.com/realme-15-pro-price-nepal/
+- Realme Realme P4 Power: 12 / 256GB — NRs. 76,999. Specs/price: https://www.gadgetbytenepal.com/realme-p4-power-price-nepal/ Photo: https://www.gadgetbytenepal.com/realme-p4-power-price-nepal/
+- Realme Realme GT8 Pro: 16 / 512GB — NRs. 1,49,999; Aston Martin Edition — NRs. 1,59,999. Specs/price: https://www.gadgetbytenepal.com/realme-gt8-pro-price-nepal/ Photo: https://www.gadgetbytenepal.com/realme-gt8-pro-price-nepal/
+- ZTE RedMagic 11 Pro: 16 / 512GB — NRs. 1,64,999. Specs/price: https://www.gadgetbytenepal.com/redmagic-11-pro-price-nepal/ Photo: https://www.gadgetbytenepal.com/redmagic-11-pro-price-nepal/
 
 
 ## Laptops and accessories
