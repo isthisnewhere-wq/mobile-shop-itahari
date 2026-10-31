@@ -63,8 +63,8 @@ for(const file of published.filter(f=>f.endsWith('.html'))){
  const html=fs.readFileSync(file,'utf8');
  let head=html.match(/<head>([\s\S]*?)<\/head>/)?.[1],body=html.match(/<main id="main"[^>]*>([\s\S]*?)<\/main>/)?.[1];
  if(head===undefined||body===undefined)throw Error('Invalid page '+file);
- head=head.replace(/<link\b[^>]*rel="stylesheet"[^>]*>/g,'').replace(/<script\b[^>]*src="theme.js"[^>]*><\/script>/g,'').replace(/<script data-theme-init>[\s\S]*?<\/script>/g,'');
- head+='<link rel="stylesheet" href="style.css"><script data-theme-init>document.documentElement.classList.add("js");</script><script src="theme.js" defer></script>';
+ head=head.replace(/<link\b[^>]*rel="stylesheet"[^>]*>/g,'').replace(/<script\b[^>]*src="theme.js(?:\?[^"<>]*)?"[^>]*><\/script>/g,'').replace(/<script data-theme-init>[\s\S]*?<\/script>/g,'');
+ head+='<link rel="stylesheet" href="style.css?v=readable-2"><script data-theme-init>document.documentElement.classList.add("js");</script><script src="theme.js?v=readable-2" defer></script>';
  if(file==='index.html')body=home;
  else if(file==='brands.html')body=brandDirectory();
  else body=catalogLayout(body);
