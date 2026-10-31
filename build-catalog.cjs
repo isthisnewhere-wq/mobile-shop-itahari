@@ -58,3 +58,4 @@ fs.writeFileSync('SOURCES.md',`# Eakraj Mobile Shop catalog\n\n${products.length
 const published=[...new Set(['index.html','smartphones.html','reviews.html','compare.html','brands.html','buying-guide.html','methodology.html','about.html','accessories.html','contact.html',...products.map(p=>p.slug+'.html'),'script.js','style.css','storefront.css','catalog.css','catalog-data.js','catalog.json','SOURCES.md','build-catalog.cjs','collect-catalog.cjs','prepare-catalog.cjs',...products.map(p=>p.image)])];
 fs.writeFileSync('publish-files.json',JSON.stringify(published,null,2));
 console.log('Built',products.length,'phone pages and 10 connected main pages.');
+if (fs.existsSync('store-catalog.json')) require('./build-store.cjs');

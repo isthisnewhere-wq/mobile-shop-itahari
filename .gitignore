@@ -3,3 +3,6 @@ source-catalog.html
 catalog-candidates.json
 catalog-research.json
 image-download-errors.json
+accessory-source-*.txt
+store-research.json
+store-image-errors.json
