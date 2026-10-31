@@ -13,8 +13,13 @@ for(const p of products){
  p.features=p.features.slice(0,12);
  const brand=(p.attributes.find(a=>/^brand$/i.test(a.label))||p.features.find(a=>/^brand$/i.test(a.label)))?.value;
  p.brand=brand||p.name.split(' ')[0];
+ if(/^mivi$/i.test(p.brand))p.brand='Mivi';
+ if(/^boat$/i.test(p.brand))p.brand='boAt';
  p.displayName=p.name.split(/\s+[|]\s+/)[0].replace(/:.*$/,'').trim();
  if(p.displayName.length>100)p.displayName=p.displayName.slice(0,97)+'…';
+ if((p.displayName.match(/\(/g)||[]).length>(p.displayName.match(/\)/g)||[]).length)p.displayName+=')';
+ const laptopTitles={'gh-14588':'Acer Predator Helios Neo 16 (Core i7, RTX 4060)','gh-14586':'Lenovo Legion 5 (Ryzen 7, RTX 4060)','gh-14019':'Apple MacBook Pro 2023 (M2 Pro, 16GB / 512GB)','gh-14017':'Apple MacBook Pro 14 (M3 Pro, 18GB / 1TB)','gh-14002':'Apple MacBook Air 13.6 (M2, 8GB / 512GB)','gh-13756':'Acer Nitro 16 (Ryzen 7, RTX 4050)','gh-13753':'Acer Nitro V (Core i5, RTX 4050)','gh-13722':'Acer Aspire 5 (Core i5, 8GB / 512GB)','gh-13720':'Acer Nitro V 15 (Core i5, RTX 3050)','gh-13704':'Lenovo LOQ 2023 (Ryzen 7, RTX 4050)'};
+ if(p.category==='laptops'&&laptopTitles[p.sourceId])p.displayName=laptopTitles[p.sourceId];
  if(p.category==='laptops'){p.discountPercent=10;p.proposedPrice=Math.round(p.price*90)/100;p.savings=Math.round((p.price-p.proposedPrice)*100)/100;}
 }
 fs.writeFileSync('store-catalog.json',JSON.stringify(products,null,2));

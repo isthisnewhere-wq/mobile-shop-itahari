@@ -12,17 +12,33 @@ async function getProducts(key,origin,category){
   return {sourceId:origin+'-'+p.id,name:clean(p.name),price,currency:p.prices?.currency_code,source:p.permalink,imageUrl:p.images?.[0]?.src,imageAlt:clean(p.images?.[0]?.alt),attributes,categories:(p.categories||[]).map(c=>clean(c.name)),shortDescription:clean(p.short_description),description:clean(p.description),checked:'2026-10-31'};
  }).filter(p=>p.price>0&&p.currency==='NPR'&&p.imageUrl&&p.name);
 }
-const keyFor=p=>p.name.toLowerCase().replace(/\b(black|white|blue|red|green|pink|purple|silver|gold|gray|grey|color|colour)\b/g,'').replace(/[^a-z0-9]/g,'');
-function unique(list){const seen=new Set();return list.filter(p=>{const key=keyFor(p);if(seen.has(key))return false;seen.add(key);return true;});}
+function keyFor(p,category){
+ const text=p.name.toLowerCase().replace(/soundcore/g,'anker').replace(/\bby anker\b/g,'').replace(/\bthe\b/g,'');
+ const brand=text.trim().split(/[\s–]+/)[0];
+ if(category==='earbuds'){
+  const family=text.match(/liberty\s*\d+(?:\s*(?:nc|pro))?|life\s*(?:note(?:\s*c)?|p2i|u2i)|nord\s*buds\s*\d*[a-z]?|buds\s*air\s*\d+[a-z]?(?:\s*pro)?|airdopes\s*\d+(?:\s*(?:anc|pro))?/);
+  if(family)return brand+family[0].replace(/\s/g,'');
+ }
+ if(category==='headsets'){
+  const family=text.match(/cloud\s*(?:stinger\s*2|iii|ii|alpha\s*pro|flight)|blackshark\s*v2(?:\s*(?:x|pro))?|kraken\s*(?:x|ultimate)/);
+  if(family)return brand+family[0].replace(/\s/g,'');
+  if(/corsair.*void/i.test(text))return 'corsairvoidelite'+(/wireless/.test(text)?'wireless':'usb');
+ }
+ if(category==='keyboards'&&/aula.*hero\s*(68|84)/.test(text))return 'aulahero'+text.match(/hero\s*(68|84)/)[1]+(/hero\s*68\s*air/.test(text)?'air':'');
+ const code=text.match(/\b[a-z]{1,6}[- ]?\d{1,4}[a-z]*(?:\s*(?:v\d|pro|max|plus|mini|lite|gtr|se|he|rt))*/i);
+ if(code)return brand+code[0].replace(/[^a-z0-9]/g,'');
+ return text.split(/\s*[|:–—]\s*/)[0].replace(/\b(black|white|blue|red|green|pink|purple|silver|gold|gray|grey|yellow|navy|jet|carbon|color|colour|premium|true|truly|wireless|bluetooth|tws|earbuds?|headsets?|headphones?|gaming|portable|speaker|with|anc|noise|cancelling|canceling|in-ear|in ear|over-ear)\b/g,'').replace(/[^a-z0-9]/g,'');
+}
+function unique(list,category){const seen=new Set();return list.filter(p=>{const key=keyFor(p,category);if(seen.has(key))return false;seen.add(key);return true;});}
 async function main(){
  const source=fs.existsSync('store-research.json')?JSON.parse(fs.readFileSync('store-research.json')):{};
  for(const [key,origin,category]of requests){if(!source[key]){source[key]=await getProducts(key,origin,category);fs.writeFileSync('store-research.json',JSON.stringify(source,null,2));}console.log(key,source[key].length);}
  fs.writeFileSync('store-research.json',JSON.stringify(source,null,2));
  const result=[];
- function add(category,list,count){const models=unique(list).slice(0,count);if(models.length<count)throw Error(category+' needs '+count+', found '+models.length);for(const p of models){p.category=category;p.slug='shop-'+p.sourceId;p.image='item-'+p.sourceId+'.jpg';result.push(p);}}
- add('earbuds',source.earbuds.filter(p=>!/(?:case only|cover only|replacement|neckband)/i.test(p.name)),50);
+ function add(category,list,count){const models=unique(list,category).slice(0,count);if(models.length<count)throw Error(category+' needs '+count+', found '+models.length);for(const p of models){p.category=category;p.slug='shop-'+p.sourceId;p.image=fs.readdirSync('.').find(file=>file.startsWith('item-'+p.sourceId+'.'))||'item-'+p.sourceId+'.jpg';result.push(p);}}
+ add('earbuds',source.earbuds.filter(p=>!/(?:case only|cover only|replacement|neckband|life u2i|sport air|smart bracelet)/i.test(p.name)),50);
  add('speakers',source.speakers.filter(p=>!/microphone only|remote only|speaker stand/i.test(p.name)),50);
- add('headsets',source.headsets.filter(p=>!/stand|earbuds|tws|earphone/i.test(p.name)),50);
+ add('headsets',source.headsets.filter(p=>/headset|headphone/i.test(p.name)&&!/stand|earbuds|tws|earphone|keyboard/i.test(p.name)),50);
  add('keyboards',source.keyboards.filter(p=>!/keycap|switch only|keyboard cover|keyboard cleaner/i.test(p.name)),50);
  const accessories=[...source.bags,...source.cooling,...source.docks,...source.tables,...source.coolers,...source.ram.slice(0,10),...source.mice].filter(p=>!result.some(x=>x.sourceId===p.sourceId));
  add('laptop-accessories',accessories,50);

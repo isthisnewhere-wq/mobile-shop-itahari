@@ -44,6 +44,21 @@ let home=fs.readFileSync('index.html','utf8').replace(/<!-- STORE_PROMO_START --
 const nav=[['index.html','Home'],['smartphones.html','Phones'],['laptops.html','Laptops'],['accessories.html','Accessories'],['reviews.html','Reviews'],['compare.html','Compare'],['contact.html','Contact']];
 const discovery='<nav class="shop-departments container" aria-label="Shop departments"><a href="all-products.html">All 382 products</a>'+Object.entries(paths).map(([key,href])=>`<a href="${href}">${cats[key]}</a>`).join('')+'</nav>';
 const baseFiles=JSON.parse(fs.readFileSync('publish-files.json','utf8')).filter(file=>!/^item-/.test(file));
+// Keep previously published product links working after consolidating source duplicates.
+const currentDetails=new Set(items.map(item=>item.slug+'.html'));
+for(const oldFile of baseFiles.filter(file=>/^shop-.*\.html$/.test(file)&&!currentDetails.has(file))){
+ const old=fs.readFileSync(oldFile,'utf8');
+ const title=old.match(/<h1>([\s\S]*?)<\/h1>/)?.[1]||'';
+ const label=old.match(/<p class="eyebrow">([^<]+) · /)?.[1]||'';
+ const previousTarget=old.match(/http-equiv="refresh" content="0;url=([^"]+)"/)?.[1];
+ let category=Object.keys(paths).find(key=>paths[key]===previousTarget)||Object.keys(cats).find(key=>cats[key].toUpperCase()===label)||'earbuds';
+ if(/keyboard/i.test(title))category='keyboards';
+ const target=paths[category];
+ write(oldFile,'Listing updated','Explore the updated '+cats[category].toLowerCase()+' collection.',heading('Listing updated','KEEP EXPLORING','Find your next favourite.','This listing has been updated. Explore the current department for product details and reference prices.')+'<section class="container"><a class="button" href="'+target+'">Explore '+cats[category].toLowerCase()+' →</a></section>');
+ let moved=fs.readFileSync(oldFile,'utf8');
+ moved=moved.replace('</head>','<meta http-equiv="refresh" content="0;url='+target+'"><link rel="canonical" href="'+target+'"></head>');
+ fs.writeFileSync(oldFile,moved);
+}
 const htmlFiles=[...new Set([...baseFiles.filter(f=>f.endsWith('.html')),...pageFiles])];
 for(const file of htmlFiles){let html=fs.readFileSync(file,'utf8');html=html.replace(/<nav id="navigation"[\s\S]*?<\/nav>/,`<nav id="navigation" aria-label="Main navigation">${nav.map(([href,name])=>`<a href="${href}"${href===file?' class="active" aria-current="page"':''}>${name}</a>`).join('')}</nav>`);html=html.replace(/<nav class="shop-departments container"[\s\S]*?<\/nav>/g,'');html=html.replace('</header>','</header>'+discovery);if(!html.includes('href="store.css"'))html=html.replace('</head>','<link rel="stylesheet" href="store.css"></head>');if(!html.includes('href="all-products.html">All products</a>'))html=html.replace('<nav class="footer-links" aria-label="Footer">','<nav class="footer-links" aria-label="Footer"><a href="all-products.html">All products</a><a href="laptops.html">Laptops & proposed offers</a>');if(file==='methodology.html'&&!html.includes('id="accessory-sources"'))html=html.replace('</main>','<section class="container policy-copy" id="accessory-sources"><h2>Laptop and accessory prices</h2><p>The 260 added laptop and accessory listings use public Nepal retailer references from Gadget House Nepal, checked 31 October 2026. Every product links its source. These references do not establish stock or warranty at Eakraj.</p><h2>Proposed 10% laptop offers</h2><p>The shop owner requested proposed laptop offers using reference prices. All 10 laptop prices show reference × 0.90, and a saving of reference × 0.10. These are clearly labelled proposals, not confirmed store offers or claims about previous Eakraj selling prices.</p></section></main>');fs.writeFileSync(file,html);}
 for(const file of htmlFiles){const html=fs.readFileSync(file,'utf8');fs.writeFileSync(file,html.replace('<p>122 models · 15 brands</p>','<p>382 products · 7 departments</p>'));}

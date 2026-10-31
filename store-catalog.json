@@ -297,27 +297,6 @@
     "displayName": "Anker A20i True Wireless Earbuds"
   },
   {
-    "sourceId": "gh-15755",
-    "name": "Anker Liberty 4 NC | True-Wireless Noise Cancelling Earbuds",
-    "price": 11699,
-    "currency": "NPR",
-    "source": "https://gadgethousenepal.com/product/anker-liberty-4-nc-true-wireless-noise-cancelling-earbuds/",
-    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2025/04/3947Z11.webp",
-    "imageAlt": "Anker Liberty 4 NC | True-Wireless Noise Cancelling Earbuds",
-    "attributes": [],
-    "categories": [
-      "Earbuds",
-      "Wireless Earphone"
-    ],
-    "checked": "2026-10-31",
-    "category": "earbuds",
-    "slug": "shop-gh-15755",
-    "image": "item-gh-15755.webp",
-    "features": [],
-    "brand": "Anker",
-    "displayName": "Anker Liberty 4 NC"
-  },
-  {
     "sourceId": "gh-15746",
     "name": "Redmi Buds 5 Bluetooth TWS Earbuds",
     "price": 5199,
@@ -683,7 +662,7 @@
     "slug": "shop-gh-14715",
     "image": "item-gh-14715.webp",
     "features": [],
-    "brand": "Boat",
+    "brand": "boAt",
     "displayName": "Boat Airdopes 131 PRO Wireless Earbuds with ENx™ Noise Cancellation and BEAST™ Mode"
   },
   {
@@ -778,7 +757,7 @@
         "value": "Bluetooth Headphone Design: Earbud Compatible Devices: Laptop, Desktop, Mobile, Tablet"
       }
     ],
-    "brand": "Boat",
+    "brand": "boAt",
     "displayName": "Boat Airdopes 131 Earbuds"
   },
   {
@@ -815,7 +794,7 @@
         "value": "Bluetooth Version 5.0"
       }
     ],
-    "brand": "Boat",
+    "brand": "boAt",
     "displayName": "Boat Airdopes 141 Wireless Earbuds"
   },
   {
@@ -1069,7 +1048,7 @@
     "slug": "shop-gh-9852",
     "image": "item-gh-9852.jpg",
     "features": [],
-    "brand": "MIVI",
+    "brand": "Mivi",
     "displayName": "MIVI DuoPods M30 Crystal Clear Calling with 42hrs of Playtime"
   },
   {
@@ -1314,6 +1293,26 @@
     "features": [],
     "brand": "QCY",
     "displayName": "QCY T8 Wireless Earbud Bluetooth 5.1, Touch Control Wireless Headset with Mics. Noise Cancellation"
+  },
+  {
+    "sourceId": "gh-4169",
+    "name": "REMAX TWS-18 TRUE WIRELESS STEREO MUSIC EARBUDS",
+    "price": 2499,
+    "currency": "NPR",
+    "source": "https://gadgethousenepal.com/product/remax-tws-18-true-wireless-stereo-music-earbuds/",
+    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2022/09/REMAXTrueWirelessStereoEarbudsTWS-182.jpg",
+    "imageAlt": "REMAX TWS-18 earbuds",
+    "attributes": [],
+    "categories": [
+      "Earbuds"
+    ],
+    "checked": "2026-10-31",
+    "category": "earbuds",
+    "slug": "shop-gh-4169",
+    "image": "item-gh-4169.jpg",
+    "features": [],
+    "brand": "REMAX",
+    "displayName": "REMAX TWS-18 TRUE WIRELESS STEREO MUSIC EARBUDS"
   },
   {
     "sourceId": "gh-19576",
@@ -2393,28 +2392,6 @@
     "displayName": "TCL S522W 2.1 Channel Soundbar with HDMI ARC"
   },
   {
-    "sourceId": "gh-13952",
-    "name": "TCL S643W 3.1ch Soundbar | 240W | Wireless",
-    "price": 21190,
-    "currency": "NPR",
-    "source": "https://gadgethousenepal.com/product/tcl-s643w-3-1ch-soundbar-240w-wireless/",
-    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2024/02/2-1.webp",
-    "imageAlt": "TCL S643W 3.1ch Soundbar",
-    "attributes": [],
-    "categories": [
-      "Bluetooth Speakers",
-      "Soundbar",
-      "Wireless speaker"
-    ],
-    "checked": "2026-10-31",
-    "category": "speakers",
-    "slug": "shop-gh-13952",
-    "image": "item-gh-13952.webp",
-    "features": [],
-    "brand": "TCL",
-    "displayName": "TCL S643W 3.1ch Soundbar"
-  },
-  {
     "sourceId": "gh-13429",
     "name": "Promate Glitz-L HD LumiSound 360° Surround Sound Speaker",
     "price": 7499,
@@ -2815,6 +2792,27 @@
     "displayName": "Creative T100 Compact Hi-Fi 2.0 Desktop Speakers for Computers and Laptops With Bluetooth – 80 Watt"
   },
   {
+    "sourceId": "gh-7033",
+    "name": "CREATIVE SBS E2900 Speaker, 2.1 Channel 120W Peak, Bluetooth 5.0",
+    "price": 13100,
+    "currency": "NPR",
+    "source": "https://gadgethousenepal.com/product/creative-sbs-e2900-2-1-channel-120w-peak-high-performance-bluetooth-5-0-speaker-system/",
+    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2022/10/e2900_MHL_pdt.png",
+    "imageAlt": "CREATIVE SBS E2900 Speaker",
+    "attributes": [],
+    "categories": [
+      "Bluetooth Speakers",
+      "Speakers"
+    ],
+    "checked": "2026-10-31",
+    "category": "speakers",
+    "slug": "shop-gh-7033",
+    "image": "item-gh-7033.png",
+    "features": [],
+    "brand": "CREATIVE",
+    "displayName": "CREATIVE SBS E2900 Speaker, 2.1 Channel 120W Peak, Bluetooth 5.0"
+  },
+  {
     "sourceId": "gh-16069",
     "name": "HyperX Cloud Stinger 2 Gaming Headset",
     "price": 8499,
@@ -2868,31 +2866,6 @@
     ],
     "brand": "HyperX",
     "displayName": "HyperX Cloud Stinger 2 Gaming Headset"
-  },
-  {
-    "sourceId": "gh-15448",
-    "name": "Aula F87 Mechanical Keyboard",
-    "price": 5399,
-    "currency": "NPR",
-    "source": "https://gadgethousenepal.com/product/aula-f87-mechanical-keyboard/",
-    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2025/01/F87.webp",
-    "imageAlt": "Aula F87",
-    "attributes": [],
-    "categories": [
-      "Clock",
-      "Darkflash Computer Case",
-      "Gaming Headphone",
-      "gaming keyboard",
-      "Keyboard",
-      "Laptop Cooler"
-    ],
-    "checked": "2026-10-31",
-    "category": "headsets",
-    "slug": "shop-gh-15448",
-    "image": "item-gh-15448.webp",
-    "features": [],
-    "brand": "Aula",
-    "displayName": "Aula F87 Mechanical Keyboard"
   },
   {
     "sourceId": "gh-14662",
@@ -3012,27 +2985,6 @@
     ],
     "brand": "FIFINE",
     "displayName": "FIFINE H6 White USB Gaming Headset, Over-Ear RGB Headset with 7.1 Surround Sound, Noise Cancellation"
-  },
-  {
-    "sourceId": "gh-10683",
-    "name": "FIFINE H6 USB HEADSET WITH 24-BIT, RGB, IN-LINE CONTROLS OF 7.1 SURROUND SOUND, EQ MODES, VOLUME, AND MUTE FOR PC GAMING",
-    "price": 5999,
-    "currency": "NPR",
-    "source": "https://gadgethousenepal.com/product/fifine-h6-usb-headset-price-in-nepal/",
-    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2023/06/FIFINEH6USBWiredHeadset_1024x1024.webp",
-    "imageAlt": "FIFINE H6 USB HEADSET",
-    "attributes": [],
-    "categories": [
-      "Gaming Headphone",
-      "Headphone"
-    ],
-    "checked": "2026-10-31",
-    "category": "headsets",
-    "slug": "shop-gh-10683",
-    "image": "item-gh-10683.webp",
-    "features": [],
-    "brand": "FIFINE",
-    "displayName": "FIFINE H6 USB HEADSET WITH 24-BIT, RGB, IN-LINE CONTROLS OF 7.1 SURROUND SOUND, EQ MODES, VOLUME,…"
   },
   {
     "sourceId": "gh-10612",
@@ -3837,52 +3789,6 @@
     "displayName": "Creative Sound BlasterX H6 Headphone USB Gaming with 7.1 Virtual Surround Sound – Headset"
   },
   {
-    "sourceId": "gh-5965",
-    "name": "Redragon H510 Zeus Wired Gaming Headset, 7.1 Surround, Detachable Microphone -3.5mm",
-    "price": 5699,
-    "currency": "NPR",
-    "source": "https://gadgethousenepal.com/product/redragon-h510-zeus-wired-gaming-headset-7-1-surround-detachable-microphone-3-5mm/",
-    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2022/10/H510-1_450x450.png",
-    "imageAlt": "Redragon H510 Zeus",
-    "attributes": [],
-    "categories": [
-      "Gaming Headphone",
-      "Headphone"
-    ],
-    "checked": "2026-10-31",
-    "category": "headsets",
-    "slug": "shop-gh-5965",
-    "image": "item-gh-5965.png",
-    "features": [
-      {
-        "label": "Sensitivity",
-        "value": "110±3dB"
-      },
-      {
-        "label": "Frequency response",
-        "value": "20-20KHZ Rated"
-      },
-      {
-        "label": "Power",
-        "value": "20-30mW Microphone Size: 6.0×2.7mm Impendance: 2.2KΩ(max)"
-      },
-      {
-        "label": "Sensitivity",
-        "value": "-42±3dB"
-      },
-      {
-        "label": "Frequency response",
-        "value": "100-10KHZ"
-      },
-      {
-        "label": "Type",
-        "value": "Omnidirectional Rated Voltage: 2V-10V"
-      }
-    ],
-    "brand": "Redragon",
-    "displayName": "Redragon H510 Zeus Wired Gaming Headset, 7.1 Surround, Detachable Microphone -3.5mm"
-  },
-  {
     "sourceId": "gh-5548",
     "name": "Fantech MARS II HQ54 Wired Gaming Headset – Headphone",
     "price": 1299,
@@ -3924,27 +3830,6 @@
     "displayName": "Corsair HS35 Gaming Headset Carbon – headphones"
   },
   {
-    "sourceId": "gh-3321",
-    "name": "Corsair HS35 Gaming Headset Blue – headphones",
-    "price": 9200,
-    "currency": "NPR",
-    "source": "https://gadgethousenepal.com/product/corsair-hs35-gaming-headset-blue/",
-    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2022/09/61BbKPKhMZL.jpg",
-    "imageAlt": "Corsair HS35 Gaming Headset Blue – headphones",
-    "attributes": [],
-    "categories": [
-      "Gaming Headphone",
-      "Headphone"
-    ],
-    "checked": "2026-10-31",
-    "category": "headsets",
-    "slug": "shop-gh-3321",
-    "image": "item-gh-3321.jpg",
-    "features": [],
-    "brand": "Corsair",
-    "displayName": "Corsair HS35 Gaming Headset Blue – headphones"
-  },
-  {
     "sourceId": "gh-3293",
     "name": "Corsair HS50 Pro Gaming Headset Carbon – headphones",
     "price": 10600,
@@ -3964,27 +3849,6 @@
     "features": [],
     "brand": "Corsair",
     "displayName": "Corsair HS50 Pro Gaming Headset Carbon – headphones"
-  },
-  {
-    "sourceId": "gh-3288",
-    "name": "Corsair HS50 Pro Gaming Headset Green – headphones",
-    "price": 10625,
-    "currency": "NPR",
-    "source": "https://gadgethousenepal.com/product/corsair-hs50-pro-gaming-headset-green/",
-    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2022/09/907833555CB05C08A65B4F318F3B3BFD.jpg",
-    "imageAlt": "Corsair HS50 Pro Gaming Headset Green – headphones",
-    "attributes": [],
-    "categories": [
-      "Gaming Headphone",
-      "Headphone"
-    ],
-    "checked": "2026-10-31",
-    "category": "headsets",
-    "slug": "shop-gh-3288",
-    "image": "item-gh-3288.jpg",
-    "features": [],
-    "brand": "Corsair",
-    "displayName": "Corsair HS50 Pro Gaming Headset Green – headphones"
   },
   {
     "sourceId": "gh-3154",
@@ -4029,26 +3893,6 @@
     "displayName": "Corsair HS70 Pro Wireless Gaming Headset – headphones"
   },
   {
-    "sourceId": "gh-3133",
-    "name": "Corsair Void RGB Elite USB Premium Gaming Headset Wired – headphones",
-    "price": 18750,
-    "currency": "NPR",
-    "source": "https://gadgethousenepal.com/product/corsair-void-rgb-elite-usb-premium-gaming-headset-wired/",
-    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2022/09/61veopbf73L.jpg",
-    "imageAlt": "Corsair Void RGB Elite USB Premium Gaming Headset Wired – headphones",
-    "attributes": [],
-    "categories": [
-      "Gaming Headphone"
-    ],
-    "checked": "2026-10-31",
-    "category": "headsets",
-    "slug": "shop-gh-3133",
-    "image": "item-gh-3133.jpg",
-    "features": [],
-    "brand": "Corsair",
-    "displayName": "Corsair Void RGB Elite USB Premium Gaming Headset Wired – headphones"
-  },
-  {
     "sourceId": "gh-3115",
     "name": "Corsair VOID RGB Elite Wireless Gaming Headset White with 7.1 Surround Sound – headphones",
     "price": 24375,
@@ -4069,6 +3913,170 @@
     "features": [],
     "brand": "Corsair",
     "displayName": "Corsair VOID RGB Elite Wireless Gaming Headset White with 7.1 Surround Sound – headphones"
+  },
+  {
+    "sourceId": "gh-3107",
+    "name": "CORSAIR HS80 RGB WIRELESS HEADPHONE Premium Gaming Headset",
+    "price": 31250,
+    "currency": "NPR",
+    "source": "https://gadgethousenepal.com/product/corsair-hs80-wireless-headphone/",
+    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2022/09/hs80.jpg",
+    "imageAlt": "CORSAIR HS80 RGB WIRELESS HEADPHONE Premium Gaming Headset",
+    "attributes": [],
+    "categories": [
+      "Bluetooth Headphone",
+      "Gaming Headphone",
+      "Headphone"
+    ],
+    "checked": "2026-10-31",
+    "category": "headsets",
+    "slug": "shop-gh-3107",
+    "image": "item-gh-3107.jpg",
+    "features": [],
+    "brand": "CORSAIR",
+    "displayName": "CORSAIR HS80 RGB WIRELESS HEADPHONE Premium Gaming Headset"
+  },
+  {
+    "sourceId": "gh-1682",
+    "name": "Picun B8 Bluetooth Headphone",
+    "price": 3000,
+    "currency": "NPR",
+    "source": "https://gadgethousenepal.com/product/picun-b8-bluetooth-headphone/",
+    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2022/01/H45dc1f86dc724f4b8a0afb6f4f5fe48bv.jpg",
+    "imageAlt": "Picun B8 Bluetooth Headphone",
+    "attributes": [],
+    "categories": [
+      "Bluetooth Headphone",
+      "Gaming Headphone",
+      "Headphone"
+    ],
+    "checked": "2026-10-31",
+    "category": "headsets",
+    "slug": "shop-gh-1682",
+    "image": "item-gh-1682.jpg",
+    "features": [
+      {
+        "label": "Control",
+        "value": "Yes Control Button: Yes Codecs: Sbc Brand Name: Picun Model Number: B8 Style: Headband Communication: Wireless Use: Portable Media Player, Mobile Phone, COMPUTER, Audiophile, Travel Function: Microphone Cord Length: 1.5 Waterproof Standard: IPX-3 Active Noise-Cancellation: No"
+      },
+      {
+        "label": "Product type",
+        "value": "Bluetooth headphones wireless Headphone"
+      },
+      {
+        "label": "type",
+        "value": "Over-ear Chipset: JL6925 BT version: V5.0 Working distance: 10m Built-in Battery: 1000mAh Music time: 42 hours Talking time: 42 hours"
+      }
+    ],
+    "brand": "Picun",
+    "displayName": "Picun B8 Bluetooth Headphone"
+  },
+  {
+    "sourceId": "gh-1678",
+    "name": "Picun B21 Bluetooth Headphone",
+    "price": 3200,
+    "currency": "NPR",
+    "source": "https://gadgethousenepal.com/product/picun-b21-bluetooth-headphone/",
+    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2022/01/59ad4fb13a189eeaa77f14bd7264b13a.jpg",
+    "imageAlt": "Picun B21 Bluetooth HeadPhone",
+    "attributes": [],
+    "categories": [
+      "Bluetooth Headphone",
+      "Gaming Headphone",
+      "Headphone"
+    ],
+    "checked": "2026-10-31",
+    "category": "headsets",
+    "slug": "shop-gh-1678",
+    "image": "item-gh-1678.jpg",
+    "features": [],
+    "brand": "Picun",
+    "displayName": "Picun B21 Bluetooth Headphone"
+  },
+  {
+    "sourceId": "gh-1671",
+    "name": "Picun B9 Bluetooth Headphone",
+    "price": 2600,
+    "currency": "NPR",
+    "source": "https://gadgethousenepal.com/product/picun-b9-bluetooth-headphone/",
+    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2022/01/100101833-9.jpg",
+    "imageAlt": "Picun B9 Bluetooth Headphone",
+    "attributes": [],
+    "categories": [
+      "Bluetooth Headphone",
+      "Gaming Headphone",
+      "Headphone"
+    ],
+    "checked": "2026-10-31",
+    "category": "headsets",
+    "slug": "shop-gh-1671",
+    "image": "item-gh-1671.jpg",
+    "features": [],
+    "brand": "Picun",
+    "displayName": "Picun B9 Bluetooth Headphone"
+  },
+  {
+    "sourceId": "gh-1451",
+    "name": "Plextone G800 Gaming Headset",
+    "price": 2599,
+    "currency": "NPR",
+    "source": "https://gadgethousenepal.com/product/plextone-g800-gaming-headset/",
+    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2022/01/b5cbbe791b8f785d65c562983c8dd55f.jpg",
+    "imageAlt": "Plextone G800",
+    "attributes": [],
+    "categories": [
+      "Gaming Headphone"
+    ],
+    "checked": "2026-10-31",
+    "category": "headsets",
+    "slug": "shop-gh-1451",
+    "image": "item-gh-1451.jpg",
+    "features": [],
+    "brand": "Plextone",
+    "displayName": "Plextone G800 Gaming Headset"
+  },
+  {
+    "sourceId": "gh-1415",
+    "name": "HyperX Cloud II Headset",
+    "price": 13999,
+    "currency": "NPR",
+    "source": "https://gadgethousenepal.com/product/hyperx-cloud-ii-headset/",
+    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2021/10/Best-Budget-HyperX-Headset_-HyperX-Cloud-II-1024x1024-1.jpg",
+    "imageAlt": "HyperX Cloud II",
+    "attributes": [],
+    "categories": [
+      "Gaming Headphone",
+      "Headphone",
+      "hyper x"
+    ],
+    "checked": "2026-10-31",
+    "category": "headsets",
+    "slug": "shop-gh-1415",
+    "image": "item-gh-1415.jpg",
+    "features": [
+      {
+        "label": "Driver",
+        "value": "Dynamic, 53mm with neodymium magnets"
+      },
+      {
+        "label": "Form Factor",
+        "value": "Over ear, circumaural, closed back"
+      },
+      {
+        "label": "Frequency Response",
+        "value": "10Hz-23kHz"
+      },
+      {
+        "label": "Sensitivity",
+        "value": "98dBSPL/mW at 1kHz T.H.D: &lt; 2% Frame"
+      },
+      {
+        "label": "Type",
+        "value": "Aluminum Ear Cushions: Memory foam and premium leatherette"
+      }
+    ],
+    "brand": "HyperX",
+    "displayName": "HyperX Cloud II Headset"
   },
   {
     "sourceId": "gh-20396",
@@ -5553,40 +5561,6 @@
     "displayName": "AJAZZ MK87 Mechanical Keyboard – Tri-Mode Gasket Structure Hot-Swap RGB Gaming Keyboard"
   },
   {
-    "sourceId": "gh-18034",
-    "name": "Ajazz AK35I V4 Customizable Wireless Gaming Mechanical Keyboard",
-    "price": 10999,
-    "currency": "NPR",
-    "source": "https://gadgethousenepal.com/product/ajazz-ak35i-v4-customizable-wireless-gaming-mechanical-keyboard/",
-    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2026/02/orig.webp",
-    "imageAlt": "",
-    "attributes": [
-      {
-        "label": "COLOR",
-        "value": "Black beige red, Black-gray-yellow"
-      },
-      {
-        "label": "switch",
-        "value": "Avocado switch"
-      }
-    ],
-    "categories": [
-      "Wireless Keyboard"
-    ],
-    "checked": "2026-10-31",
-    "category": "keyboards",
-    "slug": "shop-gh-18034",
-    "image": "item-gh-18034.webp",
-    "features": [
-      {
-        "label": "Brand",
-        "value": "Ajazz Connectivity Technology: 2.4GHz Wireless, Bluetooth, Wired Keyboard Description: Mechanical Keyboard Recommended Uses: Everyday Use, Gaming Keyboard Backlighting Color Support: RGB Style: Classic"
-      }
-    ],
-    "brand": "Ajazz Connectivity Technology: 2.4GHz Wireless, Bluetooth, Wired Keyboard Description: Mechanical Keyboard Recommended Uses: Everyday Use, Gaming Keyboard Backlighting Color Support: RGB Style: Classic",
-    "displayName": "Ajazz AK35I V4 Customizable Wireless Gaming Mechanical Keyboard"
-  },
-  {
     "sourceId": "gh-18025",
     "name": "AJAZZ AK35I V3 Full-Size Wireless Mechanical Gaming Keyboard",
     "price": 10999,
@@ -6147,6 +6121,26 @@
     "displayName": "AULA S75 PRO Wireless Mechanical Keyboard – 75% Compact Layout with Screen & Knob"
   },
   {
+    "sourceId": "gh-17415",
+    "name": "AULA WIN60 HE Series – 65% Wired Hall Effect Gaming Keyboard",
+    "price": 4499,
+    "currency": "NPR",
+    "source": "https://gadgethousenepal.com/product/aula-win60-he-series-65-wired-hall-effect-gaming-keyboard/",
+    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2025/12/AULA_WIN60_HE_Black_14.webp",
+    "imageAlt": "AULA WIN60 HE Series",
+    "attributes": [],
+    "categories": [
+      "Keyboard"
+    ],
+    "checked": "2026-10-31",
+    "category": "keyboards",
+    "slug": "shop-gh-17415",
+    "image": "item-gh-17415.webp",
+    "features": [],
+    "brand": "AULA",
+    "displayName": "AULA WIN60 HE Series – 65% Wired Hall Effect Gaming Keyboard"
+  },
+  {
     "sourceId": "gh-7422",
     "name": "Belkin Classic Pro Messenger Bag for Laptops up to15.6″ inch",
     "price": 3125,
@@ -6537,6 +6531,31 @@
     "displayName": "A8 Laptop Folding Table+ USB Cooler Fan"
   },
   {
+    "sourceId": "gh-15448",
+    "name": "Aula F87 Mechanical Keyboard",
+    "price": 5399,
+    "currency": "NPR",
+    "source": "https://gadgethousenepal.com/product/aula-f87-mechanical-keyboard/",
+    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2025/01/F87.webp",
+    "imageAlt": "Aula F87",
+    "attributes": [],
+    "categories": [
+      "Clock",
+      "Darkflash Computer Case",
+      "Gaming Headphone",
+      "gaming keyboard",
+      "Keyboard",
+      "Laptop Cooler"
+    ],
+    "checked": "2026-10-31",
+    "category": "laptop-accessories",
+    "slug": "shop-gh-15448",
+    "image": "item-gh-15448.webp",
+    "features": [],
+    "brand": "Aula",
+    "displayName": "Aula F87 Mechanical Keyboard"
+  },
+  {
     "sourceId": "gh-4771",
     "name": "Darkflash G200 Laptop Cooler RGB Lightstrip Cooling Fan",
     "price": 2999,
@@ -6597,26 +6616,6 @@
     "displayName": "ADATA 8GB DDR4 Laptop RAM Modules for Notebooks 2666 Memory"
   },
   {
-    "sourceId": "gh-11967",
-    "name": "ADATA 8GB DDR4 3200 MHz RAM SO- DIMM Laptop Memory RAM",
-    "price": 3199,
-    "currency": "NPR",
-    "source": "https://gadgethousenepal.com/product/adata-8gb-ddr4-3200-mhz-ram-so-dimm-laptop-memory-ram/",
-    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2023/12/711qLamPyRL._SL1500_.jpg",
-    "imageAlt": "ADATA 8GB DDR4 3200 MHz RAM SO- DIMM Laptop Memory RAM",
-    "attributes": [],
-    "categories": [
-      "Laptop Ram"
-    ],
-    "checked": "2026-10-31",
-    "category": "laptop-accessories",
-    "slug": "shop-gh-11967",
-    "image": "item-gh-11967.jpg",
-    "features": [],
-    "brand": "ADATA",
-    "displayName": "ADATA 8GB DDR4 3200 MHz RAM SO- DIMM Laptop Memory RAM"
-  },
-  {
     "sourceId": "gh-11872",
     "name": "Crucial RAM 8GB DDR4 3200MHz RAM For Laptop",
     "price": 3499,
@@ -6657,26 +6656,6 @@
     "displayName": "Transcend 16 GB DDR5 4800 MHz RAM"
   },
   {
-    "sourceId": "gh-11627",
-    "name": "Transcend 8 GB DDR5 4800 MHz RAM",
-    "price": 5625,
-    "currency": "NPR",
-    "source": "https://gadgethousenepal.com/product/transcend-8-gb-ddr5-4800-mhz-ram/",
-    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2023/10/ddr5_4800.png",
-    "imageAlt": "Transcend 8 GB DDR5 4800 MHz RAM",
-    "attributes": [],
-    "categories": [
-      "Laptop Ram"
-    ],
-    "checked": "2026-10-31",
-    "category": "laptop-accessories",
-    "slug": "shop-gh-11627",
-    "image": "item-gh-11627.png",
-    "features": [],
-    "brand": "Transcend",
-    "displayName": "Transcend 8 GB DDR5 4800 MHz RAM"
-  },
-  {
     "sourceId": "gh-11625",
     "name": "Transcend 2 GB Laptop RAM – 1600 MHz DDR3L",
     "price": 1875,
@@ -6700,31 +6679,6 @@
     ],
     "brand": "Transcend Computer Memory Size: 2 GB RAM Memory Technology: DDR3, DDR3L Memory Speed: 1600 MHz Compatible Devices: Computer",
     "displayName": "Transcend 2 GB Laptop RAM – 1600 MHz DDR3L"
-  },
-  {
-    "sourceId": "gh-11623",
-    "name": "Transcend 32GB DDR5 4800MHz RAM CL40 (2Rx8) Laptop Memory",
-    "price": 16249,
-    "currency": "NPR",
-    "source": "https://gadgethousenepal.com/product/transcend-32gb-ddr5-4800mhz-ram-cl40-2rx8-laptop-memory/",
-    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2023/10/32gb_-_4800-1.png",
-    "imageAlt": "Transcend 32GB DDR5 4800MHz RAM",
-    "attributes": [],
-    "categories": [
-      "Laptop Ram"
-    ],
-    "checked": "2026-10-31",
-    "category": "laptop-accessories",
-    "slug": "shop-gh-11623",
-    "image": "item-gh-11623.png",
-    "features": [
-      {
-        "label": "Brand",
-        "value": "Transcend Computer Memory Size: 32 GB RAM Memory Technology: DRAM Memory Speed: 4800 MHz Compatible Devices: Laptop"
-      }
-    ],
-    "brand": "Transcend Computer Memory Size: 32 GB RAM Memory Technology: DRAM Memory Speed: 4800 MHz Compatible Devices: Laptop",
-    "displayName": "Transcend 32GB DDR5 4800MHz RAM CL40 (2Rx8) Laptop Memory"
   },
   {
     "sourceId": "gh-11620",
@@ -7011,129 +6965,6 @@
     ],
     "brand": "VXE",
     "displayName": "VXE R1 S Wireless Gaming Mouse"
-  },
-  {
-    "sourceId": "gh-20019",
-    "name": "ATK F1 V2 Ultra Max 2.0 Gaming Mouse",
-    "price": 6999,
-    "currency": "NPR",
-    "source": "https://gadgethousenepal.com/product/atk-f1-v2-ultra-max-2-0-gaming-mouse/",
-    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2026/09/1500_2b8821f6-daa0-4e48-a577-9edc72268bab.webp",
-    "imageAlt": "ATK F1 V2 Ultra Max 2.0 Gaming Mouse",
-    "attributes": [],
-    "categories": [
-      "Gaming Mouse",
-      "Mouse",
-      "Wireless Mouse"
-    ],
-    "checked": "2026-10-31",
-    "category": "laptop-accessories",
-    "slug": "shop-gh-20019",
-    "image": "item-gh-20019.webp",
-    "features": [
-      {
-        "label": "Battery Life",
-        "value": "600+ Hours at 1000Hz"
-      },
-      {
-        "label": "Connectivity",
-        "value": "Wired / 2.4GHz / Bluetooth Receiver: 8K Nano Receiver Coating: New Nano Coating Mouse Feet: White Double-Layer Anti-Sag"
-      },
-      {
-        "label": "Software",
-        "value": "ATK HUB"
-      }
-    ],
-    "brand": "ATK",
-    "displayName": "ATK F1 V2 Ultra Max 2.0 Gaming Mouse"
-  },
-  {
-    "sourceId": "gh-20012",
-    "name": "ATK Blazing Sky F1 V2 Ultimate 2.0 Wireless Gaming Mouse",
-    "price": 9499,
-    "currency": "NPR",
-    "source": "https://gadgethousenepal.com/product/atk-blazing-sky-f1-v2-ultimate-2-0-wireless-gaming-mouse/",
-    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-25-2026-05_31_26-PM.png",
-    "imageAlt": "ATK Blazing Sky F1 V2 Ultimate 2.0",
-    "attributes": [
-      {
-        "label": "COLOR",
-        "value": "Black, Pink"
-      }
-    ],
-    "categories": [
-      "Gaming Mouse",
-      "Mouse",
-      "Wireless Mouse"
-    ],
-    "checked": "2026-10-31",
-    "category": "laptop-accessories",
-    "slug": "shop-gh-20012",
-    "image": "item-gh-20012.png",
-    "features": [
-      {
-        "label": "Weight",
-        "value": "39±2g"
-      },
-      {
-        "label": "Dimensions",
-        "value": "118.2 × 62.4 × 38.8mm Shape: Symmetrical Recommended Hand Size: Small to Medium Grip Style: Claw / Fingertip Sensor: PAW3950 Ultra MCU: Nordic 54L15 Polling Rate: 8000Hz DPI: 10–42,000 Latency: 0.263ms Switch: ATK Lightblade Mechanical Scroll Wheel: TTC Gold Battery: 300mAh"
-      },
-      {
-        "label": "Battery Life",
-        "value": "Up to 600 hours at 1000Hz Coating: All-New Nano Coating"
-      },
-      {
-        "label": "Connectivity",
-        "value": "Wired / 2.4GHz Wireless"
-      }
-    ],
-    "brand": "ATK",
-    "displayName": "ATK Blazing Sky F1 V2 Ultimate 2.0 Wireless Gaming Mouse"
-  },
-  {
-    "sourceId": "gh-20004",
-    "name": "ATK F1 V2 Ultimate Wireless Gaming Mouse",
-    "price": 14499,
-    "currency": "NPR",
-    "source": "https://gadgethousenepal.com/product/atk-f1-v2-ultimate-wireless-gaming-mouse/",
-    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2026/09/1-83c2aa02-f011-4a7c-b13a-8bdd59c03243.png",
-    "imageAlt": "ATK Blazing Sky F1 V2 Ultimate Gaming Mouse",
-    "attributes": [
-      {
-        "label": "COLOR",
-        "value": "Blue, Pink"
-      }
-    ],
-    "categories": [
-      "Gaming Mouse",
-      "Mouse",
-      "Wireless Mouse"
-    ],
-    "checked": "2026-10-31",
-    "category": "laptop-accessories",
-    "slug": "shop-gh-20004",
-    "image": "item-gh-20004.png",
-    "features": [
-      {
-        "label": "Color",
-        "value": "Black-Pink"
-      },
-      {
-        "label": "Weight",
-        "value": "39g Sensor: PAW3950 Ultra Maximum DPI: Up to 42,000 DPI Polling Rate: Up to 8K Latency: Up to 0.24ms"
-      },
-      {
-        "label": "Connectivity",
-        "value": "2.4GHz Wireless + Wired Battery: 300mAh"
-      },
-      {
-        "label": "Battery Life",
-        "value": "Up to 250 hours"
-      }
-    ],
-    "brand": "ATK",
-    "displayName": "ATK F1 V2 Ultimate Wireless Gaming Mouse"
   },
   {
     "sourceId": "gh-19908",
@@ -7627,6 +7458,147 @@
     "displayName": "Dareu LM130 Wired Professional Gaming Mouse"
   },
   {
+    "sourceId": "gh-17611",
+    "name": "DAREU EM911 Wired Gaming Mouse – Precision, Speed & RGB Style",
+    "price": 1999,
+    "currency": "NPR",
+    "source": "https://gadgethousenepal.com/product/dareu-em911-wired-gaming-mouse-precision-speed-rgb-style/",
+    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2025/12/dareu-em911-rgb-wired-white-gaming-11706594304.webp",
+    "imageAlt": "DAREU EM911 Wired Gaming Mouse",
+    "attributes": [],
+    "categories": [
+      "Mouse"
+    ],
+    "checked": "2026-10-31",
+    "category": "laptop-accessories",
+    "slug": "shop-gh-17611",
+    "image": "item-gh-17611.webp",
+    "features": [
+      {
+        "label": "Brand",
+        "value": "Dareu"
+      },
+      {
+        "label": "Connection",
+        "value": "Wired USB Sensor: ATG4090 optical sensor Tracking Speed: 150 IPS Lighting: RGB backlight"
+      },
+      {
+        "label": "Weight",
+        "value": "72g, lightweight design"
+      }
+    ],
+    "brand": "Dareu",
+    "displayName": "DAREU EM911 Wired Gaming Mouse – Precision, Speed & RGB Style"
+  },
+  {
+    "sourceId": "gh-17609",
+    "name": "DAREU EM901X Wireless Gaming Mouse with Charging Dock",
+    "price": 1999,
+    "currency": "NPR",
+    "source": "https://gadgethousenepal.com/product/dareu-em901x-wireless-gaming-mouse-with-charging-dock/",
+    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2025/12/EM901_blaa_01.webp",
+    "imageAlt": "DAREU EM901X Wireless Gaming Mouse",
+    "attributes": [],
+    "categories": [
+      "Mouse",
+      "Wireless Mouse"
+    ],
+    "checked": "2026-10-31",
+    "category": "laptop-accessories",
+    "slug": "shop-gh-17609",
+    "image": "item-gh-17609.webp",
+    "features": [
+      {
+        "label": "Brand",
+        "value": "DAREU"
+      },
+      {
+        "label": "Color",
+        "value": "Black (with Charging Dock)"
+      },
+      {
+        "label": "Connectivity",
+        "value": "USB Special Feature: Programmable buttons Sensor"
+      },
+      {
+        "label": "Type",
+        "value": "Optical"
+      }
+    ],
+    "brand": "DAREU",
+    "displayName": "DAREU EM901X Wireless Gaming Mouse with Charging Dock"
+  },
+  {
+    "sourceId": "gh-17425",
+    "name": "ATTACK SHARK G3 Tri-mode Wireless Gaming Mouse",
+    "price": 4499,
+    "currency": "NPR",
+    "source": "https://gadgethousenepal.com/product/attack-shark-g3-tri-mode-wireless-gaming-mouse/",
+    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2025/12/0002_1-1.webp",
+    "imageAlt": "ATTACK SHARK G3 Tri-mode Wireless Gaming Mouse",
+    "attributes": [],
+    "categories": [
+      "Mouse",
+      "Wireless Mouse"
+    ],
+    "checked": "2026-10-31",
+    "category": "laptop-accessories",
+    "slug": "shop-gh-17425",
+    "image": "item-gh-17425.webp",
+    "features": [],
+    "brand": "ATTACK",
+    "displayName": "ATTACK SHARK G3 Tri-mode Wireless Gaming Mouse"
+  },
+  {
+    "sourceId": "gh-17387",
+    "name": "ATTACK SHARK R1 Wireless Gaming Mouse – Lightweight Tri-Mode Gaming Precision Mouse for PC & Laptop",
+    "price": 4800,
+    "currency": "NPR",
+    "source": "https://gadgethousenepal.com/product/attack-shark-r1-wireless-gaming-mouse-lightweight-tri-mode-gaming-precision-mouse-for-pc-laptop/",
+    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2025/12/jxybvlv302dd1-scaled.jpeg",
+    "imageAlt": "ATTACK SHARK R1 is a high-performance wireless gaming mouse engineered for gamers, professionals, and everyday users seeking precision, speed, and versatility.",
+    "attributes": [],
+    "categories": [
+      "Wireless Mouse"
+    ],
+    "checked": "2026-10-31",
+    "category": "laptop-accessories",
+    "slug": "shop-gh-17387",
+    "image": "item-gh-17387.jpg",
+    "features": [
+      {
+        "label": "Brand",
+        "value": "ATTACK SHARK"
+      },
+      {
+        "label": "Color",
+        "value": "White Connectivity Technology: Bluetooth Special Feature: Lightweight, Rechargeable, Wireless Movement Detection Technology: Optical"
+      }
+    ],
+    "brand": "ATTACK SHARK",
+    "displayName": "ATTACK SHARK R1 Wireless Gaming Mouse – Lightweight Tri-Mode Gaming Precision Mouse for PC & Laptop"
+  },
+  {
+    "sourceId": "gh-17131",
+    "name": "Logitech B175 Wireless Mouse",
+    "price": 1650,
+    "currency": "NPR",
+    "source": "https://gadgethousenepal.com/product/logitech-b175-wireless-mouseprice-in-nepal/",
+    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2025/11/31yMaTrmuDL.jpg",
+    "imageAlt": "Logitech B175 Wireless Mouse is a compact and dependable mouse designed for everyday computing, office work, and home use. With plug-and-play wireless connectivity and advanced optical tracking",
+    "attributes": [],
+    "categories": [
+      "Wireless Mouse"
+    ],
+    "checked": "2026-10-31",
+    "category": "laptop-accessories",
+    "slug": "shop-gh-17131",
+    "image": "item-gh-17131.jpg",
+    "features": [],
+    "brand": "Logitech",
+    "displayName": "Logitech B175 Wireless Mouse"
+  },
+  {
     "sourceId": "gh-14588",
     "name": "Acer Predator Helios Neo 16 Gaming Laptop: 13th Gen Intel Core i7, RTX 4060, WQXGA Display",
     "price": 205000,
@@ -7647,7 +7619,7 @@
     "savings": 20500,
     "features": [],
     "brand": "Acer",
-    "displayName": "Acer Predator Helios Neo 16 Gaming Laptop"
+    "displayName": "Acer Predator Helios Neo 16 (Core i7, RTX 4060)"
   },
   {
     "sourceId": "gh-14586",
@@ -7679,7 +7651,7 @@
       }
     ],
     "brand": "Lenovo",
-    "displayName": "Lenovo Legion 5 2023 AMD R7 7735HS"
+    "displayName": "Lenovo Legion 5 (Ryzen 7, RTX 4060)"
   },
   {
     "sourceId": "gh-14019",
@@ -7703,7 +7675,7 @@
     "savings": 41500,
     "features": [],
     "brand": "Apple",
-    "displayName": "Apple MacBook Pro 2023 (M2 Pro Chip"
+    "displayName": "Apple MacBook Pro 2023 (M2 Pro, 16GB / 512GB)"
   },
   {
     "sourceId": "gh-14017",
@@ -7727,7 +7699,7 @@
     "savings": 37999.9,
     "features": [],
     "brand": "Apple",
-    "displayName": "Apple 2023 MacBook Pro Laptop M3 Pro chip 18GB, 1TB SSD 14.2-inch Liquid Retina XDR Display, Stor…"
+    "displayName": "Apple MacBook Pro 14 (M3 Pro, 18GB / 1TB)"
   },
   {
     "sourceId": "gh-14002",
@@ -7751,30 +7723,7 @@
     "savings": 21999.9,
     "features": [],
     "brand": "Apple",
-    "displayName": "Apple MacBook Air M2 Chip (13.6 inch"
-  },
-  {
-    "sourceId": "gh-13762",
-    "name": "Acer Predator Helios Neo 16 Gaming Laptop | Intel Core i7 13700HX | 16GB RAM | 1TB SSD | RTX 4060 | Windows 11 | WQXGA Display",
-    "price": 181999,
-    "currency": "NPR",
-    "source": "https://gadgethousenepal.com/product/acer-predator-helios-neo-16-gaming-laptop-intel-core-i7-13700hx-16gb-ram-1tb-ssd-rtx-4060-windows-11-wqxga-display/",
-    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2024/01/81GU80aud-L._SL1500_.jpg",
-    "imageAlt": "Acer Predator Helios Neo 16 Gaming Laptop",
-    "attributes": [],
-    "categories": [
-      "Laptop"
-    ],
-    "checked": "2026-10-31",
-    "category": "laptops",
-    "slug": "shop-gh-13762",
-    "image": "item-gh-13762.jpg",
-    "discountPercent": 10,
-    "proposedPrice": 163799.1,
-    "savings": 18199.9,
-    "features": [],
-    "brand": "Acer",
-    "displayName": "Acer Predator Helios Neo 16 Gaming Laptop"
+    "displayName": "Apple MacBook Air 13.6 (M2, 8GB / 512GB)"
   },
   {
     "sourceId": "gh-13756",
@@ -7797,7 +7746,7 @@
     "savings": 14499.9,
     "features": [],
     "brand": "Acer",
-    "displayName": "Acer Nitro 16 Gaming Laptop"
+    "displayName": "Acer Nitro 16 (Ryzen 7, RTX 4050)"
   },
   {
     "sourceId": "gh-13753",
@@ -7820,7 +7769,7 @@
     "savings": 11600,
     "features": [],
     "brand": "Acer",
-    "displayName": "Acer Nitro V Gaming Laptop i5 13th Gen RTX 4050 8/512GB 144Hz Display"
+    "displayName": "Acer Nitro V (Core i5, RTX 4050)"
   },
   {
     "sourceId": "gh-13722",
@@ -7864,7 +7813,7 @@
       }
     ],
     "brand": "Acer",
-    "displayName": "Acer Aspire 5 15 2023 i5 13th Gen Laptop / 8GB RAM / 512GB SSD / 15.6″ FHD Display"
+    "displayName": "Acer Aspire 5 (Core i5, 8GB / 512GB)"
   },
   {
     "sourceId": "gh-13720",
@@ -7908,6 +7857,29 @@
       }
     ],
     "brand": "Acer",
-    "displayName": "Acer Nitro V 15 Gaming Laptop i5-13420H"
+    "displayName": "Acer Nitro V 15 (Core i5, RTX 3050)"
+  },
+  {
+    "sourceId": "gh-13704",
+    "name": "Lenovo LOQ 2023 Gaming Laptop: Ryzen 7, RTX 4050, 16GB DDR5, 512GB SSD, 15.6″ FHD IPS 144Hz",
+    "price": 154999,
+    "currency": "NPR",
+    "source": "https://gadgethousenepal.com/product/lenovo-loq-2023-gaming-laptop-ryzen-7-rtx-4050-16gb-ddr5-512gb-ssd-15-6-fhd-ips-144hz/",
+    "imageUrl": "https://gadgethousenepal.com/wp-content/uploads/2024/01/LOQ-15IRH8-3.jpg",
+    "imageAlt": "Lenovo LOQ 15APH8 2023 Gaming Laptop 15.6\" FHD IPS 144Hz 8-Core AMD Ryzen 7 7840HS 16GB DDR5 512GB SSD NVIDIA",
+    "attributes": [],
+    "categories": [
+      "Laptop"
+    ],
+    "checked": "2026-10-31",
+    "category": "laptops",
+    "slug": "shop-gh-13704",
+    "image": "item-gh-13704.jpg",
+    "discountPercent": 10,
+    "proposedPrice": 139499.1,
+    "savings": 15499.9,
+    "features": [],
+    "brand": "Lenovo",
+    "displayName": "Lenovo LOQ 2023 (Ryzen 7, RTX 4050)"
   }
 ]

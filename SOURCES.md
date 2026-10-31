@@ -142,7 +142,6 @@
 - Soundcore Liberty 5 by Anker – Premium Noise-Cancelling Wireless Earbuds (White): NRs. 18,999 reference. Source: https://gadgethousenepal.com/product/soundcore-liberty-5-by-anker-price-in-nepal/
 - Soundcore Liberty 4 Pro by Anker: NRs. 18,499 reference. Source: https://gadgethousenepal.com/product/soundcore-liberty-4-pro-by-anker/
 - Anker A20i True Wireless Earbuds: NRs. 2,898 reference. Source: https://gadgethousenepal.com/product/anker-a20i-true-wireless-earbuds/
-- Anker Liberty 4 NC | True-Wireless Noise Cancelling Earbuds: NRs. 11,699 reference. Source: https://gadgethousenepal.com/product/anker-liberty-4-nc-true-wireless-noise-cancelling-earbuds/
 - Redmi Buds 5 Bluetooth TWS Earbuds: NRs. 5,199 reference. Source: https://gadgethousenepal.com/product/redmi-buds-5-bluetooth-tws-earbuds/
 - OPPO Enco Air3 Pro True Wireless Noise Cancelling Earbuds, Up to 30 hours: NRs. 9,999 reference. Source: https://gadgethousenepal.com/product/oppo-enco-air3-pro-true-wireless-noise-cancelling-earbuds/
 - JBL TUNE 215 TWS Earbuds: NRs. 9,249 reference. Source: https://gadgethousenepal.com/product/jbl-tune-215-tws-earbuds/
@@ -182,6 +181,7 @@
 - PLEXTONE 4LIFE TWS GAMING EARBUDS WATERPROOF: NRs. 3,719 reference. Source: https://gadgethousenepal.com/product/plextone-4life-tws-gaming-earbuds-wireless-bluetooth-gaming-earbuds-120ms-low-latency-half-in-ear-customized-gaming-speaker-waterproof-earphone/
 - PLEXTONE 4GAME TWS EARBUD GAMING EARPHONE BLUETOOTH 5.1 TOUCH CONTROL HEADSET MUSIC: NRs. 3,875 reference. Source: https://gadgethousenepal.com/product/plextone-4game-tws-earbud-gaming-earphone-bluetooth-5-1-touch-control-headset-music-earbuds/
 - QCY T8 Wireless Earbud Bluetooth 5.1, Touch Control Wireless Headset with Mics. Noise Cancellation: NRs. 4,110 reference. Source: https://gadgethousenepal.com/product/qcy-t8-wireless-earbud-bluetooth-5-1-touch-control-wireless-headset-with-mics-noise-cancellation/
+- REMAX TWS-18 TRUE WIRELESS STEREO MUSIC EARBUDS: NRs. 2,499 reference. Source: https://gadgethousenepal.com/product/remax-tws-18-true-wireless-stereo-music-earbuds/
 - W-KING X20 200W Bluetooth Party Speaker Nepal: NRs. 33,999 reference. Source: https://gadgethousenepal.com/product/w-king-x20-200w-bluetooth-party-speaker-nepal/
 - W-KING D20S 140W RMS Portable Bluetooth Speaker for Outdoor & Party: NRs. 31,999 reference. Source: https://gadgethousenepal.com/product/w-king-d20s-140w-rms-portable-bluetooth-speaker-for-outdoor-party/
 - W-KING D8 50W RMS Outdoor Bluetooth Speaker with Deep Bass: NRs. 12,999 reference. Source: https://gadgethousenepal.com/product/w-king-d8-50w-rms-outdoor-bluetooth-speaker-with-deep-bass/
@@ -216,7 +216,6 @@
 - HiFuture EVENT HORIZON Speaker – 100W Power: NRs. 30,349 reference. Source: https://gadgethousenepal.com/product/hifuture-event-horizon-speaker-100w-power/
 - TCL S643W 3.1 Channel Soundbar: Wireless Bluetooth, HDMI ARC, 240 Watts, Bluetooth 5.3: NRs. 21,190 reference. Source: https://gadgethousenepal.com/product/tcl-s643w-3-1-channel-soundbar-wireless-bluetooth-hdmi-arc-240-watts-bluetooth-5-3/
 - TCL S522W 2.1 Channel Soundbar with HDMI ARC | 200W maximum audio power | Bluetooth Streaming: NRs. 15,890 reference. Source: https://gadgethousenepal.com/product/tcl-s522w-2-1-channel-soundbar-with-hdmi-arc-200w-maximum-audio-power-bluetooth-streaming/
-- TCL S643W 3.1ch Soundbar | 240W | Wireless: NRs. 21,190 reference. Source: https://gadgethousenepal.com/product/tcl-s643w-3-1ch-soundbar-240w-wireless/
 - Promate Glitz-L HD LumiSound 360° Surround Sound Speaker: NRs. 7,499 reference. Source: https://gadgethousenepal.com/product/promate-glitz-l-hd-lumisound-360-surround-sound-speaker/
 - Promate Capsule-2 Bluetooth Speaker: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/promate-capsule-2-bluetooth-speaker/
 - CG A3911 5.1 Multimedia Speaker: NRs. 7,299 reference. Source: https://gadgethousenepal.com/product/cg-a3911-5-1-multimedia-speaker/
@@ -232,14 +231,13 @@
 - Rapoo A100 Grey Bluetooth Mini Speaker: NRs. 3,650 reference. Source: https://gadgethousenepal.com/product/rapoo-a100-grey-bluetooth-mini-speaker/
 - Hocco Wireless speaker “BS46 Mature” outdoor Party portable loud Speaker With Mic: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/hocco-wireless-speaker-bs46-mature-outdoor-party-portable-loud-speaker/
 - Creative T100 Compact Hi-Fi 2.0 Desktop Speakers for Computers and Laptops With Bluetooth – 80 Watt: NRs. 18,999 reference. Source: https://gadgethousenepal.com/product/creative-t100-compact-hi-fi-2-0-desktop-speakers-for-computers-and-laptops-with-bluetooth-80-watt/
+- CREATIVE SBS E2900 Speaker, 2.1 Channel 120W Peak, Bluetooth 5.0: NRs. 13,100 reference. Source: https://gadgethousenepal.com/product/creative-sbs-e2900-2-1-channel-120w-peak-high-performance-bluetooth-5-0-speaker-system/
 - HyperX Cloud Stinger 2 Gaming Headset: NRs. 8,499 reference. Source: https://gadgethousenepal.com/product/hyperx-cloud-stinger-2-gaming-headset/
-- Aula F87 Mechanical Keyboard: NRs. 5,399 reference. Source: https://gadgethousenepal.com/product/aula-f87-mechanical-keyboard/
 - HyperX Cloud III – Wired Gaming Headset, Black/Red: NRs. 17,999 reference. Source: https://gadgethousenepal.com/product/hyperx-cloud-iii-wired-gaming-headset-black-red/
 - Redragon H376 Aurora Gaming Headset: Immersive 7.1 Surround Sound: NRs. 4,399 reference. Source: https://gadgethousenepal.com/product/redragon-h376-aurora-gaming-headset-immersive-7-1-surround-sound/
 - AJAZZ AX368 Gaming Headset with Noise-Canceling Mic and LED Lights – 7.1 Stereo Surround Sound: NRs. 6,499 reference. Source: https://gadgethousenepal.com/product/ajazz-ax368-gaming-headset-with-noise-canceling-mic-and-led-lights-7-1-stereo-surround-sound/
 - PLEXTONE G700 Super Gaming Headset – Lightweight Design, EXTRA BASS: NRs. 2,249 reference. Source: https://gadgethousenepal.com/product/plextone-g700-super-gaming-headset-lightweight-design-extra-bass/
 - FIFINE H6 White USB Gaming Headset, Over-Ear RGB Headset with 7.1 Surround Sound, Noise Cancellation: NRs. 5,999 reference. Source: https://gadgethousenepal.com/product/fifine-h6-white-usb-gaming-headset-over-ear-rgb-headset-with-7-1-surround-sound-noise-cancellation/
-- FIFINE H6 USB HEADSET WITH 24-BIT, RGB, IN-LINE CONTROLS OF 7.1 SURROUND SOUND, EQ MODES, VOLUME, AND MUTE FOR PC GAMING: NRs. 5,999 reference. Source: https://gadgethousenepal.com/product/fifine-h6-usb-headset-price-in-nepal/
 - SteelSeries Arctis Prime Headphone Competitive Gaming Headset: NRs. 24,499 reference. Source: https://gadgethousenepal.com/product/steelseries-arctis-prime-headphone-price-in-nepal/
 - Razer BlackShark V2 Gaming Headset THX 7.1 Spatial Surround Sound: NRs. 15,500 reference. Source: https://gadgethousenepal.com/product/razer-blackshark-v2-gaming-headset/
 - Razer BlackShark V2 X Gaming Headset 7.1 Surround Sound: NRs. 9,499 reference. Source: https://gadgethousenepal.com/product/razer-blackshark-v2-x-gaming-headset/
@@ -272,16 +270,18 @@
 - Creative Sound BlasterX H3 Portable Analog Gaming Headset- Headphone: NRs. 8,750 reference. Source: https://gadgethousenepal.com/product/creative-sound-blasterx-h3-portable-analog-gaming-headset-headphone/
 - Creative Draco HS880 Gaming Headset, detachable Microphone Headphone: NRs. 7,100 reference. Source: https://gadgethousenepal.com/product/creative-draco-hs880-gaming-headset-detachable-microphone-headphone/
 - Creative Sound BlasterX H6 Headphone USB Gaming with 7.1 Virtual Surround Sound – Headset: NRs. 15,500 reference. Source: https://gadgethousenepal.com/product/creative-sound-blasterx-h6-headphone-usb-gaming-with-7-1-virtual-surround-sound-headset/
-- Redragon H510 Zeus Wired Gaming Headset, 7.1 Surround, Detachable Microphone -3.5mm: NRs. 5,699 reference. Source: https://gadgethousenepal.com/product/redragon-h510-zeus-wired-gaming-headset-7-1-surround-detachable-microphone-3-5mm/
 - Fantech MARS II HQ54 Wired Gaming Headset – Headphone: NRs. 1,299 reference. Source: https://gadgethousenepal.com/product/fantech-mars-ii-hq54-wired-gaming-headset-headphone/
 - Corsair HS35 Gaming Headset Carbon – headphones: NRs. 9,100 reference. Source: https://gadgethousenepal.com/product/corsair-hs35-gaming-headset-carbon/
-- Corsair HS35 Gaming Headset Blue – headphones: NRs. 9,200 reference. Source: https://gadgethousenepal.com/product/corsair-hs35-gaming-headset-blue/
 - Corsair HS50 Pro Gaming Headset Carbon – headphones: NRs. 10,600 reference. Source: https://gadgethousenepal.com/product/corsair-hs50-pro-gaming-headset-carbon/
-- Corsair HS50 Pro Gaming Headset Green – headphones: NRs. 10,625 reference. Source: https://gadgethousenepal.com/product/corsair-hs50-pro-gaming-headset-green/
 - Corsair Void RGB Elite Carbon Gaming Headset – headphones: NRs. 18,125 reference. Source: https://gadgethousenepal.com/product/corsair-void-rgb-elite-carbon-gaming-headset/
 - Corsair HS70 Pro Wireless Gaming Headset – headphones: NRs. 21,250 reference. Source: https://gadgethousenepal.com/product/corsair-hs70-pro-wireless-gaming-headset/
-- Corsair Void RGB Elite USB Premium Gaming Headset Wired – headphones: NRs. 18,750 reference. Source: https://gadgethousenepal.com/product/corsair-void-rgb-elite-usb-premium-gaming-headset-wired/
 - Corsair VOID RGB Elite Wireless Gaming Headset White with 7.1 Surround Sound – headphones: NRs. 24,375 reference. Source: https://gadgethousenepal.com/product/corsair-void-rgb-elite-wireless-gaming-headset-white-with-7-1-surround-sound/
+- CORSAIR HS80 RGB WIRELESS HEADPHONE Premium Gaming Headset: NRs. 31,250 reference. Source: https://gadgethousenepal.com/product/corsair-hs80-wireless-headphone/
+- Picun B8 Bluetooth Headphone: NRs. 3,000 reference. Source: https://gadgethousenepal.com/product/picun-b8-bluetooth-headphone/
+- Picun B21 Bluetooth Headphone: NRs. 3,200 reference. Source: https://gadgethousenepal.com/product/picun-b21-bluetooth-headphone/
+- Picun B9 Bluetooth Headphone: NRs. 2,600 reference. Source: https://gadgethousenepal.com/product/picun-b9-bluetooth-headphone/
+- Plextone G800 Gaming Headset: NRs. 2,599 reference. Source: https://gadgethousenepal.com/product/plextone-g800-gaming-headset/
+- HyperX Cloud II Headset: NRs. 13,999 reference. Source: https://gadgethousenepal.com/product/hyperx-cloud-ii-headset/
 - DAREU Flex 75 Mechanical Keyboard – Tri-Mode RGB Keyboard with Knob: NRs. 5,499 reference. Source: https://gadgethousenepal.com/product/dareu-flex-75-mechanical-keyboard-tri-mode-rgb-keyboard-with-knob/
 - AJAZZ AC100 MAX 98% Aluminum Mechanical Keyboard: NRs. 16,499 reference. Source: https://gadgethousenepal.com/product/ajazz-ac100-max-98-aluminum-mechanical-keyboard/
 - Aula Hero 68 HE-White: NRs. 6,499 reference. Source: https://gadgethousenepal.com/product/aula-hero-68-he-white/
@@ -314,7 +314,6 @@
 - LEOBOG AMG65 Wireless Mechanical Keyboard: NRs. 11,999 reference. Source: https://gadgethousenepal.com/product/leobog-amg65-wireless-mechanical-keyboard/
 - Ajazz AK35I V4 Customizable Wireless Gaming Mechanical Keyboard with Smart Screen, Knob & RGB: NRs. 11,999 reference. Source: https://gadgethousenepal.com/product/ajazz-ak35i-v4-customizable-wireless-gaming-mechanical-keyboard-2/
 - AJAZZ MK87 Mechanical Keyboard – Tri-Mode Gasket Structure Hot-Swap RGB Gaming Keyboard: NRs. 9,999 reference. Source: https://gadgethousenepal.com/product/ajazz-mk87-mechanical-keyboard/
-- Ajazz AK35I V4 Customizable Wireless Gaming Mechanical Keyboard: NRs. 10,999 reference. Source: https://gadgethousenepal.com/product/ajazz-ak35i-v4-customizable-wireless-gaming-mechanical-keyboard/
 - AJAZZ AK35I V3 Full-Size Wireless Mechanical Gaming Keyboard: NRs. 10,999 reference. Source: https://gadgethousenepal.com/product/ajazz-ak35i-v3-full-size-wireless-mechanical-gaming-keyboard/
 - AJAZZ AK980 V2 Mechanical Gaming Keyboard with Display Screen: NRs. 9,999 reference. Source: https://gadgethousenepal.com/product/ajazz-ak980-v2-mechanical-gaming-keyboard/
 - AJAZZ AKS075 75% Alice-Layout Wireless Mechanical Gaming Keyboard: NRs. 8,999 reference. Source: https://gadgethousenepal.com/product/ajazz-aks075-75-alice-layout-wireless-mechanical-gaming-keyboard/
@@ -332,6 +331,7 @@
 - DAREU EK65G Wireless Mechanical Gaming Keyboard: NRs. 3,499 reference. Source: https://gadgethousenepal.com/product/dareu-ek65g-wireless-mechanical-gaming-keyboard/
 - Dareu EK104 Mechanical Gaming Keyboard – Wired RGB | 104-Key Full Size | DareU Dream Switches: NRs. 4,499 reference. Source: https://gadgethousenepal.com/product/dareu-ek104-mechanical-gaming-keyboard-wired-rgb-104-key-full-size-dareu-dream-switches/
 - AULA S75 PRO Wireless Mechanical Keyboard – 75% Compact Layout with Screen & Knob: NRs. 7,999 reference. Source: https://gadgethousenepal.com/product/aula-s75-pro-wireless-mechanical-keyboard/
+- AULA WIN60 HE Series – 65% Wired Hall Effect Gaming Keyboard: NRs. 4,499 reference. Source: https://gadgethousenepal.com/product/aula-win60-he-series-65-wired-hall-effect-gaming-keyboard/
 - Belkin Classic Pro Messenger Bag for Laptops up to15.6″ inch: NRs. 3,125 reference. Source: https://gadgethousenepal.com/product/belkin-classic-pro-messenger-bag-for-laptops-up-to15-6-inch/
 - Fantech BG-984 Waterproof 15.6″ Gaming Backpack: NRs. 4,499 reference. Source: https://gadgethousenepal.com/product/fantech-bg-984-waterproof-15-6-gaming-backpack/
 - Aluminium 360° Rotating Laptop Stand with Cooling Fans: NRs. 1,599 reference. Source: https://gadgethousenepal.com/product/aluminium-360-rotating-laptop-stand-with-cooling-fans/
@@ -346,15 +346,13 @@
 - TerraMaster D5-300 High-Speed 5-Bay RAID Docking Station with USB 3.1 Type-C: NRs. 38,750 reference. Source: https://gadgethousenepal.com/product/terramaster-d5-300-usb3-1-gen1-type-c-5-bay-external-hard-drive-enclosure-support-raid-docking-station/
 - TERRAMASTER D2-310 USB Type C External Hard Drive Docking Station RAID Enclosure USB3.1 (Gen1) 2-Bay RAID: NRs. 26,250 reference. Source: https://gadgethousenepal.com/product/terramaster-d2-310-usb-type-c-external-hard-drive-docking-station-raid-enclosure-usb3-1-gen1-2-bay-raid/
 - A8 Laptop Folding Table+ USB Cooler Fan: NRs. 2,499 reference. Source: https://gadgethousenepal.com/product/a8-laptop-folding-table-usb-cooler-fan/
+- Aula F87 Mechanical Keyboard: NRs. 5,399 reference. Source: https://gadgethousenepal.com/product/aula-f87-mechanical-keyboard/
 - Darkflash G200 Laptop Cooler RGB Lightstrip Cooling Fan: NRs. 2,999 reference. Source: https://gadgethousenepal.com/product/darkflash-g200-laptop-cooler-supports-up-above-16-laptop/
 - ADATA 16GB DDR4 2666MHz SO-DIMM Laptop Memory RAM – High Performance and Energy Efficient: NRs. 5,799 reference. Source: https://gadgethousenepal.com/product/adata-16gb-ddr4-2666mhz-so-dimm-laptop-memory-ram-high-performance-and-energy-efficient/
 - ADATA 8GB DDR4 Laptop RAM Modules for Notebooks 2666 Memory: NRs. 3,490 reference. Source: https://gadgethousenepal.com/product/adata-8gb-ddr4-laptop-ram-modules-for-notebooks-2666-memory/
-- ADATA 8GB DDR4 3200 MHz RAM SO- DIMM Laptop Memory RAM: NRs. 3,199 reference. Source: https://gadgethousenepal.com/product/adata-8gb-ddr4-3200-mhz-ram-so-dimm-laptop-memory-ram/
 - Crucial RAM 8GB DDR4 3200MHz RAM For Laptop: NRs. 3,499 reference. Source: https://gadgethousenepal.com/product/crucial-ram-8gb-ddr4-3200mhz-ram-for-laptop/
 - Transcend 16 GB DDR5 4800 MHz RAM: NRs. 9,199 reference. Source: https://gadgethousenepal.com/product/transcend-16-gb-ddr5-4800-mhz-ram/
-- Transcend 8 GB DDR5 4800 MHz RAM: NRs. 5,625 reference. Source: https://gadgethousenepal.com/product/transcend-8-gb-ddr5-4800-mhz-ram/
 - Transcend 2 GB Laptop RAM – 1600 MHz DDR3L: NRs. 1,875 reference. Source: https://gadgethousenepal.com/product/transcend-2-gb-laptop-ram-1600-mhz-ddr3l/
-- Transcend 32GB DDR5 4800MHz RAM CL40 (2Rx8) Laptop Memory: NRs. 16,249 reference. Source: https://gadgethousenepal.com/product/transcend-32gb-ddr5-4800mhz-ram-cl40-2rx8-laptop-memory/
 - Transcend 16GB DDR4 3200mhz Ram: NRs. 6,749 reference. Source: https://gadgethousenepal.com/product/transcend-16gb-ddr4-3200mhz-ram/
 - Transcend 32GB Laptop RAM 3200MHz Memory PC4-25600 DDR4: NRs. 12,499 reference. Source: https://gadgethousenepal.com/product/transcend-32gb-laptop-ram-memory-pc4-25600/
 - ATK Blazing Sky F1 V2 Extreme Wireless Gaming Mouse: NRs. 14,499 reference. Source: https://gadgethousenepal.com/product/atk-blazing-sky-f1-v2-extreme-wireless-gaming-mouse/
@@ -363,9 +361,6 @@
 - ATK Dragonfly A9 Wireless Gaming Mouse: NRs. 3,799 reference. Source: https://gadgethousenepal.com/product/atk-dragonfly-a9-wireless-gaming-mouse/
 - VXE Dragonfly V3 Wireless Gaming Mouse – 54g Lightweight, Xhero AI Sensor, 120-Hour Battery: NRs. 2,649 reference. Source: https://gadgethousenepal.com/product/vxe-dragonfly-v3-wireless-gaming-mouse-54g-lightweight-xhero-ai-sensor-120-hour-battery/
 - VXE R1 S Wireless Gaming Mouse: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/vxe-r1-s-wireless-gaming-mouse/
-- ATK F1 V2 Ultra Max 2.0 Gaming Mouse: NRs. 6,999 reference. Source: https://gadgethousenepal.com/product/atk-f1-v2-ultra-max-2-0-gaming-mouse/
-- ATK Blazing Sky F1 V2 Ultimate 2.0 Wireless Gaming Mouse: NRs. 9,499 reference. Source: https://gadgethousenepal.com/product/atk-blazing-sky-f1-v2-ultimate-2-0-wireless-gaming-mouse/
-- ATK F1 V2 Ultimate Wireless Gaming Mouse: NRs. 14,499 reference. Source: https://gadgethousenepal.com/product/atk-f1-v2-ultimate-wireless-gaming-mouse/
 - Acer Nitro OMR246 Wireless Gaming Mouse Price in Nepal: NRs. 2,399 reference. Source: https://gadgethousenepal.com/product/acer-nitro-omr246-wireless-gaming-mouse-price-in-nepal/
 - RAIGOR III WG12 WIRELESS MOUSE: NRs. 1,299 reference. Source: https://gadgethousenepal.com/product/raigor-iii-wg12-wireless-mouse/
 - AJAZZ AJ039 V2 Gaming Mouse: NRs. 1,799 reference. Source: https://gadgethousenepal.com/product/ajazz-aj039-v2-gaming-mouse/
@@ -382,13 +377,18 @@
 - Logitech MX Master 3S Wireless Mouse: NRs. 18,499 reference. Source: https://gadgethousenepal.com/product/logitech-mx-master-3s-wireless-mouse-standard-edition-precision-comfort/
 - Logitech G PRO X Superlight 2 Wireless Gaming Mouse – Ultra Lightweight Performance: NRs. 24,999 reference. Source: https://gadgethousenepal.com/product/logitech-g-pro-x-superlight-2-wireless-gaming-mouse-ultra-lightweight-performance/
 - Dareu LM130 Wired Professional Gaming Mouse: NRs. 649 reference. Source: https://gadgethousenepal.com/product/dareu-lm130-wired-professional-gaming-mouse/
+- DAREU EM911 Wired Gaming Mouse – Precision, Speed & RGB Style: NRs. 1,999 reference. Source: https://gadgethousenepal.com/product/dareu-em911-wired-gaming-mouse-precision-speed-rgb-style/
+- DAREU EM901X Wireless Gaming Mouse with Charging Dock: NRs. 1,999 reference. Source: https://gadgethousenepal.com/product/dareu-em901x-wireless-gaming-mouse-with-charging-dock/
+- ATTACK SHARK G3 Tri-mode Wireless Gaming Mouse: NRs. 4,499 reference. Source: https://gadgethousenepal.com/product/attack-shark-g3-tri-mode-wireless-gaming-mouse/
+- ATTACK SHARK R1 Wireless Gaming Mouse – Lightweight Tri-Mode Gaming Precision Mouse for PC & Laptop: NRs. 4,800 reference. Source: https://gadgethousenepal.com/product/attack-shark-r1-wireless-gaming-mouse-lightweight-tri-mode-gaming-precision-mouse-for-pc-laptop/
+- Logitech B175 Wireless Mouse: NRs. 1,650 reference. Source: https://gadgethousenepal.com/product/logitech-b175-wireless-mouseprice-in-nepal/
 - Acer Predator Helios Neo 16 Gaming Laptop: 13th Gen Intel Core i7, RTX 4060, WQXGA Display: NRs. 2,05,000 reference; proposed 10% saving NRs. 20,500; proposed price NRs. 1,84,500. Source: https://gadgethousenepal.com/product/acer-predator-helios-neo-16-gaming-laptop-13th-gen-intel-core-i7-rtx-4060-wqxga-display/
 - Lenovo Legion 5 2023 AMD R7 7735HS | RTX 4060 | 16GB RAM | 512GB SSD | 15.6″ WQHD (2560×1440) | 165Hz: NRs. 1,55,000 reference; proposed 10% saving NRs. 15,500; proposed price NRs. 1,39,500. Source: https://gadgethousenepal.com/product/lenovo-legion-5-2023-amd-r7-7735hs-rtx-4060-16gb-ram-512gb-ssd-15-6-wqhd-2560x1440-165hz/
 - Apple MacBook Pro 2023 (M2 Pro Chip | 16GB RAM | 512GB SSD) 12-Core CPU | 19-Core GPU: NRs. 4,15,000 reference; proposed 10% saving NRs. 41,500; proposed price NRs. 3,73,500. Source: https://gadgethousenepal.com/product/apple-macbook-pro-2023-m2-pro-chip-16gb-ram-512gb-ssd-12-core-cpu-19-core-gpu/
 - Apple 2023 MacBook Pro Laptop M3 Pro chip 18GB, 1TB SSD 14.2-inch Liquid Retina XDR Display, Storage.: NRs. 3,79,999 reference; proposed 10% saving NRs. 37,999.9; proposed price NRs. 3,41,999.1. Source: https://gadgethousenepal.com/product/apple-2023-macbook-pro-laptop-m3-pro-chip-14-2-inch-liquid-retina-xdr-display-18gb-1tb-ssd-storage/
 - Apple MacBook Air M2 Chip (13.6 inch | 8GB RAM | 512GB SSD | 8-core CPU | 10-core GPU): NRs. 2,19,999 reference; proposed 10% saving NRs. 21,999.9; proposed price NRs. 1,97,999.1. Source: https://gadgethousenepal.com/product/apple-macbook-air-m2-chip-13-6-inch-8gb-ram-512gb-ssd-8-core-cpu-10-core-gpu/
-- Acer Predator Helios Neo 16 Gaming Laptop | Intel Core i7 13700HX | 16GB RAM | 1TB SSD | RTX 4060 | Windows 11 | WQXGA Display: NRs. 1,81,999 reference; proposed 10% saving NRs. 18,199.9; proposed price NRs. 1,63,799.1. Source: https://gadgethousenepal.com/product/acer-predator-helios-neo-16-gaming-laptop-intel-core-i7-13700hx-16gb-ram-1tb-ssd-rtx-4060-windows-11-wqxga-display/
 - Acer Nitro 16 Gaming Laptop | AMD Ryzen 7 7735HS | RTX 4050 | 16GB DDR5 RAM | 512GB SSD | 2K WUXGA 165Hz Display: NRs. 1,44,999 reference; proposed 10% saving NRs. 14,499.9; proposed price NRs. 1,30,499.1. Source: https://gadgethousenepal.com/product/acer-nitro-16-gaming-laptop-amd-ryzen-7-7735hs-rtx-4050-16gb-ddr5-ram-512gb-ssd-2k-wuxga-165hz-display/
 - Acer Nitro V Gaming Laptop i5 13th Gen RTX 4050 8/512GB 144Hz Display: NRs. 1,16,000 reference; proposed 10% saving NRs. 11,600; proposed price NRs. 1,04,400. Source: https://gadgethousenepal.com/product/acer-nitro-v-gaming-laptop-i5-13th-gen-rtx-4050-8-512gb-144hz-display/
 - Acer Aspire 5 15 2023 i5 13th Gen Laptop / 8GB RAM / 512GB SSD / 15.6″ FHD Display: NRs. 69,499 reference; proposed 10% saving NRs. 6,949.9; proposed price NRs. 62,549.1. Source: https://gadgethousenepal.com/product/acer-aspire-5-15-2023-i5-13th-gen-laptop-8gb-ram-512gb-ssd-15-6-fhd-display/
 - Acer Nitro V 15 Gaming Laptop i5-13420H | RTX 3050 6GB | 8GB RAM | 512 | 15.6″ FHD 144Hz: NRs. 1,10,000 reference; proposed 10% saving NRs. 11,000; proposed price NRs. 99,000. Source: https://gadgethousenepal.com/product/acer-nitro-v-15-gaming-laptop-i5-13420h-rtx-3050-6gb/
+- Lenovo LOQ 2023 Gaming Laptop: Ryzen 7, RTX 4050, 16GB DDR5, 512GB SSD, 15.6″ FHD IPS 144Hz: NRs. 1,54,999 reference; proposed 10% saving NRs. 15,499.9; proposed price NRs. 1,39,499.1. Source: https://gadgethousenepal.com/product/lenovo-loq-2023-gaming-laptop-ryzen-7-rtx-4050-16gb-ddr5-512gb-ssd-15-6-fhd-ips-144hz/
