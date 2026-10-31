@@ -1,0 +1,5 @@
+# Downloaded research caches; publish only the curated catalog and source references.
+source-catalog.html
+catalog-candidates.json
+catalog-research.json
+image-download-errors.json
