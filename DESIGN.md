@@ -1,6 +1,6 @@
 # Eakraj Mobile Shop — design system
 
-Design reference: [NextLevelBuilder UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill). Applied the installed `ui-ux-pro-max-nextlevelbuilder` skill, its relevant search results, accessibility priorities, and web layout guidance. Direct GitHub CLI/Git cloning was attempted but failed because GitHub DNS was unavailable in the terminal.
+Design reference: [NextLevelBuilder UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill). Applied the installed `ui-ux-pro-max-nextlevelbuilder` skill, its relevant search results, accessibility priorities, and web layout guidance. The requested repository was also cloned to `.design-reference/` (revision `9a3f14f`) after retrying a temporary GitHub connection failure. This reference checkout is ignored by the website repository.
 
 ## Direction
 

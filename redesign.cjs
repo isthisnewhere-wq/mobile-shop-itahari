@@ -67,6 +67,6 @@ for(const file of published.filter(f=>f.endsWith('.html'))){
  const kind=body.includes('catalog-results')?'catalog':body.includes('product-page')?'product':'information';
  fs.writeFileSync(file,'<!DOCTYPE html><html lang="en"><head>'+head+'</head><body data-layout="'+(file==='index.html'?'home':kind)+'"><a class="skip-link" href="#main">Skip to content</a>'+header(file)+'<main id="main">'+body+'</main>'+tray+footer+'</body></html>');
 }
-for(const file of ['theme.js','redesign.cjs','DESIGN.md','verify-store.cjs','verify-catalog.cjs'])if(!published.includes(file))published.push(file);
+for(const file of ['theme.js','redesign.cjs','DESIGN.md','publish-files.json','verify-store.cjs','verify-catalog.cjs'])if(!published.includes(file))published.push(file);
 fs.writeFileSync('publish-files.json',JSON.stringify(published,null,2));
 console.log('Redesigned',published.filter(f=>f.endsWith('.html')).length,'pages with the shared Eakraj design system.');
