@@ -47,7 +47,7 @@ function assessment(p) {
     Balanced:'This hardware targets everyday multitasking and lighter gaming. Start demanding games at modest settings; smoothness will vary by title and software.',
     Everyday:'Treat this as an everyday-use option for messaging, calls, browsing, and lighter apps. Check a model-specific gaming test before choosing it for demanding titles.'
   }[tier];
-  const pros = [oled ? 'OLED-family panel is listed for contrast-rich viewing.' : 'Compare the listed screen size and panel type for your viewing needs.',fiveG ? '5G connectivity is listed for compatible networks.' : 'Consider it primarily for the listed mobile network support.',battery && battery>=5500 ? 'A battery capacity of at least 5,500mAh is listed.' : 'Multiple price/storage options can help you match your budget.'];
+  const pros = [oled ? 'OLED-family panel is listed for contrast-rich viewing.' : 'Compare the listed screen size and panel type for your viewing needs.',fiveG ? '5G connectivity is listed for compatible networks.' : 'Consider it primarily for the listed mobile network support.',battery && battery>=5500 ? 'A battery capacity of at least 5,500mAh is listed.' : 'The named storage variant makes price comparisons more specific.'];
   const cautions = ['Store stock, local warranty, included charger, and final price need confirmation.'];
   if (!fiveG) cautions.push('5G support is not confirmed in the collected specifications.');
   if (refresh && Number(refresh)<=60) cautions.push('The listed refresh rate is 60Hz; compare with higher-refresh alternatives if smooth scrolling matters.');

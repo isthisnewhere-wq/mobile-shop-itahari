@@ -100,7 +100,7 @@ function updateSelection(){
   saveSelection();
   document.querySelectorAll('[data-compare]').forEach(button=>{const active=selected.includes(button.dataset.compare);button.setAttribute('aria-pressed',String(active));button.textContent=active?'✓ Selected':'+ Compare';});
   const tray=document.querySelector('#compare-tray');
-  if(tray){tray.hidden=selected.length===0;document.querySelector('#compare-status').textContent=selected.length+'/3 selected: '+selected.map(slug=>bySlug.get(slug).name).join(', ');document.querySelector('#compare-link').href='compare.html?phones='+encodeURIComponent(selected.join(','));}
+  if(tray){tray.hidden=selected.length===0||comparisonSelects.length>0;document.querySelector('#compare-status').textContent=selected.length+'/3 selected: '+selected.map(slug=>bySlug.get(slug).name).join(', ');document.querySelector('#compare-link').href='compare.html?phones='+encodeURIComponent(selected.join(','));}
   if(comparisonSelects.length){const params=new URLSearchParams();if(selected.length)params.set('phones',selected.join(','));history.replaceState(null,'',window.location.pathname+(params.size?'?'+params.toString():''));renderComparison();}
 }
 document.querySelectorAll('[data-compare]').forEach(button=>button.addEventListener('click',()=>{
