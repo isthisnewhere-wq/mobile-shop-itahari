@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://isthisnewhere-wq.github.io/mobile-shop-itahari/sitemap.xml
