@@ -1,0 +1,54 @@
+name: Refresh Nepal prices and publish
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: nepal-price-site
+  cancel-in-progress: false
+jobs:
+  refresh-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Refresh matching source quotes
+        if: github.event_name != 'push'
+        run: node refresh-prices.cjs
+      - name: Build connected device pages
+        run: node build-catalog.cjs
+      - name: Verify catalog and pricing behavior
+        run: |
+          node verify-catalog.cjs
+          node verify-store.cjs
+          node verify-prices.cjs
+      - name: Save dated quotes and generated pages
+        if: github.event_name != 'push'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          node -e "const fs=require('fs'),cp=require('child_process');cp.execFileSync('git',['add','--',...JSON.parse(fs.readFileSync('publish-files.json'))],{stdio:'inherit'});"
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh dated Nepal source prices'
+            git push
+          fi
+      - name: Prepare public website artifact
+        run: |
+          node -e "const fs=require('fs');fs.mkdirSync('public-output',{recursive:true});const files=new Set([...JSON.parse(fs.readFileSync('publish-files.json')),...fs.readdirSync('.').filter(f=>/^google.*\.html$/.test(f))]);for(const f of files)if(/\.(html|css|js|svg|png|jpg|jpeg|webp|xml|txt)$/.test(f))fs.copyFileSync(f,'public-output/'+f);fs.writeFileSync('public-output/.nojekyll','');"
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public-output
+      - name: Publish refreshed website
+        id: deployment
+        uses: actions/deploy-pages@v4

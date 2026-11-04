@@ -1,0 +1,20 @@
+{
+  "televisions": {"name":"Televisions","id":1590},
+  "monitors": {"name":"Monitors","id":510},
+  "smartwatches": {"name":"Smartwatches","id":45},
+  "projectors": {"name":"Projectors","id":83},
+  "routers": {"name":"Routers & networking","id":655},
+  "cameras": {"name":"Action cameras","id":211},
+  "security-cameras": {"name":"Security cameras","id":184},
+  "printers": {"name":"Printers","id":3590},
+  "storage": {"name":"SSD storage","id":3389},
+  "processors": {"name":"PC processors","id":1480},
+  "graphics-cards": {"name":"Graphics cards","id":526},
+  "motherboards": {"name":"Motherboards","id":1187},
+  "desktops": {"name":"Desktop computers","id":2035},
+  "microphones": {"name":"Microphones","id":16},
+  "controllers": {"name":"Game controllers","id":489},
+  "power-banks": {"name":"Power banks","id":689},
+  "chargers": {"name":"Chargers & cables","id":699},
+  "webcams": {"name":"Webcams","id":578}
+}

@@ -421,3 +421,1055 @@
 - Acer Aspire 5 15 2023 i5 13th Gen Laptop / 8GB RAM / 512GB SSD / 15.6″ FHD Display: NRs. 69,499 reference; proposed 10% saving NRs. 6,949.9; proposed price NRs. 62,549.1. Source: https://gadgethousenepal.com/product/acer-aspire-5-15-2023-i5-13th-gen-laptop-8gb-ram-512gb-ssd-15-6-fhd-display/
 - Acer Nitro V 15 Gaming Laptop i5-13420H | RTX 3050 6GB | 8GB RAM | 512 | 15.6″ FHD 144Hz: NRs. 1,10,000 reference; proposed 10% saving NRs. 11,000; proposed price NRs. 99,000. Source: https://gadgethousenepal.com/product/acer-nitro-v-15-gaming-laptop-i5-13420h-rtx-3050-6gb/
 - Lenovo LOQ 2023 Gaming Laptop: Ryzen 7, RTX 4050, 16GB DDR5, 512GB SSD, 15.6″ FHD IPS 144Hz: NRs. 1,54,999 reference; proposed 10% saving NRs. 15,499.9; proposed price NRs. 1,39,499.1. Source: https://gadgethousenepal.com/product/lenovo-loq-2023-gaming-laptop-ryzen-7-rtx-4050-16gb-ddr5-512gb-ssd-15-6-fhd-ips-144hz/
+- Samsonix Smart LED TV 32 –75 | 4K WebOS TV Price in Nepal: NRs. 16,999 reference. Source: https://gadgethousenepal.com/product/samsonix-smart-led-tv-32-75-4k-webos-tv-price-in-nepal/
+- SAMTONIC (32 inches) HD Ready Smart Android LED TV (Voice Remote): NRs. 17,000 reference. Source: https://gadgethousenepal.com/product/samtonic-32-inches-hd-ready-smart-android-led-tv-voice-remote/
+- OnePlus 43Y1 108 cm (43 inch) Smart TV: NRs. 69,990 reference. Source: https://gadgethousenepal.com/product/oneplus-43y1-108-cm-43-inch-smart-tv/
+- OnePlus 80cm (32inch) Y Series HD LED Smart TV: NRs. 49,490 reference. Source: https://gadgethousenepal.com/product/oneplus-80cm-32inch-y-series-hd-led-smart-tv/
+- Mi TV 4S (163.9cm) 65 Inch 4K UHD Android Smart TV: NRs. 1,05,000 reference. Source: https://gadgethousenepal.com/product/mi-tv-4s-163-9cm-65-65-inch-4k-uhd-android-smart-tv/
+- Mi TV 4x 108Cm 43 UHD 4K LED Smart Android TV (43 inch): NRs. 54,999 reference. Source: https://gadgethousenepal.com/product/mi-tv-4x-108cm-43-uhd-4k-led-smart-android-tv-43-inch/
+- TCL 65P8S 4K 65 Inch Smart Android LED TV: NRs. 1,45,000 reference. Source: https://gadgethousenepal.com/product/tcl-65p8s-4k-65-inch-smart-tv/
+- WEGA 32 Inch Non-Android Frameless LED TV with High Sound System + Free Wall Mount: NRs. 13,490 reference. Source: https://gadgethousenepal.com/product/wega-32-inch-non-android-frameless-led-tv-with-high-sound-system-free-wall-mount/
+- Wega 32 Inch LED Smart TV: Android 9.0, High Sound Quality: NRs. 15,490 reference. Source: https://gadgethousenepal.com/product/wega-32-inch-led-smart-tv/
+- Wega 40 inch Full HD 1080P LED Smart TV: NRs. 30,990 reference. Source: https://gadgethousenepal.com/product/wega-40-inch-full-hd-1080p-led-smart-tv/
+- Wega 43W4K-X10 43″ Inch UHD 4K LED Smart TV: NRs. 28,990 reference. Source: https://gadgethousenepal.com/product/wega-43w4k-x10-43%e2%80%b3-inch-uhd-4k-led-smart-tv/
+- Wega (50W4K-X10) 50 Inch Real 4K Smart TV: NRs. 53,900 reference. Source: https://gadgethousenepal.com/product/wega-50w4k-x10-50-inch-real-4k-smart-tv/
+- Wega 24 Inch Full Hd 1080P Led Tv, Double Glass Protection, Hdmi, Vga, Av: NRs. 13,990 reference. Source: https://gadgethousenepal.com/product/wega-24-inch-full-hd-1080p-led-tv-double-glass-protection-hdmi-vga-av/
+- Wega 32 Inch LED Smart Android 9.0, 1GB Ram 8GB Rom TV: NRs. 16,999 reference. Source: https://gadgethousenepal.com/product/wega-32-inch-led-smart-android-9-0-1gb-ram-8gb-rom-tv/
+- Armaggeddon Pixxel+ XF24HD Gaming Monitor – 24” FHD IPS 165Hz: NRs. 19,999 reference. Source: https://gadgethousenepal.com/product/armaggeddon-pixxel-xf24hd-gaming-monitor-24-fhd-ips-165hz/
+- Dell SE2425HG Gaming Monitor – 24″ FHD Fast IPS 200Hz: NRs. 24,999 reference. Source: https://gadgethousenepal.com/product/dell-se2425hg-gaming-monitor-24%e2%80%b3-fhd-fast-ips-200hz/
+- MSI MAG 255F E20 Gaming Monitor – 25” FHD IPS 200Hz: NRs. 24,999 reference. Source: https://gadgethousenepal.com/product/msi-mag-255f-e20-gaming-monitor-25-fhd-ips-200hz/
+- Huntkey G2456 24” 180Hz IPS Gaming Monitor: NRs. 20,499 reference. Source: https://gadgethousenepal.com/product/huntkey-g2456-24-180hz-ips-gaming-monitor/
+- MSI MAG 274QRFW X32 27” 320Hz WQHD Gaming Monitor: NRs. 57,999 reference. Source: https://gadgethousenepal.com/product/msi-mag-274qrfw-x32-27-320hz-wqhd-gaming-monitor/
+- MSI MAG 275QF E21 27-inch WQHD 210Hz Rapid IPS Gaming Monitor: NRs. 35,999 reference. Source: https://gadgethousenepal.com/product/msi-mag-275qf-e21-27-inch-wqhd-210hz-rapid-ips-gaming-monitor/
+- MSI PRO MP273L E14 27” 144Hz IPS Monitor: NRs. 24,999 reference. Source: https://gadgethousenepal.com/product/msi-pro-mp273l-e14-27-144hz-ips-monitor/
+- MSI PRO MP275 E14L 27-inch FHD 144Hz IPS Monitor: NRs. 25,999 reference. Source: https://gadgethousenepal.com/product/msi-pro-mp275-e14l-27-inch-fhd-144hz-ips-monitor/
+- MSI PRO MP273W E14A 27-Inch FHD 144Hz IPS Gaming Monitor: NRs. 25,999 reference. Source: https://gadgethousenepal.com/product/msi-pro-mp273w-e14a-27-inch-fhd-144hz-ips-gaming-monitor/
+- MSI PRO MP245PG E14 24-Inch FHD 140Hz IPS Monitor: NRs. 27,499 reference. Source: https://gadgethousenepal.com/product/msi-pro-mp245pg-e14-24-inch-fhd-140hz-ips-monitor/
+- MSI PRO MP243W E14 24-Inch FHD 144Hz IPS Monitor: NRs. 21,499 reference. Source: https://gadgethousenepal.com/product/msi-pro-mp243w-e14-24-inch-fhd-144hz-ips-monitor/
+- MSI PRO MP225V 22-Inch FHD 100Hz Monitor: NRs. 11,999 reference. Source: https://gadgethousenepal.com/product/msi-pro-mp225v-22-inch-fhd-100hz-monitor/
+- MSI MAG 275UPD E14 Gaming Monitor: NRs. 54,999 reference. Source: https://gadgethousenepal.com/product/msi-mag-275upd-e14-gaming-monitor/
+- MSI MAG 321CQF E18 Gaming Monitor: NRs. 49,999 reference. Source: https://gadgethousenepal.com/product/msi-mag-321cqf-e18-gaming-monitor/
+- MSI MAG 276CXF Gaming Monitor: NRs. 30,499 reference. Source: https://gadgethousenepal.com/product/msi-mag-276cxf-gaming-monitor/
+- MSI MAG 275QF E20 27-Inch WQHD 200Hz Gaming Monitor: NRs. 35,999 reference. Source: https://gadgethousenepal.com/product/msi-mag-275qf-e20-27-inch-wqhd-200hz-gaming-monitor/
+- MSI MAG 342CQRF E20 34-Inch UWQHD 200Hz Curved Gaming Monitor: NRs. 63,999 reference. Source: https://gadgethousenepal.com/product/msi-mag-342cqrf-e20-34-inch-uwqhd-200hz-curved-gaming-monitor/
+- MSI MAG 273QP QD-OLED X24 27-Inch QHD 240Hz Gaming Monitor: NRs. 1,09,999 reference. Source: https://gadgethousenepal.com/product/msi-mag-273qp-qd-oled-x24-27-inch-qhd-240hz-gaming-monitor/
+- MSI MPG 341CQPX QD-OLED 34 240Hz Curved Gaming Monitor: NRs. 1,89,999 reference. Source: https://gadgethousenepal.com/product/msi-mpg-341cqpx-qd-oled-34-240hz-curved-gaming-monitor/
+- MSI MPG 491CQPX QD-OLED Gaming Monitor: NRs. 2,39,999 reference. Source: https://gadgethousenepal.com/product/msi-mpg-491cqpx-qd-oled-gaming-monitor/
+- BenQ GW2791 27-Inch FHD 100Hz IPS Monitor: NRs. 24,999 reference. Source: https://gadgethousenepal.com/product/benq-gw2791-27-inch-fhd-100hz-ips-monitor/
+- BenQ GW2490TC 24-Inch FHD 144Hz IPS USB-C Monitor: NRs. 34,499 reference. Source: https://gadgethousenepal.com/product/benq-gw2490tc-24-inch-fhd-144hz-ips-usb-c-monitor/
+- BenQ GW2486TC 24-Inch FHD 100Hz IPS USB-C Monitor: NRs. 33,799 reference. Source: https://gadgethousenepal.com/product/benq-gw2486tc-24-inch-fhd-100hz-ips-usb-c-monitor/
+- BenQ GW2490 24-Inch FHD 100Hz IPS Monitor: NRs. 20,999 reference. Source: https://gadgethousenepal.com/product/benq-gw2490-24-inch-fhd-100hz-ips-monitor/
+- BenQ GW2490T 24-Inch FHD 100Hz IPS Monitor: NRs. 26,999 reference. Source: https://gadgethousenepal.com/product/benq-gw2490t-24-inch-fhd-100hz-ips-monitor/
+- BenQ GW2491 23.8-inch Full HD IPS monitor: NRs. 19,499 reference. Source: https://gadgethousenepal.com/product/benq-gw2491-23-8-inch-full-hd-ips-monitor/
+- BenQ PD3226G Designer Monitor 32-inch 4K UHD: NRs. 2,04,999 reference. Source: https://gadgethousenepal.com/product/benq-pd3226g-designer-monitor-32-inch-4k-uhd/
+- BenQ PD3225U Pro Designer Monitor 32-inch 4K UHD: NRs. 2,24,999 reference. Source: https://gadgethousenepal.com/product/benq-pd3225u-pro-designer-monitor-32-inch-4k-uhd/
+- BenQ PD2706UA Designer Monitor 5120 × 2880 (5K) resolution: NRs. 1,94,999 reference. Source: https://gadgethousenepal.com/product/benq-pd2706ua-designer-monitor-price-in-nepal/
+- BenQ PD3205UA Ergo Arm Designer Monitor: NRs. 1,23,299 reference. Source: https://gadgethousenepal.com/product/benq-pd3205ua-ergo-arm-designer-monitor/
+- BenQ PD2725U Designer Monitor Price in Nepal: NRs. 1,24,999 reference. Source: https://gadgethousenepal.com/product/benq-pd2725u-designer-monitor-price-in-nepal/
+- BenQ PD2706UA Designer Monitor: NRs. 99,999 reference. Source: https://gadgethousenepal.com/product/benq-pd2706ua-designer-monitor/
+- BenQ PD2706U 27-Inch 4K UHD Designer Monitor Price in Nepal: NRs. 94,799 reference. Source: https://gadgethousenepal.com/product/benq-pd2706u-27-inch-4k-uhd-designer-monitor-price-in-nepal/
+- MSI MAG 274QPF E20 27-Inch QHD Gaming Monitor 200Hz: NRs. 42,499 reference. Source: https://gadgethousenepal.com/product/msi-mag-274qpf-e20-27-inch-qhd-gaming-monitor-200hz/
+- MSI MAG 255F X24 25-Inch FHD 240Hz Rapid IPS Gaming Monitor Price in Nepal: NRs. 23,999 reference. Source: https://gadgethousenepal.com/product/msi-mag-255f-x24-25-inch-fhd-240hz-rapid-ips-gaming-monitor-price-in-nepal/
+- KOORUI 27E6QCA 27 Inch Curved QHD 180Hz Gaming Monitor: NRs. 37,999 reference. Source: https://gadgethousenepal.com/product/koorui-27e6qca-gaming-monitor/
+- KOORUI S2741LM 27 4K QD-Mini LED Gaming Monitor: NRs. 79,999 reference. Source: https://gadgethousenepal.com/product/koorui-s2741lm-27-4k-qd-mini-led-gaming-monitor/
+- KOORUI G2721P 27 200Hz WQHD Fast IPS Gaming Monitor: NRs. 39,999 reference. Source: https://gadgethousenepal.com/product/koorui-g2721p-27-200hz-wqhd-fast-ips-gaming-monitor/
+- KOORUI S4941XO 49 QD-OLED 240Hz Curved Ultrawide Gaming Monitor: NRs. 1,49,999 reference. Source: https://gadgethousenepal.com/product/koorui-s4941xo-49-qd-oled-240hz-curved-ultrawide-gaming-monitor/
+- Blackview DCM8 Triple Laptop Screen Extender (15.6 FHD IPS Portable Monitor): NRs. 38,999 reference. Source: https://gadgethousenepal.com/product/blackview-dcm8-triple-laptop-screen-extender-15-6-fhd-ips-portable-monitor/
+- Blackview Table 9 16 FHD Portable Monitor: NRs. 16,999 reference. Source: https://gadgethousenepal.com/product/blackview-table-9-16-fhd-portable-monitor/
+- MSI PRO MP273Q E7 Monitor – Smart, Efficient Workspace-Ready Display: NRs. 30,999 reference. Source: https://gadgethousenepal.com/product/msi-pro-mp273q-e7-monitor/
+- BenQ PD2706QN 27-Inch 2K QHD Designer Monitor – 100Hz IPS Color Accurate Display: NRs. 71,999 reference. Source: https://gadgethousenepal.com/product/benq-pd2706qn-27-inch-2k-qhd-designer-monitor-100hz-ips-color-accurate-display/
+- BenQ GW3290QT 32-inch QHD Monitor: NRs. 87,399 reference. Source: https://gadgethousenepal.com/product/benq-gw3290qt-32-inch-qhd-monitor/
+- MSI MAG 275QF X32 27″ 2K 320Hz Rapid IPS Gaming Monitor: NRs. 54,999 reference. Source: https://gadgethousenepal.com/product/msi-mag-275qf-x32-27%e2%80%b3-2k-320hz-rapid-ips-gaming-monitor/
+- AOC 24G4 24” Gaming Monitor – 180Hz IPS Full HD Gaming Display: NRs. 25,999 reference. Source: https://gadgethousenepal.com/product/aoc-24g4-24-gaming-monitor-180hz-ips-full-hd/
+- Dell S2725H 27-Inch FHD IPS Monitor: NRs. 29,999 reference. Source: https://gadgethousenepal.com/product/dell-s2725h-27-inch-fhd-ips-monitor/
+- KOORUI E2212F 22 FHD 100Hz Monitor: NRs. 15,999 reference. Source: https://gadgethousenepal.com/product/koorui-e2212f-22-fhd-100hz-monitor/
+- GIGABYTE GS27Q Advanced 27-Inch QHD Gaming Monitor: NRs. 42,499 reference. Source: https://gadgethousenepal.com/product/gigabyte-gs27q-advanced-27-inch-qhd-gaming-monitorprice-in-nepal/
+- GIGABYTE GS27F Advanced 27-Inch Gaming Monitor: NRs. 34,999 reference. Source: https://gadgethousenepal.com/product/gigabyte-gs27f-advanced-27-inch-gaming-monitorprice-in-nepal/
+- GIGABYTE GS25F2 24.5-Inch 200Hz Gaming Monitor: NRs. 27,500 reference. Source: https://gadgethousenepal.com/product/gigabyte-gs25f2-24-5-inch-200hz-gaming-monitorprice-in-nepal/
+- MSI MAG 272QPW QD-OLED X28 27-inch QHD Gaming Monitor: NRs. 1,30,000 reference. Source: https://gadgethousenepal.com/product/msi-mag-272qpw-qd-oled-x28-27-inch-qhd-gaming-monitorprice-in-nepal/
+- MSI MAG 271QPX QD-OLED E2 27-inch Gaming Monitor: NRs. 1,22,000 reference. Source: https://gadgethousenepal.com/product/msi-mag-271qpx-qd-oled-e2-27-inch-gaming-monitorprice-in-nepal/
+- MSI MAG401QR 40-inch Ultrawide Gaming Monitor: NRs. 83,999 reference. Source: https://gadgethousenepal.com/product/msi-mag401qr-40-inch-ultrawide-gaming-monitor/
+- MSI PRO MP273U 27” 4K UHD Monitor: NRs. 40,999 reference. Source: https://gadgethousenepal.com/product/msi-pro-mp273u-27-4k-uhd-monitor-price-in-nepal/
+- MSI MAG 275F 27” Gaming Monitor: NRs. 33,499 reference. Source: https://gadgethousenepal.com/product/msi-mag-275f-27-gaming-monitorprice-in-nepal/
+- MSI Pro MP161 E2 Portable Monitor: NRs. 25,000 reference. Source: https://gadgethousenepal.com/product/msi-pro-mp161-e2-portable-monitor/
+- MSI PRO MP251 E2 24.5-inch 120Hz IPS Monitor: NRs. 19,499 reference. Source: https://gadgethousenepal.com/product/msi-pro-mp251-e2-24-5-inch-120hz-ips-monitorprice-in-nepal/
+- ASUS ROG Swift Pro PG248QP 540Hz G-SYNC Esports Gaming Monitor: NRs. 1,98,900 reference. Source: https://gadgethousenepal.com/product/asus-rog-swift-pro-pg248qp-540hz-g-sync-esports-gaming-monitor/
+- ASUS ROG Strix XG27AQDMG 27” OLED Gaming Monitor: NRs. 1,99,999 reference. Source: https://gadgethousenepal.com/product/asus-rog-strix-xg27aqdmg-27-oled-gaming-monitor/
+- ASUS ProArt Display PA27JCV 27” 5K HDR Professional Monitor: NRs. 1,45,250 reference. Source: https://gadgethousenepal.com/product/asus-proart-display-pa27jcv-27-5k-hdr-professional-monitorprice-in-nepal/
+- ASUS ROG Strix XG27UCG 27” 4K HDR Gaming Monitor: NRs. 98,900 reference. Source: https://gadgethousenepal.com/product/asus-rog-strix-xg27ucg-27-4k-hdr-gaming-monitor/
+- ASUS ProArt PA278CGV 27” QHD Monitor: NRs. 1,05,000 reference. Source: https://gadgethousenepal.com/product/asus-proart-pa278cgv-27-qhd-monitor/
+- ASUS TUF Gaming VG27UQ1A – 27” 4K HDR 160Hz Gaming Monitor: NRs. 81,000 reference. Source: https://gadgethousenepal.com/product/asus-tuf-gaming-vg27uq1a-27-4k-hdr-160hz-gaming-monitorprice-in-nepal/
+- AOC 27G4 27-inch FHD Gaming Monitor: NRs. 32,000 reference. Source: https://gadgethousenepal.com/product/aoc-27g4-27-inch-fhd-gaming-monitor/
+- AOC 24G11ZE 23.8-inch 240Hz Gaming Monitor: NRs. 27,000 reference. Source: https://gadgethousenepal.com/product/aoc-24g11ze-23-8-inch-240hz-gaming-monitorprice-in-nepal/
+- LG 34WQ650-W 34-Inch UltraWide Full HD IPS Monitor: NRs. 46,999 reference. Source: https://gadgethousenepal.com/product/lg-34wq650-w-34-inch-ultrawide-full-hd-ips-monitor/
+- LG 29WQ600-W UltraWide 29-Inch FHD IPS Monitor: NRs. 43,999 reference. Source: https://gadgethousenepal.com/product/lg-29wq600-w-ultrawide-29-inch-fhd-ips-monitor/
+- LG 27GS60F Ultragear™ 27-inch Gaming Monitor: NRs. 34,999 reference. Source: https://gadgethousenepal.com/product/lg-27gs60f-ultragear-27-inch-gaming-monitor/
+- LG 27GQ50F-B Ultragear Gaming Monitor: NRs. 31,000 reference. Source: https://gadgethousenepal.com/product/lg-27gq50f-b-ultragear-gaming-monitor-price-in-nepal/
+- Samsung 34 Odyssey G85SB QD-OLED Gaming Monitor: NRs. 3,40,000 reference. Source: https://gadgethousenepal.com/product/samsung-34-odyssey-g85sb-qd-oled-gaming-monitor/
+- Samsung 34” Odyssey G85SB QD-OLED Gaming Monitor: NRs. 2,05,000 reference. Source: https://gadgethousenepal.com/product/samsung-34-odyssey-g85sb-qd-oled-gaming-monitorprice-in-nepal/
+- Samsung 27” Odyssey G6 QHD QD-OLED Gaming Monitor: NRs. 2,29,999 reference. Source: https://gadgethousenepal.com/product/samsung-27-odyssey-g6-qhd-qd-oled-gaming-monitorprice-in-nepal/
+- Samsung Odyssey G9 49-inch Gaming Monitor: NRs. 2,05,000 reference. Source: https://gadgethousenepal.com/product/samsung-odyssey-g9-49-inch-gaming-monitorprice-in-nepal/
+- Samsung Odyssey OLED G6 (G61SD) 27 QHD QD-OLED 240Hz Gaming Monitor: NRs. 1,35,000 reference. Source: https://gadgethousenepal.com/product/samsung-odyssey-oled-g6-g61sd-27-qhd-qd-oled-240hz-gaming-monitor/
+- Samsung Odyssey G50D 32-Inch QHD 180Hz Gaming Monitor: NRs. 57,999 reference. Source: https://gadgethousenepal.com/product/samsung-odyssey-g50d-32-inch-qhd-180hz-gaming-monitor/
+- Samsung Odyssey G3 (G30D) 32-Inch FHD 180Hz Gaming Monitor: NRs. 41,000 reference. Source: https://gadgethousenepal.com/product/samsung-odyssey-g3-g30d-32-inch-fhd-180hz-gaming-monitor/
+- Samsung Odyssey G32A 27-Inch 165Hz Gaming Monitor: NRs. 35,999 reference. Source: https://gadgethousenepal.com/product/samsung-odyssey-g32a-27-inch-165hz-gaming-monitor/
+- Samsung CRG5 24-Inch 144Hz Curved Gaming Monitor: NRs. 26,999 reference. Source: https://gadgethousenepal.com/product/samsung-crg5-24-inch-144hz-curved-gaming-monitorprice-in-nepal/
+- Acer Predator X32 X3 31.5 OLED Gaming Monitor: NRs. 2,24,000 reference. Source: https://gadgethousenepal.com/product/acer-predator-x32-x3-31-5-oled-gaming-monitor/
+- Acer Predator X27U 27 OLED Gaming Monitor: NRs. 1,19,000 reference. Source: https://gadgethousenepal.com/product/acer-predator-x27u-27-oled-gaming-monitor/
+- Acer ED343CURX 34″ UWQHD Curved Monitor: NRs. 72,499 reference. Source: https://gadgethousenepal.com/product/acer-ed343curx-34%e2%80%b3-uwqhd-curved-monitor/
+- Acer Nitro VG270K 27″ 4K UHD IPS Monitor: NRs. 66,700 reference. Source: https://gadgethousenepal.com/product/acer-nitro-vg270k-27%e2%80%b3-4k-uhd-ips-monitor/
+- Acer Nitro ED340CUS3 34″ Curved Gaming Monitor: NRs. 52,999 reference. Source: https://gadgethousenepal.com/product/acer-nitro-ed340cus3-34%e2%80%b3-curved-gaming-monitor/
+- Acer SA322QK 31.5-inch 4K UHD Monitor: NRs. 44,499 reference. Source: https://gadgethousenepal.com/product/acer-sa322qk-31-5-inch-4k-uhd-monitor/
+- Acer Nitro XZ322QUS 32-inch Curved Gaming Monitor: NRs. 41,999 reference. Source: https://gadgethousenepal.com/product/acer-nitro-xz322qus-32-inch-curved-gaming-monitor/
+- Acer SA322QA 31.5-inch Full HD IPS Monitor: NRs. 31,999 reference. Source: https://gadgethousenepal.com/product/acer-sa322qa-31-5-inch-full-hd-ips-monitor/
+- Acer XZ306CX 29.5-inch Ultrawide 21:9 FHD Monitor: NRs. 42,999 reference. Source: https://gadgethousenepal.com/product/acer-xz306cx-29-5-inch-ultrawide-219-fhd-monitorprice-in-nepal/
+- Acer ConceptD CM3 CM3271K Monitor: NRs. 84,999 reference. Source: https://gadgethousenepal.com/product/acer-conceptd-cm3-cm3271k-monitor/
+- Acer Nitro VG272U Gaming Monitor: NRs. 46,499 reference. Source: https://gadgethousenepal.com/product/acer-nitro-vg272u-gaming-monitorprice-in-nepal/
+- Acer Predator XB273U 27 Gaming Monitor: NRs. 44,499 reference. Source: https://gadgethousenepal.com/product/acer-predator-xb273u-v3bmiiprx-27-gaming-monitor/
+- Acer SA272U G 27″ WQHD Monitor: NRs. 37,999 reference. Source: https://gadgethousenepal.com/product/acer-sa272u-g-27%e2%80%b3-wqhd-monitor/
+- Acer ED270U S3 27″ WQHD 180Hz Curved Gaming Monitor: NRs. 33,999 reference. Source: https://gadgethousenepal.com/product/acer-ed270u-s3-27%e2%80%b3-wqhd-180hz-curved-gaming-monitor/
+- Acer KG270 X1 200Hz Full HD IPS Gaming Monitor: NRs. 33,350 reference. Source: https://gadgethousenepal.com/product/acer-kg270-x1-200hz-full-hd-ips-gaming-monitor/
+- Acer ED270R S3 27″ Full HD 180Hz Curved Gaming Monitor: NRs. 27,999 reference. Source: https://gadgethousenepal.com/product/acer-ed270r-s3-27%e2%80%b3-full-hd-180hz-curved-gaming-monitor/
+- Acer EK271G Full HD 100Hz VA Monitor: NRs. 22,499 reference. Source: https://gadgethousenepal.com/product/acer-ek271g-price-in-nepal/
+- Acer Nitro KG240YM5 24 Inch 180Hz Full HD IPS Gaming Monitor: NRs. 24,499 reference. Source: https://gadgethousenepal.com/product/acer-nitro-kg240ym5-24-inch-180hz-full-hd-ips-gaming-monitor/
+- MSI PRO MP275Q 27-Inch 2K WQHD Office Monitor: NRs. 31,499 reference. Source: https://gadgethousenepal.com/product/msi-pro-mp275q-27-inch-2k-wqhd-office-monitor/
+- MSI MAG 255XF 25 300Hz IPS Gaming Monitor: NRs. 29,999 reference. Source: https://gadgethousenepal.com/product/msi-mag-255xf-25-300hz-ips-gaming-monitor/
+- MSI Modern MD272XP 27 Inch FHD Office Monitor 1920 x 1080 IPS Panel, 100 Hz: NRs. 38,799 reference. Source: https://gadgethousenepal.com/product/msi-modern-md272xp-27-inch-fhd-office-monitor/
+- MSI Modern MD2412P 23.8 Inch FHD Office Monitor – 1920 x 1080 IPS Panel, 100 Hz: NRs. 27,999 reference. Source: https://gadgethousenepal.com/product/msi-modern-md2412p-23-8-inch-fhd-office-monitor-1920-x-1080-ips-panel-100-hz/
+- MSI Pro MP273AW 27 Monitor , 1920 x 1080 (FHD), IPS, 100Hz: NRs. 20,799 reference. Source: https://gadgethousenepal.com/product/msi-pro-mp273aw-27-monitor/
+- SAMSUNG 24 Essential Monitor S3: NRs. 18,499 reference. Source: https://gadgethousenepal.com/product/samsung-24-essential-monitor-s3/
+- MSI PRO MP242C 23.6 Inch Curved Business Monitor – Full HD, Eye-Friendly, Built-in Speakers, Anti-Glare, Black: NRs. 21,499 reference. Source: https://gadgethousenepal.com/product/msi-pro-mp242c-23-6-inch-curved-monitor-price-in-nepal/
+- MSI Pro MP223 21.45 Inch Full HD Office LCD Monitor: NRs. 13,799 reference. Source: https://gadgethousenepal.com/product/msi-pro-mp223-21-45-inch-full-hd-office-lcd-monitor/
+- MSI Optix G241VC 24 Curved Gaming Monitor: NRs. 22,499 reference. Source: https://gadgethousenepal.com/product/msi-optix-g241vc-24-curved-gaming-monitor/
+- MSI G274QPF E2 27-Inch 2K Gaming Monitor, IPS Panel, 180 Hz: NRs. 47,999 reference. Source: https://gadgethousenepal.com/product/msi-g274qpf-e2-27-inch-2k-gaming-monitor-ips-panel-180-hz/
+- MSI G32CQ5P 32 Curved Gaming Monitor, 2K,170Hz, 2560 x 1440 (QHD): NRs. 52,999 reference. Source: https://gadgethousenepal.com/product/msi-g32cq5p-32-curved-gaming-monitor/
+- MSI Optix MAG342CQR 34-Inch Curved Gaming Monitor, 3.4K | Ultra Wide 1500R Curved | 144Hz 1ms | 118% SRGB Color Gamut | Height Adjustment |Eyecare: NRs. 64,999 reference. Source: https://gadgethousenepal.com/product/msi-optix-mag342cqr-34-inch-curved-gaming-monitor-3-4k-ultra-wide-1500r-curved-144hz-1ms-118-srgb-color-gamut-height-adjustment-eyecare/
+- MSI G244F E2 Gaming Monitor 23.8 FHD Rapid IPS 180Hz: NRs. 26,999 reference. Source: https://gadgethousenepal.com/product/msi-g244f-e2-gaming-monitor/
+- GIGABYTE G27Qc A Gaming LED Curved Monitor, 2560 x 1440, 165Hz, Qhd, 88% Dci-P3 / 132% Srgb, HDR Ready, Black: NRs. 46,499 reference. Source: https://gadgethousenepal.com/product/gigabyte-g27qc-a-gaming-led-curved-monitor/
+- Dahua DHI-LM27-C201P 27-inch 100Hz FHD IPS Monitor: NRs. 20,199 reference. Source: https://gadgethousenepal.com/product/dahua-dhi-lm27-c201p-27-inch-100hz-fhd-ips-monitor/
+- Dahua DHI-LM24-C201P 24-inch 100Hz FHD Monitor: NRs. 16,499 reference. Source: https://gadgethousenepal.com/product/dahua-dhi-lm24-c201p-24-inch-100hz-fhd-monitor/
+- Dahua DHI-LM22-C201P 21.5-inch FHD IPS 100Hz Monitor: NRs. 11,999 reference. Source: https://gadgethousenepal.com/product/dahua-dhi-lm22-c201p-21-5-inch-fhd-ips-100hz-monitor/
+- Dahua LM24-E231 23.8 inch 165Hz FHD IPS Gaming Monitor: NRs. 27,699 reference. Source: https://gadgethousenepal.com/product/dahua-lm24-e231-23-8-inch-165hz-fhd-ips-gaming-monitor/
+- Dahua DHI-LM27-E231 IPS 27-Inch Full HD Monitor, 165HZ: NRs. 34,979 reference. Source: https://gadgethousenepal.com/product/dahua-dhi-lm27-e231-ips-27-inch-full-hd-monitor-165hz/
+- Dahua LM24-E230C 24-Inch Full HD Curved Gaming Monitor, 165HZ: NRs. 24,999 reference. Source: https://gadgethousenepal.com/product/dahua-lm24-e230c-24-inch-full-hd-curved-gaming-monitor-165hz/
+- Dahua LM27-E230C 27 Inch Curved Gaming Monitor | 165Hz, 99% sRGB, VA Panel: NRs. 31,999 reference. Source: https://gadgethousenepal.com/product/dahua-lm27-e230c-monitor-165hz-99-srgb-va-panel/
+- GIGABYTE M28U 28 4K Gaming Monitor, FreeSync Premium Pro and VESA Display HDR400.: NRs. 89,999 reference. Source: https://gadgethousenepal.com/product/gigabyte-m28u-28-4k-gaming-monitor-freesync-premium-pro-and-vesa-display-hdr400/
+- KOORUI N07 27 Inch 4K UHD Monitor IPS with VESA, AdaptiveSync, HDR10, 90% DCI-P3: NRs. 47,999 reference. Source: https://gadgethousenepal.com/product/koorui-n07-27-inch-4k-uhd-monitor-ips-with-vesa-adaptivesync-hdr10-90-dci-p3/
+- KOORUI 34 Inch Ultrawide Curved Gaming Monitor | 165Hz, 1ms, WQHD 3440 1440, Adaptive Sync, DCI-P3 90% Color Gamut: NRs. 58,499 reference. Source: https://gadgethousenepal.com/product/koorui-34-inch-ultrawide-curved-gaming-monitor-165hz-1ms-wqhd-3440x1440-adaptive-sync-dci-p3-90-color-gamut/
+- KOORUI 27E6QC 27 Curved Gaming Monitor | 2K | 2560 1440, AdaptiveSync, Narrow Bezel | QHD 144Hz 1ms: NRs. 31,999 reference. Source: https://gadgethousenepal.com/product/koorui-27e6qc-27-curved-gaming-monitor-2k-2560x1440-adaptivesync-narrow-bezel-qhd-144hz-1ms/
+- Xiaomi Mi Desktop Monitor 27 Inch, 1080p Full HD and 75Hz Refresh Rate: NRs. 24,999 reference. Source: https://gadgethousenepal.com/product/xiaomi-mi-desktop-monitor-27-inch-1080p-full-hd-and-75hz-refresh-rate/
+- Xiaomi 4K Monitor 27 Inch: NRs. 94,999 reference. Source: https://gadgethousenepal.com/product/xiaomi-4k-monitor-27-inch/
+- Redmi Mi 2K Monitor 27 Inch: NRs. 31,999 reference. Source: https://gadgethousenepal.com/product/redmi-mi-2k-gaming-monitor-27-inch/
+- INNOCN 27 Computer Monitor 4K – 27C1U-D: NRs. 41,999 reference. Source: https://gadgethousenepal.com/product/innocn-27-computer-monitor-4k-27c1u-d/
+- MSI Pro MP251 24.5-Inch Computer Monitor 100Hz, IPS, VESA Mount, and Eye Care Features: NRs. 17,999 reference. Source: https://gadgethousenepal.com/product/msi-pro-mp251-24-5-inch-computer-monitor-100hz-ips-vesa-mount-and-eye-care-features/
+- Xiaomi Mi Curved Gaming Monitor 34 Inch, WQHD 3.440 x 1.440, 21:9, 144Hz, 4ms, 300lm, 121% sRGB: NRs. 64,999 reference. Source: https://gadgethousenepal.com/product/xiaomi-mi-curved-gaming-monitor-34-inch-wqhd-3-440-x-1-440-219-144hz-4ms-300lm-121-srgb/
+- AOC 25G3ZM 25 240Hz Gaming Monitor: NRs. 38,499 reference. Source: https://gadgethousenepal.com/product/aoc-25g3zm-25-240hz-gaming-monitor/
+- MSI G274QPF-QD 27 Gaming Monitor – 2K / 170Hz, and Quantum Dot Display: NRs. 49,999 reference. Source: https://gadgethousenepal.com/product/msi-g274qpf-qd-27-gaming-monitor-2k-170hz-and-quantum-dot-display/
+- Dell 4K 32 Monitor – P3223QE: NRs. 79,999 reference. Source: https://gadgethousenepal.com/product/dell-4k-32-monitor-p3223qe/
+- ASUS ProArt Display 27” 4K HDR Professional Monitor (PA279CRV): NRs. 90,000 reference. Source: https://gadgethousenepal.com/product/asus-proart-display-27-4k-hdr-professional-monitor-pa279crv/
+- GIGABYTE G27F 2 Gaming Monitor, 1920 x 1080 SS IPS Display, 165Hz (170Hz OC): NRs. 35,999 reference. Source: https://gadgethousenepal.com/product/gigabyte-g27f-2-gaming-monitor-1920-x-1080-ss-ips-display-165hz-170hz-oc/
+- GIGABYTE M27F A 27 165Hz 1080P KVM Gaming Monitor, Curved 165Hz: NRs. 42,999 reference. Source: https://gadgethousenepal.com/product/gigabyte-m27f-a-27-165hz-1080p-kvm-gaming-monito/
+- GIGABYTE M27F A 27 165Hz 1080P Gaming Monitor,1920 1080 IPS Display, 1ms (GTG) Response Time, 99% sRGB,: NRs. 46,999 reference. Source: https://gadgethousenepal.com/product/gigabyte-m27f-a-27-165hz-1080p-gaming-monitor1920x1080-ips-display-1ms-gtg-response-time-99-srgb/
+- GIGABYTE G27Q 27 144Hz 1440P Gaming Monitor, 2560 x 1440 IPS Display: NRs. 50,999 reference. Source: https://gadgethousenepal.com/product/gigabyte-g27q-27-144hz-1440p-gaming-monitor-2560-x-1440-ips-display/
+- GIGABYTE M27Q Rev 2 Gaming Monitor 27 IPS 165Hz 2560X1440 KVM Type C Adaptive Gaming Monitor: NRs. 43,999 reference. Source: https://gadgethousenepal.com/product/gigabyte-m27q-rev-2-gaming-monitor-27-ips-165hz-2560x1440-kvm-type-c-adaptive-gaming-monitor/
+- GIGABYTE G32QC Curved Gaming Monitor (32 165Hz 1440P, 2560 x 1440): NRs. 63,799 reference. Source: https://gadgethousenepal.com/product/gigabyte-g32qc-curved-gaming-monitor-a-32-165hz-1440p-2560-x-1440-va/
+- GIGABYTE G34WQC 34 Gaming Monitor,144Hz Ultra-Wide Curved: NRs. 73,799 reference. Source: https://gadgethousenepal.com/product/gigabyte-g34wqc-a-34-gaming-monitor/
+- GIGABYTE M27Q X Monitor 27 240Hz 1440P -KVM Gaming, 2560 x 1440 SS IPS Display: NRs. 77,399 reference. Source: https://gadgethousenepal.com/product/gigabyte-m27q-x-monitor-27-240hz-1440p-kvm-gaming-2560-x-1440-ss-ips-display/
+- KOORUI 24e3 24 Gaming Monitor 165Hz, 1080p, 1ms, IPS, 99% sRGB: NRs. 20,999 reference. Source: https://gadgethousenepal.com/product/koorui-24e3-24-gaming-monitor-165hz-price-in-nepal/
+- Gigabyte G24F 2 Gaming Monitor: NRs. 27,999 reference. Source: https://gadgethousenepal.com/product/gigabyte-g24f-2-gaming-monitor/
+- Hitech 27 Inch Gaming PC Monitor 144hz: NRs. 28,599 reference. Source: https://gadgethousenepal.com/product/hitech-27-inch-gaming-pc-monitor-144hz/
+- Hitech 27 Inch Gaming PC Monitor 75Hz: NRs. 23,399 reference. Source: https://gadgethousenepal.com/product/hitech-27-inch-gaming-pc-monitor-75hz/
+- Hitech 24 Inch Gaming PC Monitor 75Hz: NRs. 18,850 reference. Source: https://gadgethousenepal.com/product/hitech-24-inch-gaming-pc-monitor-75hz/
+- Hitech 24 Inch Gaming PC Monitor 144Hz: NRs. 23,399 reference. Source: https://gadgethousenepal.com/product/hitech-24-inch-gaming-pc-monitor-144hz/
+- BenQ PD3205U 32 4K UHD Monitor Designer: NRs. 1,08,000 reference. Source: https://gadgethousenepal.com/product/benq-pd3205u-32-4k-uhd-monitor/
+- BenQ PD2705U 27 4K Monitor 99% Rec.709 sRGB USB-C (65W): NRs. 79,999 reference. Source: https://gadgethousenepal.com/product/benq-pd2705u-27-4k-monitor-99-rec-709-srgb-usb-c-65w/
+- BenQ PD2705Q Designer Monitor 27-inch 2K QHD sRGB HDR10 USB-C: NRs. 62,999 reference. Source: https://gadgethousenepal.com/product/benq-pd2705q-designer-monitor-27-inch-2k-qhd-srgb-hdr10-usb-c/
+- BenQ EX2780Q 2K Gaming Monitor 144Hz 5ms IPS: NRs. 82,999 reference. Source: https://gadgethousenepal.com/product/benq-ex2780q-2k-gaming-monitor-144hz-5ms-ips/
+- BenQ Mobiuz Ex2710R 27 Inch 2K 1000R Curved Gaming Monitor 165Hz: NRs. 79,999 reference. Source: https://gadgethousenepal.com/product/benq-mobiuz-ex2710r-27-inch-2k-1000r-curved-gaming-monitor-165hz/
+- BenQ MOBIUZ EX2710 27 Inch 144Hz IPS Gaming Monitor: NRs. 56,999 reference. Source: https://gadgethousenepal.com/product/benq-mobiuz-ex2710-27-inch-144hz-ips-gaming-monitor/
+- BenQ Mobiuz EX2510 24.5 Inch Gaming Monitor 1080P 144Hz IPS Computer with Freesync Premium, HDRi and Speakers: NRs. 47,999 reference. Source: https://gadgethousenepal.com/product/benq-mobiuz-ex2510-24-5-inch-gaming-monitor-1080p-144hz-ips-computer-with-freesync-premium-hdri-and-speakers/
+- BenQ EW3270U 32 Inch 4K Computer Monitor Freesync, USB-C, HDMI, DP, P3 Colors, Brightness Intelligent Plus and Eye-Care Technology: NRs. 82,200 reference. Source: https://gadgethousenepal.com/product/benq-ew3270u-32-inch-4k-computer-monitor/
+- BenQ Ew2780 27 Inch Entertainment And Gaming Lcd Monitor Hdr, 1920 x 1080 Pixels: NRs. 37,450 reference. Source: https://gadgethousenepal.com/product/benq-ew2780-27-inch-entertainment-and-gaming-lcd-monitor-hdr-1920-x-1080-pixels/
+- BenQ Ew2480 24 Inch LCD Monitor Entertainment and Gaming: NRs. 29,500 reference. Source: https://gadgethousenepal.com/product/benq-ew2480-24-inch-lcd-monitor-entertainment-and-gaming/
+- BenQ 28 inch 4K HDR Gaming Monitor, FreeSync, 1ms GtG, eye-care™️ Technology | EL2870U: NRs. 62,000 reference. Source: https://gadgethousenepal.com/product/benq-28-inch-4k-hdr-gaming-monitor-el2870u/
+- Acer Nitro VG240YS 23.8 Inch IPS Monitor 165Hz: NRs. 27,000 reference. Source: https://gadgethousenepal.com/product/acer-nitro-23-8-inch-monitor/
+- MSI MD272QPW 27 WQHD 2K IPS Monitor, 2560x 1440: NRs. 54,999 reference. Source: https://gadgethousenepal.com/product/msi-md272qpw-27-wqhd-2k-ips-monitor-2560x-1440-copy/
+- MSI MD271QPW 27 WQHD 2K IPS Monitor, 2560x 1440: NRs. 54,500 reference. Source: https://gadgethousenepal.com/product/msi-md271qpw-27-wqhd-2k-ips-monitor/
+- Samsung Odyssey G9 49 Inch DQHD Curved Gaming Monitor 1000R Curved Screen, QLED, Dual QHD Display, 240Hz, NVIDIA G-SYNC and FreeSync Premium Pro, LC49G95TSSNXZA: NRs. 3,77,500 reference. Source: https://gadgethousenepal.com/product/samsung-odyssey-g9-49-inch-dqhd-curved-gaming-monitor-1000r-curved-screen-qled-dual-qhd-display-240hz-nvidia-g-sync-and-freesync-premium-pro-lc49g95tssnxza/
+- Samsung 34 inch Odyssey G5 Gaming Monitor Ultra WQHD, 165 Hz, 1ms, Curved LC34G55TWWWXXL, Black, 3440 X 1440 (WQHD) Pixels: NRs. 1,44,500 reference. Source: https://gadgethousenepal.com/product/samsung-34-inch-odyssey-g5-gaming-monitor/
+- The Samsung 32 QHD Monitor: NRs. 1,07,000 reference. Source: https://gadgethousenepal.com/product/the-samsung-32-qhd-monitor/
+- Samsung 27 inch Gaming Monitor, 240Hz, 1ms, IPS, Flat Monitor: NRs. 86,499 reference. Source: https://gadgethousenepal.com/product/samsung-27-inch-monitor/
+- Samsung 24 Monitor – LS24R358FZWXXL Business Monitor with bezel-less design, AMD Freesync and Game mode: NRs. 34,999 reference. Source: https://gadgethousenepal.com/product/samsung-24-monitor-ls24r358fzwxxl-business-monitor-with-bezel-less-design-amd-freesync-and-game-mode/
+- Samsung 22″ Monitor – IPS Panel Monitor: NRs. 19,990 reference. Source: https://gadgethousenepal.com/product/samsung-22%e2%80%b3-monitor/
+- Xiaomi Redmi Gaming Monitor G24 24 Inch 165hz Refresh Rate: NRs. 24,999 reference. Source: https://gadgethousenepal.com/product/xiaomi-redmi-gaming-monitor-g24-24-inch-165hz/
+- MSI G281UV 28 4K Gaming Monitor: NRs. 63,000 reference. Source: https://gadgethousenepal.com/product/msi-g281uv-28-4k-gaming-monitor/
+- Mi Desktop Monitor 27 Inch EU IPS 1920×1080 full HD: NRs. 33,500 reference. Source: https://gadgethousenepal.com/product/mi-desktop-monitor-27ips/
+- HUAWEI MateView SE 24-Inch Monitor Vertical and Horizontal Rotating Version: NRs. 25,999 reference. Source: https://gadgethousenepal.com/product/huawei-mateview-se-24-inch-monitor-vertical-and-horizontal-rotating-version/
+- BIGBYTE 27 2K 165Hz IPS Gaming Monitor 1.07B 95% DCI-P3 WQHD 2560 x 1440 Wide Screen Display HDR Flat FreeSync: NRs. 42,800 reference. Source: https://gadgethousenepal.com/product/bigbyte-27-2k-165hz-ips-gaming-monitor-1-07b-95-dci-p3-wqhd-2560-x-1440-wide-screen-display-hdr-flat-freesync/
+- ASUS ProArt Display PA279CV Professional 4K Monitor – 27-inch: NRs. 85,000 reference. Source: https://gadgethousenepal.com/product/asus-proart-display-pa279cv-professional-4k-monitor-27-inch/
+- BENQ 28 4K EW2880U Monitor IPS P3 HDRi Premium: NRs. 64,000 reference. Source: https://gadgethousenepal.com/product/28-4k-ew2880u-monitor-ips-p3-hdri-premium/
+- Xiaomi Mi 24 inch Monitor 1C, BHR4510GL, 23.8 inch, 60 Hz Desktop Full HD – Black: NRs. 16,999 reference. Source: https://gadgethousenepal.com/product/xiaomi-mi-24-inch-monitor-1c-bhr4510gl-23-8-inch-60-hz-desktop-full-hd-black/
+- NEXGEN 19″ inch MONITOR HD NX190H: NRs. 7,499 reference. Source: https://gadgethousenepal.com/product/nexgen-19%e2%80%b3-inch-monitor-hd-nx190h/
+- Dell S2721HGF 144Hz Gaming 27 Inch Curved Monitor: NRs. 37,599 reference. Source: https://gadgethousenepal.com/product/dell-s2721hgf-144hz-gaming-27-inch-curved-monitor/
+- MSI Optix G241, 24 Inch IPS Gaming Led Monitor 144Hz Refresh Rate: NRs. 33,499 reference. Source: https://gadgethousenepal.com/product/msi-optix-g241-24-inch-ips-gaming-led-monitor-144hz-refresh-rate/
+- BenQ 24 inch Monitor GW2480 Eye-Care: NRs. 22,999 reference. Source: https://gadgethousenepal.com/product/benq-24-inch-monitor-gw2480-eye-care/
+- KOORUI IPS 24 INCH Business Computer Monitor 1080p 75Hz Monitor: NRs. 22,999 reference. Source: https://gadgethousenepal.com/product/koorui-ips-24-inch-business-computer-monitor-1080p-75hz-monitor/
+- BENQ 65 Interactive Display for Education – RP6501K: NRs. 4,60,000 reference. Source: https://gadgethousenepal.com/product/benq-65-interactive-display-for-education-rp6501k/
+- DarkFlash A229W 21.5” FHD Liquid Crystal Monitor: NRs. 19,999 reference. Source: https://gadgethousenepal.com/product/darkflash-a229w-21-5-fhd-liquid-crystal-monitor/
+- ASUS TUF Gaming VG249Q 23.8” Monitor 144Hz Full HD (1920 x 1080) 1ms IPS ELMB FreeSync Eye Care DisplayPort HDMI D-Sub: NRs. 68,500 reference. Source: https://gadgethousenepal.com/product/asus-tuf-gaming-vg249q-23-8-monitor-144hz-full-hd-1920-x-1080-1ms-ips-elmb-freesync-eye-care-displayport-hdmi-d-sub/
+- Dell U2723QE UltraSharp 4K Monitor, USB-C Hub Monitor – 27-inch QHD (3840 x 2160) 60Hz Display: NRs. 92,000 reference. Source: https://gadgethousenepal.com/product/dell-u2723qe-ultrasharp-4k-monitor-usb-c-hub-monitor-27-inch-qhd-3840-x-2160-60hz-display/
+- HUAWEI MateView GT 27 Inch Curved Gaming Monitor 2K: NRs. 60,999 reference. Source: https://gadgethousenepal.com/product/huawei-mateview-gt-27-inch-curved-gaming-monitor-2k/
+- HUAWEI MateView 28.2-inch 4K+ Ultra HD Monitor: NRs. 1,28,499 reference. Source: https://gadgethousenepal.com/product/huawei-mateview-28-2-inch-4k-ultra-hd-monitor/
+- Asus VP228HE 21.5” Full HD 1920 1080 1ms HDMI VGA Eye Care Monitor,Blacklight. Built in 1. 5W stereo speakers: NRs. 23,300 reference. Source: https://gadgethousenepal.com/product/asus-vp228he-21-5-monitor/
+- ASUS VT229H 21.5 Monitor 1080P IPS 10-Point Touch Eye Care with HDMI VGA, Black: NRs. 58,600 reference. Source: https://gadgethousenepal.com/product/asus-vt229h-21-5-monitor-1080p-ips-10-point-touch-eye-care-with-hdmi-vga-black/
+- ASUS ROG Swift 360Hz PG259QN 24.5” HDR Gaming Monitor, 1080P Full HD,IPS: NRs. 1,68,800 reference. Source: https://gadgethousenepal.com/product/asus-rog-swift-360hz-pg259qn-24-5-hdr-gaming-monitor-1080p-full-hd-fast-ips-1ms-g-sync-ulmb-eye-care-hdmi-displayport-usb-ergonomic-design-vesa-wall-mountable-hdr10/
+- ASUS ROG STRIX XG32VQR CURVED GAMING MONITOR 31.5: NRs. 1,42,000 reference. Source: https://gadgethousenepal.com/product/asus-rog-strix-xg32vqr-curved-gaming-monitor/
+- ASUS ROG Strix XG27WQ HDR Gaming Monitor 27 inch WQHD (2560 x 1440), Native 165Hz (Above 144Hz), Curved: NRs. 1,27,500 reference. Source: https://gadgethousenepal.com/product/asus-rog-strix-xg27wq-hdr-gaming-monitor-27-inch-wqhd-2560-x-1440-native-165hz-above-144hz-curved/
+- ASUS ROG Swift PG329Q 32” Gaming Monitor, 1440P WQHD (2560 1440), Fast IPS, 175Hz (Supports 144Hz), 1ms: NRs. 1,72,000 reference. Source: https://gadgethousenepal.com/product/asus-rog-swift-pg329q-32-gaming-monitor-1440p-wqhd-2560x1440-fast-ips-175hz-supports-144hz-1ms-g-sync-compatible-extreme-low-motion-blur-sync-eye-care-hdmi-displayport-usb-displa/
+- ASUS TUF Gaming VG289Q1A 28” 4K Monitor, (3840 x 2160) IPS: NRs. 94,500 reference. Source: https://gadgethousenepal.com/product/asus-tuf-gaming-vg289q1a-28-4k-monitor-3840-x-2160-eye-care-displayport-hdmi-dci-p3-hdr-10-shadow-boost-ips-adaptive-sync-freesync-black/
+- ASUS VA24DQ 23.8” Monitor, 1080P Full HD, 75Hz, IPS, Adaptive-Sync/FreeSync, Eye Care, Frameless, HDMI DisplayPort VGA: NRs. 34,499 reference. Source: https://gadgethousenepal.com/product/asus-va24dq-23-8-monitor-1080p-full-hd-75hz-ips-adaptive-sync-freesync-eye-care-frameless-hdmi-displayport-vga/
+- ASUS TUF Gaming VG27VQ 27” Curved Monitor, 1080P Full HD, 165Hz (Supports 144Hz): NRs. 72,000 reference. Source: https://gadgethousenepal.com/product/asus-tuf-gaming-vg27vq-27-curved-monitor-1080p-full-hd-165hz-supports-144hz/
+- ASUS MB169B+ 15.6 Full HD 1920 1080 IPS USB Portable Monitor: NRs. 34,000 reference. Source: https://gadgethousenepal.com/product/asus-mb169b-15-6-full-hd-1920x1080-ips-usb-portable-monitor/
+- Dell S2721HN 27 FHD Monitor 75Hz|IPS Panel-Grey: NRs. 22,499 reference. Source: https://gadgethousenepal.com/product/dell-s2721hn-27-68-58-cm-fhd-monitor-dell-warranty1920-x-1080-75hzips-paneldisplay-position-adjustments-tilthdmi-x-2-audio-line-out-x-1s2721hn-grey/
+- Fantech Chimera GM271SF Gaming Monitor: NRs. 49,999 reference. Source: https://gadgethousenepal.com/product/fantech-chimera-gm271sf-gaming-monitor/
+- Darkflash KU248SA 23.8-INCH FHD Liquid Crystal Monitor 75Hz IPS: NRs. 21,500 reference. Source: https://gadgethousenepal.com/product/darkflash-ku248sa-23-8-inch-fhd-liquid-crystal-monitor-75hz-ips/
+- Fantech Chimera GM242AC 75Hz 24 Inch Gaming Monitor – Curved: NRs. 24,499 reference. Source: https://gadgethousenepal.com/product/fantech-chimera-gm242ac-75hz-24-inch-gaming-monitor-curved/
+- Fantech 24 Gaming Monitor, GM242AC CHIMERA – 144Hz Frameless Design PC Curved: NRs. 31,599 reference. Source: https://gadgethousenepal.com/product/fantech-24-gaming-monitor-gm242ac-chimera-144hz-gaming-monitor-24-inch-frameless-design-pc-curved-monitor/
+- HUNTKEY 22 INCH MONITOR N2271WH: NRs. 19,500 reference. Source: https://gadgethousenepal.com/product/huntkey-22-inch-monitor-n2271wh/
+- SAMSUNG M8 Monitor 32-Inch 4K Smart: NRs. 1,12,000 reference. Source: https://gadgethousenepal.com/product/samsung-m8-monitor-32-inch-4k-smart/
+- BENQ EW3270U 31.5 4K Monitor: NRs. 77,000 reference. Source: https://gadgethousenepal.com/product/benq-ew327u-31-5-4k-monitor/
+- GIGABYTE G24F Gaming Monitor 23.8: NRs. 26,999 reference. Source: https://gadgethousenepal.com/product/gigabyte-g24f-gaming-monitor-23-8/
+- Hitech 19 inch Monitor: NRs. 6,499 reference. Source: https://gadgethousenepal.com/product/hitech-19-inch-monitor/
+- GIGABYTE G27Q 27 Monitor 2k Resolution 144Hz,1ms Response Time: NRs. 46,999 reference. Source: https://gadgethousenepal.com/product/gigabyte-g27q-27-monitor/
+- HUAWEI 23.8 Inch Monitor Full HD IPS: NRs. 17,499 reference. Source: https://gadgethousenepal.com/product/huawei-23-8-inch-monitor/
+- MSI G24C4 24 Curved Monitor 144Hz Gaming: NRs. 39,500 reference. Source: https://gadgethousenepal.com/product/msi-g24c4-24-curved-monitor-144hz-gaming/
+- Dell 24 Monitor – S2421HN: NRs. 25,000 reference. Source: https://gadgethousenepal.com/product/dell-24-monitor-s2421hn/
+- Xiaomi Watch S5 46mm Smartwatch: NRs. 39,999 reference. Source: https://gadgethousenepal.com/product/xiaomi-watch-s5-46mm-smartwatch/
+- Redmi Watch 6 Series Price in Nepal | 6, Lite Active: NRs. 10,499 reference. Source: https://gadgethousenepal.com/product/redmi-watch-6-series-price-in-nepal-6-lite-active/
+- Kieslect Lady Watch Lora, Smart Watch for Women (Answer/Make Calls): NRs. 7,499 reference. Source: https://gadgethousenepal.com/product/kieslect-lady-watch-lora-smart-watch-for-women-answer-make-calls/
+- Kieslect Calling Watch Kr Pro AMOLED Display, Navigation , Music Player, AI Voice Assistant, Fitness Tracker: NRs. 10,999 reference. Source: https://gadgethousenepal.com/product/kieslect-calling-watch-kr-pro-amoled-display-navigation-music-player-ai-voice-assistant-fitness-tracker/
+- Kieslect LORA Secret To Elegance Lady Calling Smart Watch: NRs. 7,499 reference. Source: https://gadgethousenepal.com/product/kieslect-lora-secret-to-elegance-lady-calling-smart-watch/
+- Kieslect Smart Calling Watch Kr: NRs. 5,499 reference. Source: https://gadgethousenepal.com/product/kieslect-smart-calling-watch-kr/
+- Kieslect Ks2 Smartwatch – 5.2 Bluetooth – 2.01 FHD AMOLED.: NRs. 13,999 reference. Source: https://gadgethousenepal.com/product/kieslect-ks2-smartwatch-5-2-bluetooth-2-01-fhd-amoled/
+- Kieslect KS Mini Bluetooth Calling Smart Watch: NRs. 5,499 reference. Source: https://gadgethousenepal.com/product/kieslect-ks-mini-bluetooth-calling-smart-watch/
+- Kieslect KS Pro Smartwatch 2.01 with AMOLED Display, Bluetooth Call, and Advanced Health Monitoring Features: NRs. 10,999 reference. Source: https://gadgethousenepal.com/product/kieslect-pro-smartwatch-2-01-with-amoled-display-bluetooth-call-and-advanced-health-monitoring-features/
+- HOCO Y12 Ultra Smart Sports Watch HOCO Y12 Ultra Smart Watch, 1.96 Brighter Retina Display, Bluetooth Calling, Sports Modes, Fitness Tracker, Precision GPS: NRs. 8,499 reference. Source: https://gadgethousenepal.com/product/hoco-y12-ultra-smart-sports-watch/
+- Promate XWatch B18 Smartwatch: NRs. 7,499 reference. Source: https://gadgethousenepal.com/product/promate-xwatch-b18-smartwatch/
+- Promate XWatch B19 Smartwatch 1.9” Display Bluetooth Calling: NRs. 8,499 reference. Source: https://gadgethousenepal.com/product/promate-xwatch-b19-smartwatch-1-9-display-bluetooth-calling-ip67-water-resistant-voice-assistant-15-days-battery-life-30-sports-modes-real-time-hr-monitor-100-watch-faces/
+- Promate ProWatch-B18 SuperFit Smartwatch: NRs. 9,499 reference. Source: https://gadgethousenepal.com/product/promate-prowatch-b18-superfit-smartwatch/
+- ProWatch M18 SuperFit Smartwatch: NRs. 11,999 reference. Source: https://gadgethousenepal.com/product/prowatch-m18-superfit-smartwatch/
+- Amazfit T-Rex Ultra Smart Watch 20-Day Battery Life, 30m Freediving, Dual-Band GPS Offline Map Support: NRs. 64,999 reference. Source: https://gadgethousenepal.com/product/amazfit-t-rex-ultra-smart-watch/
+- Amazfit Falcon Military Smart Watch for Men: NRs. 84,999 reference. Source: https://gadgethousenepal.com/product/amazfit-falcon-military-smart-watch-for-men/
+- Xiaomi Mi Band 7 Smart Watch: NRs. 6,999 reference. Source: https://gadgethousenepal.com/product/xiaomi-mi-band-7-smart-watch/
+- OnePlus Watch | Midnight Black | 4GB: NRs. 23,900 reference. Source: https://gadgethousenepal.com/product/oneplus-watch-midnight-black-4gb/
+- Noise Evolve 2 Play AMOLED Display Smart Watch with Fast Charging, Always On Display: NRs. 8,500 reference. Source: https://gadgethousenepal.com/product/noise-evolve-2-play-amoled-display-smart-watch-with-fast-charging-always-on-display/
+- Noise ColorFit Ultra 2 with 1.78 (4.5cm) AMOLED Display: NRs. 9,799 reference. Source: https://gadgethousenepal.com/product/noise-colorfit-ultra-2-with-1-784-5cm-amoled-display/
+- Noise ColorFit Ultra Smart Watch with 1.75 HD Display: NRs. 6,999 reference. Source: https://gadgethousenepal.com/product/noise-colorfit-ultra-smart-watch-with-1-75-hd-display/
+- Noise ColorFit Grand Smart Watch with 1.69 (4.29cm) HD Display: NRs. 5,299 reference. Source: https://gadgethousenepal.com/product/noise-colorfit-pulse-grand-smart-watch-with-1-694-29cm-hd-display/
+- Noise ColorFit Pulse Smartwatch: NRs. 4,999 reference. Source: https://gadgethousenepal.com/product/noise-colorfit-pulse-smartwatch/
+- MIBRO SMART WATCH A1: NRs. 4,999 reference. Source: https://gadgethousenepal.com/product/mibro-smart-watch-a1/
+- XIAOMI MIBRO LITE SMART WATCH – BLACK: NRs. 6,499 reference. Source: https://gadgethousenepal.com/product/xiaomi-mibro-lite-smart-watch-black/
+- Xiaomi Mibro X1 Smart Watch: NRs. 6,999 reference. Source: https://gadgethousenepal.com/product/xiaomi-mibro-x1-smart-watch/
+- Xiaomi IMILAB W01 Fitness Smart Watch: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/xiaomi-imilab-w01-fitness-smart-watch/
+- Imilab W11 Smart Watch Rose Gold: NRs. 5,299 reference. Source: https://gadgethousenepal.com/product/imilab-w11-smart-watch-rose-gold/
+- Redmi Watch 2 Lite: NRs. 7,799 reference. Source: https://gadgethousenepal.com/product/redmi-watch-2-lite/
+- Xiaomi Watch S1, Sapphire Glass, Stainless Steel Case, 1.43 AMOLED Display, Dual-Band GPS, Leather Strap, Bluetooth Phone Call, 117 Fitness Modes, Wireless Charging, Black: NRs. 24,999 reference. Source: https://gadgethousenepal.com/product/xiaomi-watch-s1-sapphire-glass-stainless-steel-case-1-43-amoled-display-dual-band-gps-leather-strap-bluetooth-phone-call-117-fitness-modes-wireless-charging-black/
+- Xiaomi Watch S1 Active (Space Black): NRs. 19,000 reference. Source: https://gadgethousenepal.com/product/xiaomi-watch-s1-active-space-black/
+- ZEBLAZE STRATOS 2 SMART WATCH, THE WORLD IS YOURS AMOLED DISPLAY – BLACK: NRs. 8,999 reference. Source: https://gadgethousenepal.com/product/zeblaze-stratos-2-smart-watch-the-world-is-yours-amoled-display-black/
+- ZEBLAZE SWIM – BORN FOR WATER SWIMMING SMART WATCH, FOR SWIMMERS. Bluetooth Call GPS: NRs. 5,499 reference. Source: https://gadgethousenepal.com/product/zeblaze-swim-born-for-water-swimming-smart-watch-for-swimmers-bluetooth-call-gps/
+- ZEBLAZE ARES Retro Smart Watch with Health Fitness Tracking – Black: NRs. 3,099 reference. Source: https://gadgethousenepal.com/product/zeblaze-ares-retro-smart-watch-with-health-fitness-tracking-black/
+- Amazfit GTS 4 Smart Watch: NRs. 29,000 reference. Source: https://gadgethousenepal.com/product/amazfit-gts-4-smart-watch/
+- Amazfit T-Rex 2 Premium Multisport GPS Sports Watch – Trex 2 Smart Watch: NRs. 27,999 reference. Source: https://gadgethousenepal.com/product/amazfit-t-rex-2-premium-multisport-gps-sports-watch-smart-watch/
+- Amazfit GTR 2 Smart Watch: NRs. 19,499 reference. Source: https://gadgethousenepal.com/product/amazfit-gtr-2-smart-watch/
+- Amazfit Bip U Smart Watch Fitness Tracker: NRs. 7,799 reference. Source: https://gadgethousenepal.com/product/amazfit-bip-u-smart-watch-fitness-tracker/
+- Amazfit GTS 2e Smart watch: NRs. 14,999 reference. Source: https://gadgethousenepal.com/product/amazfit-gts-2e-smart-watch/
+- Amazfit GTS 2 Mini Smart watch – Black , Mini on the Outside, Maximum Power on the Inside.: NRs. 10,999 reference. Source: https://gadgethousenepal.com/product/amazfit-gts-2-mini-smart-watch-black-mini-on-the-outside-maximum-power-on-the-inside/
+- Amazfit Bip U Pro Smart Watch: NRs. 7,799 reference. Source: https://gadgethousenepal.com/product/amazfit-bip-u-pro-smart-watch/
+- Amazfit GTR 2 Smart Watch, 1.39 AMOLED Display, SpO2 Stress Monitor, Built-in Alexa, Built-in GPS, Bluetooth Phone Calls, 3GB Music Storage, 14-Day Battery Life, 90 Sports Modes (Sport Edition): NRs. 19,499 reference. Source: https://gadgethousenepal.com/product/amazfit-gtr-2-smart-watch-1-39-amoled-display-spo2-stress-monitor-built-in-alexa-built-in-gps-bluetooth-phone-calls-3gb-music-storage-14-day-battery-life-90-sports-modes-sport-edition/
+- Amazfit GTS 2 Smart Watch for Android iPhone, Bluetooth Phone Calls, Alexa GPS Built-In, Sports Watch: NRs. 19,499 reference. Source: https://gadgethousenepal.com/product/amazfit-gts-2-smart-watch-for-android-iphone-bluetooth-phone-calls-alexa-gps-built-in-sports-watch/
+- Amazfit GTS Fitness Smartwatch with Heart Rate Monitor: NRs. 10,999 reference. Source: https://gadgethousenepal.com/product/amazfit-gts-fitness-smartwatch-with-heart-rate-monitor/
+- Amazfit T-Rex Pro Smart watch Fitness Watch with SpO2, 10 ATM Waterproof, 18 Day Battery Life, GPS – Military Standard Certified (Meteorite Black): NRs. 19,499 reference. Source: https://gadgethousenepal.com/product/amazfit-t-rex-pro-smart-watch-fitness-watch-with-spo2-10-atm-waterproof-18-day-battery-life-gps-military-standard-certified-meteorite-black/
+- Amazfit GTS 3 Smart Watch: NRs. 24,999 reference. Source: https://gadgethousenepal.com/product/amazfit-gts-3-smart-watch/
+- Amazfit Zepp E Square Smart Watch: NRs. 15,999 reference. Source: https://gadgethousenepal.com/product/amazfit-zepp-e-square-smart-watch/
+- Amazfit Bip 3 Smart Watch for Android iPhone, Health Fitness Tracker with 1.69 Large Display: NRs. 6,499 reference. Source: https://gadgethousenepal.com/product/amazfit-bip-3-smart-watch-for-android-iphone-health-fitness-tracker-with-1-69-large-display/
+- Amazfit Bip 3 Pro Smart Watch for Android iPhone: NRs. 8,500 reference. Source: https://gadgethousenepal.com/product/amazfit-bip-3-pro-smart-watch-for-android-iphone/
+- Amazfit X Fitness Tracker Smart Watch: NRs. 15,999 reference. Source: https://gadgethousenepal.com/product/amazfit-x-fitness-tracker-smart-watch/
+- Amazfit GTS 4 Mini Smart Watch for Women Men, Alexa Built-in, GPS, Fitness Tracker with 120+ Sport Modes: NRs. 11,999 reference. Source: https://gadgethousenepal.com/product/amazfit-gts-4-mini-smart-watch-for-women-men-alexa-built-in-gps-fitness-tracker-with-120-sport-modes/
+- K17 SMART WATCH BLUETOOTH CALLING FEATURE: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/k17-smart-watch-bluetooth-calling-feature/
+- MobileZon HW56 Plus Smart Watch Wireless Charging: NRs. 4,999 reference. Source: https://gadgethousenepal.com/product/mobilezon-hw56-plus-smart-watch-wireless-charging/
+- Amazfit GTR 4 Smart Watch – Black: NRs. 31,000 reference. Source: https://gadgethousenepal.com/product/amazfit-gtr-4-smart-watch-black/
+- Zeblaze GTR 3 Bluetooth Call Smartwatch- Black: NRs. 6,999 reference. Source: https://gadgethousenepal.com/product/zeblaze-gtr-3-bluetooth-call-smartwatch-black/
+- K8 SMART WATCH BLUETOOTH CALL MUSIC PLAYER 44MM SMARTWATCH: NRs. 4,999 reference. Source: https://gadgethousenepal.com/product/k8-smart-watch-bluetooth-call-music-player-44mm-smartwatch/
+- HW56 Plus Smartwatch Wireless Charging Always On Display 1.77inches Infinity Screen HD Calling for Android iPhone (Black): NRs. 4,999 reference. Source: https://gadgethousenepal.com/product/hw56-plus-smartwatch-wireless-charging-always-on-display-1-77inches-infinity-screen-hd-calling-for-android-iphone-black/
+- ZEBLAZE BTALK SMARTWATCH – Black, WITH BLUETOOTH CALLING FUNCTION: NRs. 4,999 reference. Source: https://gadgethousenepal.com/product/zeblaze-btalk-smartwatch/
+- Amazfit GTR 3 Pro Smart Watch: NRs. 26,499 reference. Source: https://gadgethousenepal.com/product/amazfit-gtr-3-pro-smart-watch/
+- Amazfit GTR3 Smartwatch: NRs. 23,499 reference. Source: https://gadgethousenepal.com/product/amazfit-gtr3-smartwatch/
+- LEMFO M1 Smart Bracelet Earphone: NRs. 7,999 reference. Source: https://gadgethousenepal.com/product/lemfo-m1-smart-bracelet-earphone/
+- Haylou LS02 Smartwatch Touch Screen Unisex: NRs. 3,500 reference. Source: https://gadgethousenepal.com/product/xiaomi-haylou-ls02-smart-watch-with-square-shape-and-touch-screen-unisex/
+- Xiaomi MI Band 6: NRs. 5,699 reference. Source: https://gadgethousenepal.com/product/xiaomi-mi-band-6/
+- Xiaomi Imilab KW66 Smartwatch: NRs. 6,500 reference. Source: https://gadgethousenepal.com/product/xiaomi-imilab-kw66-smart-watch/
+- MI Band 5: NRs. 4,800 reference. Source: https://gadgethousenepal.com/product/mi-band-5/
+- L5 Smart Watch, IP67 Waterproof: NRs. 4,800 reference. Source: https://gadgethousenepal.com/product/l5-smart-watch-square/
+- DT35 smartwatch Bluetooth Call: NRs. 4,500 reference. Source: https://gadgethousenepal.com/product/dt35-smartwatch-and-fitness-tracker/
+- L6 Smartwatch Blood Pressure IP68: NRs. 3,800 reference. Source: https://gadgethousenepal.com/product/l6-smartwatch/
+- Fitness band Mi 4 0.94-inch AMOLED Color Display: NRs. 3,200 reference. Source: https://gadgethousenepal.com/product/fitness-tracking-band/
+- W8 Smart Watch Sport Fitness Tracker: NRs. 2,800 reference. Source: https://gadgethousenepal.com/product/w8-smart-watch-sports-fitness-tracker/
+- 119 Plus Smart Band Waterproof: NRs. 1,800 reference. Source: https://gadgethousenepal.com/product/119-plus-smart-watch/
+- M4 Smart Band Fitness Tracker: NRs. 1,100 reference. Source: https://gadgethousenepal.com/product/m4-smart-fitness-band/
+- HY300 4K Portable Smart Projector – Android 11 Mini Home Theater: NRs. 5,999 reference. Source: https://gadgethousenepal.com/product/hy300-4k-portable-smart-projector-android-11-mini-home-theater/
+- A10 Mini Smart Projector – Android 11 Portable Home Theater Projector: NRs. 9,999 reference. Source: https://gadgethousenepal.com/product/a10-mini-smart-projector-android-11-portable-home-theater-projector/
+- AUN A32 Pro Android 13 Mini Projector – Portable Home Theater, 4K Decoding, 150 Display: NRs. 12,499 reference. Source: https://gadgethousenepal.com/product/aun-a32-pro-android-13-mini-projector-portable-home-theater-4k-decoding-150-display/
+- AUN A004 Pro Projector – Full HD, Autofocus, Android Smart, 9000 Lumens: NRs. 20,999 reference. Source: https://gadgethousenepal.com/product/aun-a004-pro-projector-full-hd-autofocus-android-smart-9000-lumens/
+- AUN U002 Smart Projector – Full HD, 4K Support, Android 12,800 Lumens: NRs. 44,999 reference. Source: https://gadgethousenepal.com/product/aun-u002-smart-projector/
+- AUN AKEY7 Max Pro 1080p Projector with 4K Support, 14000 Lumens (1200 ANSI): NRs. 31,999 reference. Source: https://gadgethousenepal.com/product/aun-akey7-max-pro-1080p-projector-with-4k-support-14000-lumens-1200-ansi/
+- Aun S1 4K Projector 12000 Lumens with Auto Keystone, Android 11.0, 2G RAM, 32G ROM, 2.4G/5G WiFi, Bluetooth: NRs. 31,999 reference. Source: https://gadgethousenepal.com/product/aun-s1-4k-projector-12000-lumens-with-auto-keystone-android-11-0-2g-ram-32g-rom-2-4g-5g-wifi-bluetooth/
+- AUN U001 10S Projector – Android 11.0 OS 4K 18000 Lumens: NRs. 64,999 reference. Source: https://gadgethousenepal.com/product/aun-u001-10s-projector/
+- AUN A9 Android HD Home Theater Projector, 8000 Lumens: NRs. 34,999 reference. Source: https://gadgethousenepal.com/product/aun-a9-android-hd-home-theater-projector-8000-lumens/
+- Optoma HD30HDR Projector DLP 3800 Lumens Projector: NRs. 1,22,499 reference. Source: https://gadgethousenepal.com/product/optoma-hd30hdr-projector-dlp-3800-lumens-projector/
+- Optoma SA520 – Powerful SVGA Projector for Business and Education: NRs. 64,999 reference. Source: https://gadgethousenepal.com/product/optoma-sa520-powerful-svga-projector-for-business-and-education/
+- Optoma ZX350e Laser Projector, 3700 lumens of brightness and vivid XGA (1024 768) – Compact DuraCore for Brilliant Presentations: NRs. 1,20,000 reference. Source: https://gadgethousenepal.com/product/optoma-zx350e-laser-projector-3700-lumens-of-brightness-and-vivid-xga-1024x768-compact-duracore-for-brilliant-presentations/
+- Optoma UHD55 4K Projector UHD Quality – Elevate Your Entertainment with Brilliant 4K UHD Quality: NRs. 2,72,999 reference. Source: https://gadgethousenepal.com/product/optoma-uhd55-4k-projector-uhd-quality-elevate-your-entertainment-with-brilliant-4k-uhd-quality/
+- Optoma HD36UST Full HD 1080p Ultra Short Throw Projector:: NRs. 2,45,000 reference. Source: https://gadgethousenepal.com/product/optoma-hd36ust-full-hd-1080p-ultra-short-throw-projector/
+- Optoma HD30HDR Projector: 3,800 Lumens Elevate Your Home Entertainment with Stunning HDR Performance: NRs. 1,19,999 reference. Source: https://gadgethousenepal.com/product/optoma-hd30hdr-projector-3800-lumens-elevate-your-home-entertainment-with-stunning-hdr-performance/
+- AUN A5 Projector 8000 lumens, 4k Support, 2GB RAM 32GB ROM: NRs. 32,900 reference. Source: https://gadgethousenepal.com/product/aun-a5-projector/
+- AUN MINI Projector A30C Pro Smart Android Phone Beamer 4k Movie: NRs. 16,499 reference. Source: https://gadgethousenepal.com/product/aun-mini-projector-a30c-pro-smart-android-phone-beamer-4k-movie/
+- AUN A30 Projector: NRs. 10,499 reference. Source: https://gadgethousenepal.com/product/aun-a30-projector/
+- AUN A002 720P HD Android Projector TV Home Theater Portable LED Projector Game Beamer: NRs. 16,499 reference. Source: https://gadgethousenepal.com/product/aun-a002-720p-hd-android-projector/
+- AUN ET50S Android 9.0 Smart Projector LED Full HD 1080p: NRs. 20,999 reference. Source: https://gadgethousenepal.com/product/aun-et50s-android-9-0-smart-projector/
+- AUN A001 Pro 4K Android Projector TV Home Theater Portable LED Projector Game Beamer: NRs. 18,499 reference. Source: https://gadgethousenepal.com/product/aun-a001-pro-4k-android-projector/
+- AUN Akey9S Projector Android 9.0 LED, Real Full HD 1920x1080P, 8000 Lumens: NRs. 30,899 reference. Source: https://gadgethousenepal.com/product/aun-akey9s-projector-android-9-0-led-real-full-hd-1920x1080p-8000-lumens/
+- Anker Nebula Mars II Pro 500 ANSI Lumen Portable Projector with Anker Nebula Mars 2 Universal Tripod 3 Feet Black: NRs. 84,500 reference. Source: https://gadgethousenepal.com/product/anker-nebula-mars-ii-pro-500-ansi-lumen-portable-projector-with-anker-nebula-mars-2-universal-tripod-3-feet-black/
+- Anker NEBULA Capsule II Smart Portable Projector, 200 ANSI Lumen 720p HD Mini Projector with Wi-Fi and Bluetooth, Android TV 9.0, 8W Speaker, 100” Image, 5000+ Apps: NRs. 74,999 reference. Source: https://gadgethousenepal.com/product/anker-nebula-capsule-ii-smart-portable-projector-200-ansi-lumen-720p-hd-mini-projector-with-wi-fi-and-bluetooth-android-tv-9-0-8w-speaker-100-image-5000-apps/
+- Anker NEBULA Apollo Wi-Fi Mini Projector, 200 ANSI Lumen Portable, 6W Speaker,100 Inch Picture: NRs. 89,999 reference. Source: https://gadgethousenepal.com/product/anker-nebula-apollo-wi-fi-mini-projector-200-ansi-lumen-portable-projector-6w-speaker-movie-projector-100-inch-picture/
+- J15C Mini Portable Projector 1080P Supported Small Outdoor Home Theater, Led Compatible with HDMI, USB: NRs. 12,999 reference. Source: https://gadgethousenepal.com/product/j15c-mini-portable-projector-for-iphone-salange-1080p-supported-small-outdoor-movie-projector-for-home-theater-hd-phone-projectors-led-compatible-with-hdmi-usb/
+- UB10 Projector UB-10 Home WiFi HD Micro Multimedia Movie Player Home Theater Entertainment Games Outdoor Party Compatible HDMI/USB/VGA/AV/SD Card, White: NRs. 12,500 reference. Source: https://gadgethousenepal.com/product/ub10-projector-ub-10-home-wifi-hd-micro-multimedia-movie-player-home-theater-entertainment-games-outdoor-party-compatible-hdmi-usb-vga-av-sd-card-white/
+- T5S Smart Projector HD 3D 4K WiFi miracast 3200 Lumens Home Cinema: NRs. 13,500 reference. Source: https://gadgethousenepal.com/product/t5s-smart-projector-hd-3d-4k-wifi-miracast-3200-lumens-home-cinema-projector/
+- InFocus 114AA Projector: Brilliant Images, Low-Latency Gaming: NRs. 67,000 reference. Source: https://gadgethousenepal.com/product/infocus-114aa-projecter-with-2-years-warranty/
+- InFocus IN112AA Projector: Enhanced Gaming, High Brightness, and Extended Lamp Life: NRs. 55,000 reference. Source: https://gadgethousenepal.com/product/infocus-genesis-series-in112aa-projector-2-years-warranty/
+- Havit PJ202 1080P Projector HD, Wifi and Bluetooth Connection: NRs. 35,500 reference. Source: https://gadgethousenepal.com/product/havit-pj202-1080p-projector-hd-wifi-and-bluetooth-connection/
+- The Optoma ProScene W515 Projector: NRs. 2,31,250 reference. Source: https://gadgethousenepal.com/product/the-optoma-proscene-w515-projector/
+- Optoma EH335 1080p DLP Professional Projector: NRs. 1,42,500 reference. Source: https://gadgethousenepal.com/product/optoma-eh335-1080p-dlp-professional-projector/
+- Optoma X400LVe XGA 720P Professional Projector – Bright 4000 ANSI lumens 720p DLP: NRs. 78,750 reference. Source: https://gadgethousenepal.com/product/optoma-x400lve-xga-720p-professional-projector-optoma-x400lve-bright-4000-ansi-lumens-720p-dlp/
+- Optoma W400LVe WXGA Professional Projector – 4000 Lumens for Lights-on Viewing. Presentations in Classrooms Meeting: NRs. 90,000 reference. Source: https://gadgethousenepal.com/product/optoma-w400lve-wxga-projector/
+- Optoma EH512 large venue project of high brightness of 5000 lumens, 1080p images for sharper, clearer images and presentations: NRs. 2,18,750 reference. Source: https://gadgethousenepal.com/product/optoma-eh512-large-venue-project-of-high-brightness-of-5000-lumens-1080p-images-for-sharper-clearer-images-and-presentations/
+- Optoma LASER ZW350 Business Projector 3500 lumens, DLP Display, WXGA Resolution,15W Speaker, HDMI: NRs. 1,68,750 reference. Source: https://gadgethousenepal.com/product/optoma-laser-zw350-business-projector/
+- Optoma UHD35+ True 4K UHD Gaming Projector | 3,600 Lumens | 4.2ms Response Time at 1080p with Enhanced Gaming Mode | 240Hz Refresh Rate: NRs. 2,00,000 reference. Source: https://gadgethousenepal.com/product/optoma-uhd35-true-4k-uhd-gaming-projector-3600-lumens-4-2ms-response-time-at-1080p-with-enhanced-gaming-mode-240hz-refresh-rate/
+- CHEERLUX CL760 3600 LUMENS PROJECTOR WITH BUILT-IN TV CARD: NRs. 27,499 reference. Source: https://gadgethousenepal.com/product/cheerlux-cl760-3600-lumens-projector-with-built-in-tv-card/
+- T10 ANDROID LED FULL HD 1080P PROJECTOR 9500 LUMENS HOME THEATER: NRs. 17,999 reference. Source: https://gadgethousenepal.com/product/t10-android-led-full-hd-1080p-projector-9500-lumens-home-theater/
+- UNIC LED T5 PROJECTOR 2500 LUMEN HIGH BRIGHTNESS UPTO 150: NRs. 7,999 reference. Source: https://gadgethousenepal.com/product/unic-led-t5-projector-2500-lumen-high-brightness-upto-150/
+- VIVIBRIGHT F10 PROJECTOR: NRs. 14,999 reference. Source: https://gadgethousenepal.com/product/vivibright-f10-projector/
+- VIVIBRIGHT F30 LCD PROJECTOR FULL HD SUPPORT 3D 4K 1080P 4200 LUMENS: NRs. 36,999 reference. Source: https://gadgethousenepal.com/product/vivibright-f30-lcd-projector-full-hd-support-3d-4k-1080p-4200-lumens/
+- VIVIBRIGHT f40 Native 1080P Projector, 4200White LED Light 300 Display Full HD Home Theater Projector: NRs. 39,999 reference. Source: https://gadgethousenepal.com/product/vivibright-f40-native-1080p-projector-4200white-led-light-300-display-full-hd-home-theater-projector/
+- YG530 LED PROJECTOR WITH MULTI-SCREEN SPEAKER 1000 LUMENS ANDROID WIFI 1080P: NRs. 15,999 reference. Source: https://gadgethousenepal.com/product/yg530-led-projector-with-multi-screen-speaker-1000-lumens-android-wifi-1080p/
+- Q3 Projector Support Android WiFi 1080P: NRs. 19,999 reference. Source: https://gadgethousenepal.com/product/q3-projector-support-android-wifi-1080p/
+- T4 HOME MINI PROJECTOR SUPPORT 1080P: NRs. 9,999 reference. Source: https://gadgethousenepal.com/product/t4-home-mini-projector-support-1080p/
+- AUN Akey7 Max Android 9.0 LED Projector 7500 Lumens: NRs. 28,900 reference. Source: https://gadgethousenepal.com/product/aun-akey7-max-android-9-0-led-projector-7500-lumens/
+- AUN AKEY6S Pro Android 9.0 Smart LED Projector, Real Full HD 1920x1080P, 7500 LUMENS: NRs. 31,500 reference. Source: https://gadgethousenepal.com/product/aun-akey6s-pro-android-9-0-smart-led-projector-real-full-hd-1920x1080p-7500-lumens/
+- AUN AKEY8S Android 9.0 Smart LED Projector: NRs. 29,900 reference. Source: https://gadgethousenepal.com/product/aun-akey8s-android-9-0-smart-led-projector/
+- AUN ET30S Android 6.0 Smart LED Portable Projector: NRs. 18,500 reference. Source: https://gadgethousenepal.com/product/aun-et30s-android-6-0-smart-led-portable-projector/
+- AUN Z5S Android 9.0 Smart LED Portable Projector: NRs. 19,900 reference. Source: https://gadgethousenepal.com/product/aun-z5s-android-9-0-smart-led-portable-projector/
+- AUN ET40S Full HD Smart Projector Android 9.0: NRs. 21,000 reference. Source: https://gadgethousenepal.com/product/aun-et40s-full-hd-smart-projector-android-9-0/
+- VIVIBRIGHT F10 LCD Projector 2800 Lumens 1280*720P Resolution: NRs. 14,999 reference. Source: https://gadgethousenepal.com/product/vivibright-f10-lcd-projector-2800-lumens-1280720p-resolution/
+- Salange T10 Full HD 1080P Projector 9500 Lumens: NRs. 17,999 reference. Source: https://gadgethousenepal.com/product/salange-t10-full-hd-1080p-projector-9500-lumens/
+- Pixthink By VIVIBRIGHT Mini Projector M1, Full HD: NRs. 29,999 reference. Source: https://gadgethousenepal.com/product/pixthink-by-vivibright-mini-projector-m1-full-hd/
+- AUN M18UP Android Projector: NRs. 29,500 reference. Source: https://gadgethousenepal.com/product/aun-m18up-android-projector/
+- AUN Akey7 Max Basic LED Projector: NRs. 27,999 reference. Source: https://gadgethousenepal.com/product/aun-akey7-max-basic-led-projector/
+- AUN AKEY8 Basic Projector 1920×1080: NRs. 27,500 reference. Source: https://gadgethousenepal.com/product/aun-akey8-basic-projector-1920x1080/
+- AUN D60S Projector: NRs. 16,500 reference. Source: https://gadgethousenepal.com/product/aun-d60s-projector/
+- Portable Mini Projector, Full Color LED LCD Video Projector: NRs. 4,449 reference. Source: https://gadgethousenepal.com/product/mini-projector/
+- Grandstream GWN7605LR Outdoor Long-Range WiFi Access Point: NRs. 19,200 reference. Source: https://gadgethousenepal.com/product/grandstream-gwn7605lr-outdoor-long-range-wifi-access-point/
+- ASUS ROG Rapture GT-AX11000 Pro Ultimate Gaming Router – WiFi 6 gaming router: NRs. 92,499 reference. Source: https://gadgethousenepal.com/product/asus-rog-rapture-gt-ax11000-pro-ultimate-gaming-router/
+- FLASHOTECH ROUTER BACKUP MINI UPS | POWER SUPPLY: NRs. 2,499 reference. Source: https://gadgethousenepal.com/product/flashotech-router-backup/
+- Xiaomi Mi Smart Router 4C, 300 Mbps: NRs. 1,800 reference. Source: https://gadgethousenepal.com/product/xiaomi-mi-smart-router-4c-300-mbps/
+- TP-Link Archer C60 AC1350 Dual Band Wireless Router: NRs. 7,499 reference. Source: https://gadgethousenepal.com/product/tp-link-archer-c60-ac1350-dual-band-wireless-router/
+- TP-Link C6 Router AC1200 Wireless MU-MIMO Gigabit: NRs. 7,899 reference. Source: https://gadgethousenepal.com/product/tp-link-c6-router-ac1200-wireless-mu-mimo-gigabit/
+- TP-Link Archer C80 Router AC1900 MU MIMO Wireless WiFi Dual Band TPLink Black: NRs. 13,500 reference. Source: https://gadgethousenepal.com/product/tp-link-archer-c80-router-ac1900-mu-mimo-wireless-wifi-dual-band-tplink-black/
+- TP-Link AC750 WiFi Extender: NRs. 4,799 reference. Source: https://gadgethousenepal.com/product/tp-link-ac750-wifi-extender/
+- TP-Link Archer AX10 AX1500 Wi-Fi 6 Router: NRs. 17,000 reference. Source: https://gadgethousenepal.com/product/tp-link-archer-ax10-ax1500-wi-fi-6-router/
+- Linksys E8450 Router Dual-Band AX3200 WiFi 6 Router: NRs. 19,999 reference. Source: https://gadgethousenepal.com/product/linksys-e8450-router-dual-band-ax3200-wifi-6-router/
+- Linksys Max-Stream Dual-Band AC1900 WiFi 5 Router: NRs. 24,999 reference. Source: https://gadgethousenepal.com/product/linksys-max-stream-dual-band-ac1900-wifi-5-router/
+- Cisco RV110W-A-NA-K9 Small Business RV110W Wireless N VPN Firewall Router: NRs. 11,250 reference. Source: https://gadgethousenepal.com/product/cisco-rv110w-a-na-k9-small-business-rv110w-wireless-n-vpn-firewall-router/
+- The Linksys E7350 WiFi 6 router: NRs. 20,000 reference. Source: https://gadgethousenepal.com/product/the-linksys-e7350-wifi-6-router/
+- Linksys E5600 Dual-Band AC1200 WiFi 5 Router: NRs. 7,500 reference. Source: https://gadgethousenepal.com/product/linksys-e5600-dual-band-ac1200-wifi-5-router/
+- Linksys ADSL/VDSL Dual-Band Wi-Fi Modem Router, X6200: NRs. 20,500 reference. Source: https://gadgethousenepal.com/product/linksys-adsl-vdsl-dual-band-wi-fi-modem-router-x6200/
+- Linksys EA3500 N750 Dual-Band Smart Wi-Fi Router: NRs. 11,300 reference. Source: https://gadgethousenepal.com/product/linksys-ea3500-n750-dual-band-smart-wi-fi-router/
+- Linksys E2500 (N600) Advanced Simultaneous Dual-Band Wireless-N Router: NRs. 7,800 reference. Source: https://gadgethousenepal.com/product/linksys-e2500-n600-advanced-simultaneous-dual-band-wireless-n-router/
+- Linksys E1700 N300 Wi-Fi Router with Gigabit Ethernet: NRs. 7,625 reference. Source: https://gadgethousenepal.com/product/linksys-e1700-n300-wi-fi-router-with-gigabit-ethernet/
+- Linksys E1200 (N300) Wireless Router: NRs. 4,900 reference. Source: https://gadgethousenepal.com/product/linksys-e1200-n300-wireless-router/
+- Linksys E900 Wireless-N300 Router: NRs. 3,149 reference. Source: https://gadgethousenepal.com/product/linksys-e900-wireless-n300-router/
+- ASUS AX1800 WiFi 6 Router (RT-AX55) – Dual Band Gigabit: NRs. 18,800 reference. Source: https://gadgethousenepal.com/product/asus-ax1800-wifi-6-router-rt-ax55-dual-band-gigabit/
+- Cisco RV130W Wireless Multifunction VPN Router with Web Filtering: NRs. 26,000 reference. Source: https://gadgethousenepal.com/product/cisco-rv130w-wireless-multifunction-vpn-router-with-web-filtering/
+- Cisco 880 Integrated Services Router: NRs. 65,000 reference. Source: https://gadgethousenepal.com/product/cisco-880-integrated-services-router/
+- Linksys Mesh AC2200 MR8300 Tri-Band High-Performance Wi-Fi Router MU-MIMO Max-Stream: NRs. 31,000 reference. Source: https://gadgethousenepal.com/product/linksys-mesh-ac2200-mr8300-tri-band-high-performance-wi-fi-router-mu-mimo-max-stream/
+- Linksys Advanced Wireless-N ADSL2+ Modem Router X3000 – Wireless Router – DSL: NRs. 10,750 reference. Source: https://gadgethousenepal.com/product/linksys-advanced-wireless-n-adsl2-modem-router-x3000-wireless-router-dsl/
+- ASUS AC1300 WiFi Router (RT-ACRH13) – Dual Band Gigabit Wireless Router: NRs. 16,000 reference. Source: https://gadgethousenepal.com/product/asus-ac1300-wifi-router-rt-acrh13-dual-band-gigabit-wireless-router/
+- ASUS ROG Rapture WiFi Gaming Router (GT-AC2900): NRs. 38,800 reference. Source: https://gadgethousenepal.com/product/asus-rog-rapture-wifi-gaming-router-gt-ac2900/
+- ASUS TUF Gaming WiFi 6 Router (TUF-AX5400): NRs. 25,499 reference. Source: https://gadgethousenepal.com/product/asus-tuf-gaming-wifi-6-router-tuf-ax5400/
+- Asus RT-N12+ Router/AP/Range Extender: NRs. 3,099 reference. Source: https://gadgethousenepal.com/product/asus-rt-n12-router-ap-range-extender/
+- Asus AC750 Router Dual Band WiFi – VPN server and time scheduling: NRs. 9,444 reference. Source: https://gadgethousenepal.com/product/asus-ac750-router-dual-band-wifi-vpn-server-and-time-scheduling/
+- Linksys LRT224 Dual WAN Business Gigabit VPN Router: NRs. 33,750 reference. Source: https://gadgethousenepal.com/product/linksys-lrt224-dual-wan-business-gigabit-vpn-router/
+- Hitech Router Backup Mini Portable Modem Router UPS Poe Dc: NRs. 2,499 reference. Source: https://gadgethousenepal.com/product/hitech-router-backup-mini-portable-modem-router-ups-poe-dc/
+- BL-WN151 150Mbps Wireless USB Adapter: NRs. 599 reference. Source: https://gadgethousenepal.com/product/bl-wn151-150mbps-wireless-usb-adapter/
+- Tp-link16-Port Desktop Switch 10/100Mbps TL-SF1016D: NRs. 2,999 reference. Source: https://gadgethousenepal.com/product/tp-link16-port-desktop-switch-10-100mbps/
+- TP-LINK DESKTOP SWITCH SF1005D: NRs. 999 reference. Source: https://gadgethousenepal.com/product/5-port-10-100mbps-desktop-switch-tp-link-5-port/
+- TP-Link AC1750 DUAL BAND GIGABIT: NRs. 15,999 reference. Source: https://gadgethousenepal.com/product/ac1750-wireless-dual-band-gigabit-ceiling-mount-access-point/
+- TP Link Archer C20 Router Dual Band AC750: NRs. 3,990 reference. Source: https://gadgethousenepal.com/product/tp-link-archer-c20-router-dual-band-ac750/
+- TP Link 300Mbps Router DSL TL-WR841N: NRs. 2,500 reference. Source: https://gadgethousenepal.com/product/tp-link-300mbps-router-dsl-tl-wr841n/
+- Insta360 GO 3S 4K Action Camera – Motorcycle Bundle, Classic Red Canvas White: NRs. 50,999 reference. Source: https://gadgethousenepal.com/product/insta360-go-3s-4k-action-camera-motorcycle-bundle-classic-red-canvas-white/
+- Insta360 Ace Pro 2 8K Action Camera – Leica Lens, 4K 120FPS Flip Screen: NRs. 93,999 reference. Source: https://gadgethousenepal.com/product/insta360-ace-pro-2-8k-action-camera/
+- Insta360 X5 8K 360° Action Camera – Waterproof, AI-Powered Stabilized: NRs. 93,499 reference. Source: https://gadgethousenepal.com/product/insta360-x5-8k-360-action-camera-waterproof-ai-powered-stabilized/
+- Insta360 X6 360 Camera – 8K 50FPS Video with AI Editing: NRs. 1,30,699 reference. Source: https://gadgethousenepal.com/product/insta360-x6-360-camera-8k-50fps-video-with-ai-editing/
+- Insta360 Luna Ultra Price in Nepal | 8K AI Gimbal Camera: NRs. 1,25,499 reference. Source: https://gadgethousenepal.com/product/insta360-luna-ultra-price-in-nepal-8k-ai-gimbal-camera/
+- DJI Osmo Pocket 3 – 4K 120fps Compact Vlogging Camera: NRs. 64,499 reference. Source: https://gadgethousenepal.com/product/dji-osmo-pocket-3-4k-120fps-compact-vlogging-camera/
+- DJI Osmo Action 5 Pro Adventure Combo – Ultimate Action Camera for Creators: NRs. 71,999 reference. Source: https://gadgethousenepal.com/product/dji-osmo-action-5-pro-adventure-combo-ultimate-action-camera-for-creators/
+- DJI Mic 3 – Advanced Wireless Microphone System for Creators: NRs. 34,990 reference. Source: https://gadgethousenepal.com/product/dji-mic-3-advanced-wireless-microphone-system-for-creators/
+- DJI Flip Drone (RC-N3) – Fly Fearlessly: NRs. 75,999 reference. Source: https://gadgethousenepal.com/product/dji-flip-drone-rc-n3-fly-fearlessly/
+- DJI Osmo Nano: NRs. 51,999 reference. Source: https://gadgethousenepal.com/product/dji-osmo-nano/
+- DJI Osmo Pocket 4 – Ultimate Compact 4K Creator Camera: NRs. 9,599 reference. Source: https://gadgethousenepal.com/product/dji-osmo-pocket-4-ultimate-compact-4k-creator-camera/
+- ACEFAST Action Camera X1 4K – 40MP Waterproof Action Camera with 6-Axis Stabilization: NRs. 24,999 reference. Source: https://gadgethousenepal.com/product/acefast-action-camera-x1-4k-40mp-waterproof-action-camera-with-6-axis-stabilization/
+- Aula F75 Gradient Blue – Star Vector: NRs. 6,999 reference. Source: https://gadgethousenepal.com/product/aula-f75-gradient-blue-star-vector/
+- AULA F75 75% Wireless Mechanical Keyboard Blue Snow Pruce Green Reaper Switch: NRs. 7,499 reference. Source: https://gadgethousenepal.com/product/aula-f75-75-wireless-mechanical-keyboard-blue-snow-pruce-green-reaper-switch/
+- AULA F75 75% Wireless Mechanical Keyboard Thunder Black Crescent Switch: NRs. 7,799 reference. Source: https://gadgethousenepal.com/product/aula-f75-75-wireless-mechanical-keyboard-thunder-black-crescent-switch/
+- AJAZZ AK820 MAX Plus Keyboard Retro Color – Flying Switch – 8000maah: NRs. 6,999 reference. Source: https://gadgethousenepal.com/product/ajazz-ak820-max-plus-keyboard-retro-color-flying-switch-8000maah/
+- H23RT Action Camera 4K Ultra HD Double LCD WiFi With Remote: NRs. 3,800 reference. Source: https://gadgethousenepal.com/product/h23rt-action-camera-4k-ultra-hd-action-camera-double-lcd-wifi-16mp-170d-30m-waterproof-pro-sport-dv-helmet-video-camera-with-remote-control-bundle-option3-color-black/
+- SJCAM SJ6 Legend Optical Touch Model Screen Action Camera (Black): NRs. 18,600 reference. Source: https://gadgethousenepal.com/product/sjcam-sj6-legend-optical-16-mp-4k-24fps-5-08-cm-2-0-lcd-touch-screen-action-camera-gyro-sensor-external-mic-support-dual-screen-black/
+- Eken H5s plus Camera With Touch Model EIS ( electronic image stabilization) 12MP Ultra HD 4K Vlogging: NRs. 16,499 reference. Source: https://gadgethousenepal.com/product/eken-h5s-plus-camera-with-eis-electronic-image-stabilization-12mp-ultra-hd-4k-waterproof-action-camera-for-riding-bikes-swimming-trekking-surfing-adventure-vlogging-camera/
+- Flexible Waterproof Camera Inspection 6 LED Camera with 2M Cable for Android, PC notebok. Camera: NRs. 1,199 reference. Source: https://gadgethousenepal.com/product/flexible-waterproof-camera-flexible-ip67-waterproof-inspection-6-led-borescope-camera-with-2m-cable-for-android-pc-notebok/
+- PEN CAMERA WITH USB 2.0: NRs. 1,599 reference. Source: https://gadgethousenepal.com/product/pen-camera-with-usb-2-0/
+- PEN CAMERA WITH USB 2.0 HD 1080P + MORE BATTERY BACKUP: NRs. 3,199 reference. Source: https://gadgethousenepal.com/product/pen-camera-with-usb-2-0-hd-1080p-more-battery-backup/
+- Camera Clock – HD 1080P WiFi Surveillance with Night Vision: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/camera-clock-hd-1080p-wifi-surveillance-with-night-vision/
+- Magnetic Paste Battery Powered Mini IP Camera Wifi: NRs. 5,999 reference. Source: https://gadgethousenepal.com/product/magnetic-paste-battery-powered-mini-ip-spy-camera-wifi/
+- Awolf 2.7 Dual Lens Dash Cam Car DVR Vehicle Camera With GPS Module G-Sensor: NRs. 4,899 reference. Source: https://gadgethousenepal.com/product/awolf-2-7-dual-lens-dash-cam-car-dvr-vehicle-camera-video-recorder-car-camera-with-gps-module-g-sensor/
+- V7 Pen Camera HD 1080P: NRs. 3,499 reference. Source: https://gadgethousenepal.com/product/v7-pen-camera-hd-1080p/
+- EKEN H9R Action Camera 4K Wifi Waterproof Sports Camera: NRs. 9,900 reference. Source: https://gadgethousenepal.com/product/eken-h9r-action-camera-4k-wifi-waterproof-sports-camera/
+- Blackview BV100 Smart Glasses – AI Camera Glasses with Bluetooth 5.4 HD Recording: NRs. 8,999 reference. Source: https://gadgethousenepal.com/product/blackview-bv100-smart-glasses/
+- Anker eufyCam E330 4K CCTV Camera: NRs. 13,499 reference. Source: https://gadgethousenepal.com/product/anker-eufycam-e330-4k-cctv-camera/
+- Anker eufy Security Indoor Camera C220 with 2K Resolution: NRs. 4,499 reference. Source: https://gadgethousenepal.com/product/anker-eufy-security-indoor-camera-c220/
+- PROLiNK PIC1007WP Dual Lens IP Camera: NRs. 5,999 reference. Source: https://gadgethousenepal.com/product/prolink-pic1007wp-dual-lens-ip-camera/
+- Prolink Wireless Full-HD IP Camera with Night-Vision PIC3005WN: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/prolink-wireless-full-hd-ip-camera/
+- EZVIZ H6c 2K Security CCTV Camera: NRs. 5,500 reference. Source: https://gadgethousenepal.com/product/ezviz-h6c-2k-security-cctv-camera/
+- IMILAB EC5 Floodlight Outdoor Camera 2K: NRs. 8,399 reference. Source: https://gadgethousenepal.com/product/imilab-ec5-floodlight-outdoor-camera-2k/
+- IMILAB EC3 OUTDOOR SECURITY CAMERA 3MP WIFI CAMERA IP 2K MIHOME APP: NRs. 7,399 reference. Source: https://gadgethousenepal.com/product/imilab-ec3-outdoor-security-camera-3mp-wifi-camera-ip-2k-mihome-app/
+- IMILAB C21 HOME SECURITY CAMERA 2.5K: NRs. 4,999 reference. Source: https://gadgethousenepal.com/product/imilab-c21-home-security-camera-2-5k/
+- IMILAB C20 PRO HOME SECURITY CAMERA 2K: NRs. 4,299 reference. Source: https://gadgethousenepal.com/product/imilab-c20-pro-home-security-camera-2k/
+- Mango Security Bulb Camera 360-Degree Motion Detection 1080p WiFi Smart Home Surveillance CCTV: NRs. 3,200 reference. Source: https://gadgethousenepal.com/product/mango-security-bulb-camera-360-degree-motion-detection-1080p-wifi-smart-home-surveillance-cam/
+- Mango Wireless Security Camera, 1080P Home IP Camera Baby Monitor with Night Vision/2-Way Audio/Motion Detection CCTV: NRs. 2,799 reference. Source: https://gadgethousenepal.com/product/mango-wireless-security-camera-1080p-home-ip-camera-baby-monitor-with-night-vision-2-way-audio-motion-detection/
+- Mango RuggedXR V380 Pro Wireless Outdoor Bullet CCTV Camera – Weatherproof WiFi Camera, Full Hd 1080p. Motion Detections, CCTV Security: NRs. 4,500 reference. Source: https://gadgethousenepal.com/product/mango-ruggedxr-v380-pro-wireless-outdoor-bullet-cctv-camera-weatherproof-wifi-camera-full-hd-1080p-motion-detections-supports-64gb-sd-card/
+- 5MP Wifi Camera Waterproof Outdoor Onvif Wirless CCTV Camera Two Way Audio Email Alert Nightvision security: NRs. 4,199 reference. Source: https://gadgethousenepal.com/product/5mp-wifi-camera-waterproof-outdoor-onvif-wirless-camera-two-way-audio-email-alert-nightvision-security-icsee-xmeye-cloud-storage/
+- Wireless Home Indoor Security Camera with Plug, 360° View 2.4G WiFi Surveillance Baby Dog Camera, Motion Detection, Auto Tracking, Dual-Way Talk, HD 1080P Pan Tile Full Color Night Vision: NRs. 3,499 reference. Source: https://gadgethousenepal.com/product/wireless-home-indoor-security-camera-with-plug-360-view-2-4g-wifi-surveillance-baby-dog-camera-motion-detection-auto-tracking-dual-way-talk-hd-1080p-pan-tile-full-color-night-vision/
+- Wireless Outdoor PTZ Camera Wifi IP, Phone APP 5X ZOOM, Night Vision: NRs. 4,200 reference. Source: https://gadgethousenepal.com/product/wireless-outdoor-ptz-camera-wifi-ip-wireless-outdoor-ptz-cam-cctv-phone-app-5x-zoom-night-vision/
+- Wireless WiFi Camera IP With Clock Time Display Video Surveillance Security Baby Monitor CCTV Smart Life: NRs. 4,500 reference. Source: https://gadgethousenepal.com/product/wireless-wifi-camera-ip-with-clock-time-display-video-surveillance-baby-monitor-cctv-smart-life-home-security-protection-wireless-ip-with-clock/
+- Mini Hidden Camera, Small USB Plug, 1080P Indoor Security, HD Portable with Smart Motion Detection CCTV: NRs. 3,200 reference. Source: https://gadgethousenepal.com/product/mini-hidden-camera-small-usb-plug-camera-1080p-indoor-security-camera-hd-pet-camera-portable-14mm-small-lens-nanny-cam-with-smart-motion-detection/
+- Mango Smart WiFi IP Camera, 2K, Infrared Night Vision Two-Way Intercom Security, IP66 Waterproof Pan‑tilt Rotation CCTV: NRs. 4,499 reference. Source: https://gadgethousenepal.com/product/mango-smart-wifi-ip-camera-2k-infrared-night-vision-two-way-intercom-security-camera-ip66-waterproof-pan%e2%80%91tilt-rotation-cctv-security-camera/
+- DIGICOM minicube smart security camera DG-PB1221S CCTV: NRs. 7,199 reference. Source: https://gadgethousenepal.com/product/digicom-mini-cube-intelligent-camera/
+- Q7 Camera, Wireless Recorder Mini DV DVR Camera Smallest Night Vision Video Camcorder with Built-in Microphone: NRs. 2,499 reference. Source: https://gadgethousenepal.com/product/q7-camera-wireless-recorder-mini-dv-dvr-camera-smallest-night-vision-video-camcorder-with-built-in-microphone/
+- Mini Camera WiFi – 1080P HD – Premium Wireless With Microphone – Night Vision, Motion Detection: NRs. 3,899 reference. Source: https://gadgethousenepal.com/product/mini-camera-wifi-1080p-hd-premium-wireless-with-microphone/
+- H2 5000 MAH POWER BANK CAMERA 1080P HD IR NIGHT VISION: NRs. 2,999 reference. Source: https://gadgethousenepal.com/product/h2-5000-mah-power-bank-camera-1080p-hd-ir-night-vision/
+- H8 NIGHT VISION WIFI POWER BANK CAMERA: NRs. 5,999 reference. Source: https://gadgethousenepal.com/product/h8-night-vision-wifi-power-bank-camera/
+- Cleverdog Smart WiFi Doorbell with Voice Message for Home Security: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/cleverdog-smart-wifi-doorbell-with-voice-message-for-home-security/
+- 163EYE L1-NJ WIFI SMART DOORBELL WITH 1.3MP CAMERA NIGHT VISION: NRs. 8,999 reference. Source: https://gadgethousenepal.com/product/163eye-l1-nj-wifi-smart-doorbell-with-1-3mp-camera-night-vision/
+- EKEN Astro 1080P IP Camera With Battery Backup: NRs. 8,500 reference. Source: https://gadgethousenepal.com/product/eken-astro-1080p-ip-camera-with-battery-backup/
+- MacVision NVR IVR Box 16Ch For IP Lan CCTV Camera, Face Detection System – Security Camera, CCTV: NRs. 6,500 reference. Source: https://gadgethousenepal.com/product/macvision-nvr-ivr-box-16ch-for-ip-lan-cctv-camera-face-detection-system/
+- DVR KIT 5MP 4CH Set, 4 Camera + DVR Box CCTV Combo, 5Mpx CCTV Security Camera: NRs. 19,500 reference. Source: https://gadgethousenepal.com/product/dvr-kit-5mp-4ch-set-4-camera-dvr-box-cctv-combo-5mpx/
+- POE KIT 4CH, 4 IP Poe Camera + POE NVR Box 2mpx Full HD CCTV Security Solution CCTV Camera: NRs. 22,500 reference. Source: https://gadgethousenepal.com/product/poe-kit-4ch-4-ip-poe-camera-poe-nvr-box-2mpx-full-hd/
+- MacVision Wireless NVR KIT 8ch Set, 8 Bullet Wifi Camera + NVR Box CCTV Combo, 2Mpx, 1080P Full HD Security Camera Solution For home, Office, cafe and restaurant – CCTV: NRs. 32,000 reference. Source: https://gadgethousenepal.com/product/macvision-wireless-nvr-kit-8ch-set-8-bullet-wifi-camera-nvr-box-cctv-combo-2mpx-1080p-full-hd/
+- POE KIT 8CH, 8 IP Poe Camera + POE NVR Box 2mpx Full HD CCTV Security Camera Solutions: NRs. 38,000 reference. Source: https://gadgethousenepal.com/product/poe-kit-8ch-8-ip-poe-camera-poe-nvr-box-2mpx-full-hd/
+- DVR KIT 8Ch Set, 8 Camera + DVR Box CCTV Combo, 2Mpx, 1080P Full HD CCTV – Security Camera: NRs. 19,999 reference. Source: https://gadgethousenepal.com/product/dvr-kit-8ch-set-8-camera-dvr-box-cctv-combo-2mpx-1080p-full-hd/
+- MacVision DVR KIT 4Ch Set, 4 Camera + DVR Box CCTV Combo, 2Mpx, 1080P Full HD CCTV, Security Camera: NRs. 16,000 reference. Source: https://gadgethousenepal.com/product/macvision-dvr-kit-4ch-set-4-camera-dvr-box-cctv-combo-2mpx-1080p-full-hd/
+- MacVision Wireless Wifi IP PTZ CCTV, Security Camera: NRs. 3,200 reference. Source: https://gadgethousenepal.com/product/macvision-wireless-wifi-ip-ptz-cctv-camera/
+- EZVIZ C6N SECURITY CAMERA – CCTV: NRs. 4,700 reference. Source: https://gadgethousenepal.com/product/ezviz-c6n-security-camera/
+- EZVIZ DB2C SMART DOORBELL KIT WITH CCTV SECURITY CAMERA: NRs. 15,999 reference. Source: https://gadgethousenepal.com/product/ezviz-db2c-smart-doorbell-kit/
+- Ezviz C8C 1080P Full Hd Wifi CCTV Security Camera: NRs. 14,499 reference. Source: https://gadgethousenepal.com/product/ezviz-c8c-1080p-full-hd-wifi-security-camera/
+- EZVIZ C4W IP CAMERA 1080P CCTV Security: NRs. 10,999 reference. Source: https://gadgethousenepal.com/product/ezviz-c4w-ip-camera-1080p/
+- EZVIZ C3N WI-FI CCTV SECURITY CAMERA: NRs. 8,999 reference. Source: https://gadgethousenepal.com/product/ezviz-c3n-wi-fi-camera/
+- Teckin TS100 Outdoor Security Camera: NRs. 5,499 reference. Source: https://gadgethousenepal.com/product/teckin-ts100-outdoor-security-camera/
+- Teckin TC100 Security Camera: NRs. 4,199 reference. Source: https://gadgethousenepal.com/product/teckin-tc100-security-camera/
+- Teckin TR100 Security Camera: NRs. 4,499 reference. Source: https://gadgethousenepal.com/product/teckin-tr100-security-camera/
+- Mi Home Security Camera 360°: NRs. 4,799 reference. Source: https://gadgethousenepal.com/product/mi-home-security-camera-360/
+- V8 Pen Camera HD 1080P: NRs. 3,800 reference. Source: https://gadgethousenepal.com/product/v8-pen-camera-hd-1080p/
+- Wireless CCTV Camera CAMERA BULB Wifi: NRs. 2,499 reference. Source: https://gadgethousenepal.com/product/wireless-cctv-camera-camera-bulb-wifi/
+- Portable Pocket Printer Wireless Bluetooth: NRs. 3,299 reference. Source: https://gadgethousenepal.com/product/portable-pocket-printer-wireless-bluetooth/
+- EcoTank M1100 Monochrome InkTank Printer: NRs. 35,499 reference. Source: https://gadgethousenepal.com/product/ecotank-m1100-monochrome-inktank-printer/
+- Epson EcoTank L3210 A4 All in One Ink Tank Printer: NRs. 26,499 reference. Source: https://gadgethousenepal.com/product/epson-ecotank-l3210-a4-all-in-one-ink-tank-printer/
+- Epson WorkForce Pro WF-C869 Printer: NRs. 5,02,000 reference. Source: https://gadgethousenepal.com/product/epson-workforce-pro-wf-c869-printer/
+- Epson SureColor P6000 Standard Edition Printer: NRs. 5,99,999 reference. Source: https://gadgethousenepal.com/product/epson-surecolor-p6000-standard-edition-printer/
+- Epson L805 Wi-Fi Photo Ink Tank Printer: NRs. 41,999 reference. Source: https://gadgethousenepal.com/product/epson-l805-wi-fi-photo-ink-tank-printer/
+- Epson TM-U220D POS Printer: NRs. 31,500 reference. Source: https://gadgethousenepal.com/product/epson-tm-u220d-pos-printer/
+- Epson TM-T82III POS Printer (USB+Parallel): NRs. 22,500 reference. Source: https://gadgethousenepal.com/product/epson-tm-t82iii-pos-printer-usbparallel/
+- HP Neverstop 1200w Print, Copy, Scan, WiFi Laser Printer, Mess Free Reloading: NRs. 45,500 reference. Source: https://gadgethousenepal.com/product/hp-neverstop-1200w-print-copy-scan-wifi-laser-printer-mess-free-reloading/
+- HP LaserJet Pro MFP M227fdw 3 in 1 Printer: NRs. 53,250 reference. Source: https://gadgethousenepal.com/product/hp-laserjet-pro-mfp-m227fdw-3-in-1-printer/
+- HP LaserJet MFP M436nda Printer (W7U02A) Photocopy, Scan, Print- A3 A4: NRs. 2,10,000 reference. Source: https://gadgethousenepal.com/product/hp-laserjet-mfp-m436nda-printer-w7u02a-photocopy-scan-print-a3-a4/
+- HP LaserJet MFP M436dn Printer (2KY38A) A3 And A4 Print Scan Photocopy: NRs. 1,40,000 reference. Source: https://gadgethousenepal.com/product/hp-laserjet-mfp-m436dn-printer-2ky38a-a3-and-a4-print-scan-photocopy/
+- HP Color LaserJet Pro MFP M477fdw – Printer, Copier, Scanner for Business: NRs. 1,20,000 reference. Source: https://gadgethousenepal.com/product/hp-color-laserjet-pro-mfp-m477fdw-printer-copier-scanner-for-business/
+- HP PageWide Pro 452dw Business Printer: NRs. 90,000 reference. Source: https://gadgethousenepal.com/product/hp-pagewide-pro-452dw-business-printer/
+- HP Color Laserjet Pro M254NW Network and Wireless Printer: NRs. 65,000 reference. Source: https://gadgethousenepal.com/product/hp-color-laserjet-pro-m254nw-network-and-wireless-printer/
+- HP Color LaserJet Pro M254dw Printer: NRs. 92,500 reference. Source: https://gadgethousenepal.com/product/hp-color-laserjet-pro-m254dw-printer/
+- HP Ink Tank 415 Wi-Fi Color Printer, Scanner Copier – Wireless: NRs. 28,000 reference. Source: https://gadgethousenepal.com/product/hp-ink-tank-415-wi-fi-color-printer-scanner-copier-wireless/
+- HP 107W Laser Printer, 4ZB78A – White: NRs. 23,100 reference. Source: https://gadgethousenepal.com/product/hp-107w-laser-printer-4zb78a-white/
+- Samsung 990 PRO SSD 1TB PCIe 4.0 M.2 Internal Solid State Drive: NRs. 26,999 reference. Source: https://gadgethousenepal.com/product/samsung-990-pro-ssd-1tb-pcie-4-0-m-2-internal-solid-state-drive/
+- Transcend 1TB External SSD ESD260: NRs. 17,999 reference. Source: https://gadgethousenepal.com/product/transcend-1tb-external-ssd-esd260/
+- Transcend ESD270C 500GB Portable SSD: NRs. 9,999 reference. Source: https://gadgethousenepal.com/product/transcend-esd270c-500gb-portable-ssd/
+- Transcend 1TB Portable SSD USB 3.1 Gen 2 USB Type-C ESD270C: NRs. 16,999 reference. Source: https://gadgethousenepal.com/product/transcend-1tb-portable-ssd-usb-3-1-gen-2-usb-type-c-esd270c/
+- Transcend 4TB Portable SSD USB 3.2 Gen 2 2 USB Type-C ESD380C: NRs. 54,999 reference. Source: https://gadgethousenepal.com/product/transcend-4tb-portable-ssd-usb-3-2-gen-2x2-usb-type-c-esd380c/
+- Samsung 1TB T7 Touch Portable SSD (Black): NRs. 25,999 reference. Source: https://gadgethousenepal.com/product/samsung-1tb-t7-touch-portable-ssd-black/
+- Samsung 2TB T7 Touch Portable SSD | USB 3.2 | Fingerprint Security | Black: NRs. 51,499 reference. Source: https://gadgethousenepal.com/product/samsung-2tb-t7-touch-portable-ssd-usb-3-2-fingerprint-security-black/
+- SanDisk 1TB Extreme Portable SSD with USB 3.1 Type-C Interface: NRs. 16,999 reference. Source: https://gadgethousenepal.com/product/sandisk-1tb-extreme-portable-ssd-with-usb-3-1-type-c-interface/
+- Kodak Internal SSD X150 120 GB: NRs. 1,999 reference. Source: https://gadgethousenepal.com/product/kodak-internal-ssd-x150-120-gb/
+- Samsung 1TB 990 PRO PCIe Gen 4.0 x4 M.2 Internal SSD: NRs. 26,999 reference. Source: https://gadgethousenepal.com/product/samsung-1tb-990-pro-pcie-gen-4-0-x4-m-2-internal-ssd/
+- Adata XPG SX8200 Pro 1TB NVMe PCIe Gen3 SSD with Heatsink – Ultra-Fast Performance for Desktop Laptop: NRs. 5,435 reference. Source: https://gadgethousenepal.com/product/adata-xpg-sx8200-pro-1tb-nvme-pcie-gen3-ssd-with-heatsink-ultra-fast-performance-for-desktop-laptop/
+- Crucial P2 SSD 250GB: NRs. 3,799 reference. Source: https://gadgethousenepal.com/product/crucial-p2-ssd-250gb/
+- Transcend 500GB NVMe SSD Solid State Drive Gen4 x4 MTE240S M.2 SSD: NRs. 8,749 reference. Source: https://gadgethousenepal.com/product/transcend-500gb-ssd-nepal/
+- PNY XLR8 2TB SSD M.2 NVMe Gen4 x4 Internal Solid State Drive: NRs. 27,000 reference. Source: https://gadgethousenepal.com/product/pny-xlr8-2tb-ssd-m-2-nvme-gen4-x4-internal-solid-state-drive/
+- Whalekom WKSA 512 SATA III SSD – 512 GB Solid State Drive: NRs. 5,300 reference. Source: https://gadgethousenepal.com/product/whalekom-wksa-512-sata-iii-ssd-512-gb-solid-state-drive-copy/
+- Whalekom WKSA 256 SATA III SSD – 256 GB Solid State Drive: NRs. 1,900 reference. Source: https://gadgethousenepal.com/product/whalekom-wksa-256-sata-iii-ssd-265gb-solid-state-drive-copy/
+- Whalekom WKSA 128 SATA III SSD – 128GB Solid State Drive: NRs. 1,900 reference. Source: https://gadgethousenepal.com/product/whalekom-wksa-128-sata-iii-ssd/
+- Whalekom 1TB NVME SSD: NRs. 10,500 reference. Source: https://gadgethousenepal.com/product/whalekom-1tb-nvme-ssd/
+- Whalekom 256 NVME SSD: NRs. 3,200 reference. Source: https://gadgethousenepal.com/product/whalekom-256-nvme-ssd/
+- Whalekom 512GB NVME SSD: NRs. 5,200 reference. Source: https://gadgethousenepal.com/product/whalekom-512gb-nvme-ssd/
+- OSCOO PCIe 2280 128GB Nvme SSD: NRs. 2,800 reference. Source: https://gadgethousenepal.com/product/oscoo-pcie-2280-128gb-nvme-ssd/
+- Whalekom128GB M.2280 PCIe NVMe SSD: NRs. 2,200 reference. Source: https://gadgethousenepal.com/product/whalekom128gb-m-2280-pcie-nvme-ssd/
+- ORICO EXTERNAL 256GB M.2 NVME SSD PORTABLE: NRs. 6,999 reference. Source: https://gadgethousenepal.com/product/external-256gb-m-2-nvme-ssd/
+- DIGICOM SSD HIGH PERFORMANCE SATA, M.2, NVME Nepal: NRs. 2,800 reference. Source: https://gadgethousenepal.com/product/digicom-ssd-high-performance-sata-m-2-nvme-nepal/
+- Lexar NM610 500GB SSD M.2 2280 PCIe Gen3x4 NVMe 500GB Solid-State Drive: NRs. 7,799 reference. Source: https://gadgethousenepal.com/product/lexar-nm610-500gb-ssd-m-2-2280-pcie-gen3x4-nvme-500gb-solid-state-drive/
+- PNY XLR8 CS3040 1TB M.2 NVMe Gen4 x4 Internal Solid State Drive (SSD) – M280CS3040-1TB-RB: NRs. 17,500 reference. Source: https://gadgethousenepal.com/product/pny-xlr8-cs3040-1tb-m-2-nvme-gen4-x4-internal-solid-state-drive-ssd-m280cs3040-1tb-rb/
+- PNY XLR8 CS3030 1TB M.2 NVMe SSD PCIe Gen3 x4 Internal Solid State Drive (SSD), Read Up to 3,500 – M280CS3030-1TB-RB: NRs. 13,600 reference. Source: https://gadgethousenepal.com/product/pny-xlr8-cs3030-1tb-m-2-nvme-ssd-pcie-gen3-x4-internal-solid-state-drive-ssd-read-up-to-3500-m280cs3030-1tb-rb/
+- PNY CS900 1 TB 2.5 SATA III SSD 3D NAND 2.5 SATA III Internal Solid State Drive (SSD) – (SSD7CS900-1TB-RB): NRs. 14,000 reference. Source: https://gadgethousenepal.com/product/pny-cs900-1-tb-2-5-sata-iii-ssd-3d-nand-2-5-sata-iii-internal-solid-state-drive-ssd-ssd7cs900-1tb-rb/
+- PNY CS900 500GB 3D NAND 2.5 SATA III Internal Solid State Drive (SSD) – (SSD7CS900-500-RB): NRs. 7,500 reference. Source: https://gadgethousenepal.com/product/pny-cs900-500gb-3d-nand-2-5-sata-iii-internal-solid-state-drive-ssd-ssd7cs900-500-rb/
+- PNY CS900 250GB 3D NAND 2.5 SATA III Internal Solid State Drive (SSD) – (SSD7CS900-250-RB): NRs. 3,580 reference. Source: https://gadgethousenepal.com/product/pny-cs900-250gb-3d-nand-2-5-sata-iii-internal-solid-state-drive-ssd-ssd7cs900-250-rb/
+- PNY CS900 240GB 3D NAND 2.5 SATA III Internal Solid State Drive (SSD) – (SSD7CS900-240-RB): NRs. 4,599 reference. Source: https://gadgethousenepal.com/product/pny-cs900-240gb-3d-nand-2-5-sata-iii-internal-solid-state-drive-ssd-ssd7cs900-240-rb/
+- PNY CS900 120GB 3D NAND 2.5 SATA III Internal Solid State Drive (SSD): NRs. 2,500 reference. Source: https://gadgethousenepal.com/product/pny-cs900-120gb-3d-nand-2-5-sata-iii-internal-solid-state-drive-ssd/
+- Verbatim 1TB Vi550 SATA III 2.5 Internal SSD: NRs. 10,999 reference. Source: https://gadgethousenepal.com/product/verbatim-1tb-vi550-sata-iii-2-5-internal-ssd/
+- VERBATIM 512GB Vi550 SATA III 2.5″ Internal SSD 49352: NRs. 11,500 reference. Source: https://gadgethousenepal.com/product/verbatim-512gb-vi550-sata-iii-2-5%e2%80%b3-internal-ssd-49352/
+- Verbatim 256GB Vi550 SATA III 2.5 Internal SSD: NRs. 6,499 reference. Source: https://gadgethousenepal.com/product/verbatim-256gb-vi550-sata-iii-2-5-internal-ssd/
+- Western Digital WD Green 480GB SSD: NRs. 10,625 reference. Source: https://gadgethousenepal.com/product/western-digital-wd-green-480gb-ssd/
+- Western Digital 240GB WD Green Internal PC SSD Solid State Drive – SATA III: NRs. 5,625 reference. Source: https://gadgethousenepal.com/product/western-digital-240gb-wd-green-internal-pc-ssd-solid-state-drive-sata-iii/
+- Western Digital WD Green 120 GB 2.5 inch SATA III Internal Solid State Drive (WDS120G2G0A) SSD: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/western-digital-wd-green-120-gb-2-5-inch-sata-iii-internal-solid-state-drive-wds120g2g0a-ssd/
+- VERBATIM 128GB Vi550 SATA III 2.5 Internal SSD (49350): NRs. 4,700 reference. Source: https://gadgethousenepal.com/product/verbatim-128gb-vi550-sata-iii-2-5-internal-ssd-49350/
+- Seagate Barracuda Q1 SSD 480 GB Internal Solid State Drive: NRs. 10,625 reference. Source: https://gadgethousenepal.com/product/seagate-barracuda-q1-ssd-480-gb-internal-solid-state-drive/
+- Seagate Barracuda 240 GB SSD: NRs. 6,499 reference. Source: https://gadgethousenepal.com/product/seagate-barracuda-240-gb-ssd/
+- UGREEN 500GB USB-C EXTERNAL SSD #10906: NRs. 17,750 reference. Source: https://gadgethousenepal.com/product/ugreen-500gb-usb-c-external-ssd-10906/
+- KINGSTON 256 GB 2.5” SSD KC600: NRs. 6,499 reference. Source: https://gadgethousenepal.com/product/kingston-256-gb-2-5-ssd-kc600/
+- TRANSCEND 240GB SSD USB 3.1 GEN 2 USB TYPE-C ESD230C PORTABLE: NRs. 8,499 reference. Source: https://gadgethousenepal.com/product/transcend-240gb-ssd-usb-3-1-gen-2-usb-type-c-esd230c-portable/
+- TRANSCEND 480GB PORTABLE SSD USB 3.1 GEN 2 USB TYPE-C ESD230C: NRs. 14,999 reference. Source: https://gadgethousenepal.com/product/transcend-480gb-portable-ssd-usb-3-1-gen-2-usb-type-c-esd230c/
+- 256GB SSD BRYT 2.5″ SATA III: NRs. 3,499 reference. Source: https://gadgethousenepal.com/product/256gb-ssd-bryt-2-5%e2%80%b3-sata-iii/
+- 512GB SSD SATA III BRYT 2.5″: NRs. 7,500 reference. Source: https://gadgethousenepal.com/product/512gb-ssd-sata-iii-bryt-2-5%e2%80%b3/
+- CS1031 M.2 2280 NVME GEN3X4 SSD- 256GB: NRs. 5,499 reference. Source: https://gadgethousenepal.com/product/cs1031-m-2-2280-nvme-gen3x4-ssd-256gb/
+- PNY CS1031 M.2 2280 NVMe Gen3x4 SSD 512GB: NRs. 8,499 reference. Source: https://gadgethousenepal.com/product/pny-cs1031-m-2-2280-nvme-gen3x4-ssd-512gb/
+- PNY CS2140 500GB M.2 NVMe Gen4 x4 Internal Solid State Drive (SSD) – M280CS2140-500-RB: NRs. 9,999 reference. Source: https://gadgethousenepal.com/product/pny-500gb-m-2-nvme-gen4-ssd/
+- Intel Core i9 processor 14900K: NRs. 89,000 reference. Source: https://gadgethousenepal.com/product/intel-core-i9-processor-14900k/
+- AMD Ryzen 5 7600 Gaming Processor: NRs. 30,499 reference. Source: https://gadgethousenepal.com/product/amd-ryzen-5-7600-gaming-processor/
+- AMD Ryzen 7 5700G Processor 8-Core, 16-Thread Unlocked Desktop Processor with Radeon Graphics: NRs. 49,000 reference. Source: https://gadgethousenepal.com/product/amd-ryzen-7-5700g-processor-8-core-16-thread-unlocked-desktop-processor-with-radeon-graphics/
+- AMD Ryzen 5 7600X Desktop Processor: NRs. 49,500 reference. Source: https://gadgethousenepal.com/product/amd-ryzen-5-7600x/
+- AMD Ryzen 7 7700X Desktop Processor: NRs. 64,499 reference. Source: https://gadgethousenepal.com/product/amd-ryzen-7-7700x-desktop-processor/
+- AMD Ryzen 9 7900X Desktop Processor 12-Core, 24-Thread Unlocked: NRs. 83,500 reference. Source: https://gadgethousenepal.com/product/amd-ryzen-9-7900x-desktop-processor-12-core-24-thread-unlocked/
+- Intel Core i7-13700 Processor: NRs. 63,000 reference. Source: https://gadgethousenepal.com/product/intel-core-i7-13700-processor/
+- AMD Ryzen 7 5800X Desktop Processor 8-core, 16-Thread Unlocked: NRs. 40,000 reference. Source: https://gadgethousenepal.com/product/amd-ryzen-7-5800x-desktop-processor-8-core-16-thread-unlocked/
+- Intel Core i7 12th Gen Processor i7-12700: NRs. 48,000 reference. Source: https://gadgethousenepal.com/product/intel-core-i7-12th-gen-i7-12700-processor/
+- Intel Core i5-13600K 13 Generation Raptor Lake Processor: NRs. 54,500 reference. Source: https://gadgethousenepal.com/product/intel-core-i5-13600k-13th-generation-raptor-lake-processor/
+- Intel Core i7-13700K 13 Gen Desktop Processor 16 cores (8 P-cores + 8 E-cores): NRs. 63,000 reference. Source: https://gadgethousenepal.com/product/intel-core-i7-13700k-desktop-processor/
+- Intel Core i9-13900K 13 GEN Desktop Processor 24 cores (8 P-cores + 16 E-cores) 36M Cache, up to 5.8 GHz: NRs. 95,000 reference. Source: https://gadgethousenepal.com/product/intel-core-i9-13900k-13-gen-desktop-processor-24-cores-8-p-cores-16-e-cores-36m-cache-up-to-5-8-ghz/
+- Intel Core i9-12900K Desktop Processor 16 (8P+8E) Cores up to 5.2 GHz Unlocked LGA1700 600 Series Chipset 125W: NRs. 83,999 reference. Source: https://gadgethousenepal.com/product/intel-core-i9-12900k-desktop-processor-16-8p8e-cores-up-to-5-2-ghz-unlocked-lga1700-600-series-chipset-125w/
+- AMD Ryzen 5 5600G 6-Core 12-Thread: NRs. 20,400 reference. Source: https://gadgethousenepal.com/product/amd-ryzen-5-5600g-6-core-12-thread/
+- AMD Ryzen Threadripper 2950X Processor: NRs. 1,08,000 reference. Source: https://gadgethousenepal.com/product/amd-ryzen-threadripper-2950x-processor/
+- AMD Ryzen Threadripper 3960X, 24 Cores and 48 Processing Threads, 140MB Cache, Base Clock – 3.8GHz: NRs. 2,08,000 reference. Source: https://gadgethousenepal.com/product/amd-ryzen-threadripper-3960x-24-cores-and-48-processing-threads-140mb-cache-base-clock-3-8ghz/
+- AMD Ryzen Threadripper 3970X 32-Core, 64-Thread Unlocked Desktop Processor: NRs. 2,84,000 reference. Source: https://gadgethousenepal.com/product/amd-ryzen-threadripper-3970x-32-core-64-thread-unlocked-desktop-processor/
+- AMD Ryzen 3 3200G 4-Core Unlocked Desktop Processor with Radeon Graphics: NRs. 22,000 reference. Source: https://gadgethousenepal.com/product/amd-ryzen-3-3200g-4-core-unlocked-desktop-processor-with-radeon-graphics/
+- AMD Ryzen 9 3950X 16-Core, 32-Thread Unlocked Desktop Processor: NRs. 1,18,000 reference. Source: https://gadgethousenepal.com/product/amd-ryzen-9-3950x-16-core-32-thread-unlocked-desktop-processor/
+- AMD Ryzen 9 3900X 12-core, 24-thread unlocked desktop processor: NRs. 72,000 reference. Source: https://gadgethousenepal.com/product/amd-ryzen-9-3900x-12-core-24-thread-unlocked-desktop-processor/
+- AMD Ryzen 7 3700X 8-Core, 16-Thread: NRs. 35,000 reference. Source: https://gadgethousenepal.com/product/amd-ryzen-7-3700x-8-core-16-thread/
+- AMD Ryzen 5 3600X 6-Core, 12-Thread Unlocked Desktop Processor: NRs. 30,000 reference. Source: https://gadgethousenepal.com/product/amd-ryzen-5-3600x-6-core-12-thread-unlocked-desktop-processor/
+- AMD Ryzen 5 3600 6-Core, 12-Thread Unlocked Desktop Processor: NRs. 18,000 reference. Source: https://gadgethousenepal.com/product/amd-ryzen-5-3600-6-core-12-thread-unlocked-desktop-processor-2/
+- AMD RYZEN 5 3400G, Quad-Core 4-Core Threads 8: NRs. 33,000 reference. Source: https://gadgethousenepal.com/product/amd-ryzen-5-3400g-quad-core-4-core-threads-8/
+- AMD Ryzen 5 3600 6-Core, 12-Thread Unlocked Desktop Processor: NRs. 30,000 reference. Source: https://gadgethousenepal.com/product/amd-ryzen-5-3600/
+- AMD Ryzen 5 3500X Desktop Processor 6 cores up to 4.1GHz 35MB Cache AM4 Socket: NRs. 27,500 reference. Source: https://gadgethousenepal.com/product/amd-ryzen-5-3500x-desktop-processor-6-cores-up-to-4-1ghz-35mb-cache-am4-socket/
+- AMD Ryzen 7 3700 Pro Desktop Processor 8 cores up to 4.4GHz 32MB: NRs. 42,000 reference. Source: https://gadgethousenepal.com/product/amd-ryzen-7-3700-pro-desktop-processor-8-cores-up-to-4-4ghz-32mb/
+- Intel Core i7-9700K Desktop Processor: NRs. 46,000 reference. Source: https://gadgethousenepal.com/product/intel-core-i7-9700k-desktop-processor/
+- Intel Core i7-9700 Desktop Processor: NRs. 40,000 reference. Source: https://gadgethousenepal.com/product/intel-core-i7-9700-desktop-processor/
+- Intel Core i5-9600K Desktop Processor: NRs. 36,000 reference. Source: https://gadgethousenepal.com/product/intel-core-i5-9600k-desktop-processor/
+- Intel Core i5-9400F Desktop Processor 9 Gen: NRs. 23,500 reference. Source: https://gadgethousenepal.com/product/intel-core-i5-9400f-desktop-processor-9-gen/
+- Intel Core i9-9900KF (9 gen) Desktop Processor: NRs. 66,800 reference. Source: https://gadgethousenepal.com/product/intel-core-i9-9900kf-9-gen-desktop-processor/
+- Intel Core i9 (12th Gen) i9-12900 Hexadeca-core Processor: NRs. 84,000 reference. Source: https://gadgethousenepal.com/product/intel-core-i9-12th-gen-i9-12900-hexadeca-core/
+- Core i7-12700K Desktop Processor 12 Gen: NRs. 55,000 reference. Source: https://gadgethousenepal.com/product/intel-core-i7-12-gen-12700k-12-8p4e/
+- Intel Core i5-12600K Desktop Processor i5 12th Gen Alder Lake 10-Core Processor: NRs. 41,000 reference. Source: https://gadgethousenepal.com/product/intel-core-i5-12600k-desktop-processor-i5-12th-gen-alder-lake-10-core-processor/
+- Intel Core i9 11 GEN -11900K Processor: NRs. 68,000 reference. Source: https://gadgethousenepal.com/product/intel-core-i9-11-gen-11900k-processor/
+- Intel Core i5 11th Gen 11400 6-Core 2.6 GHz LGA 65W Processor: NRs. 25,000 reference. Source: https://gadgethousenepal.com/product/intel-core-i5-11th-gen-11400-6-core-2-6-ghz-lga-1200-65w/
+- Intel Core i7 11 gen Processor: NRs. 45,000 reference. Source: https://gadgethousenepal.com/product/intel-core-i7-11-gen-processor/
+- Intel Core i9-9900K, 8 Cores/16 Threads 3.60 GHz Processor: NRs. 52,000 reference. Source: https://gadgethousenepal.com/product/intel-core-i9-9900k-8-cores-16-threads-3-60-ghz-processor/
+- Intel Core i5-9400 Desktop Processor: NRs. 23,000 reference. Source: https://gadgethousenepal.com/product/intel-core-i5-9400-desktop-processor/
+- Intel Core i9-10900X Processor 10 Cores/20 Threads, 20 MB Cache: NRs. 1,04,800 reference. Source: https://gadgethousenepal.com/product/intel-core-i9-10900x-processor-10-cores-20-threads-20-mb-cache/
+- Intel Core i7 10th Gen 10700K 8 Cores 16 Threads L3 Cache 16MB 3.8 GHz Processor: NRs. 52,800 reference. Source: https://gadgethousenepal.com/product/intel-core-i7-10th-gen-10700k-8-cores-16-threads-l3-cache-16mb-3-8-ghz-processor/
+- Intel Core i7-10700 Desktop Processor 8 Cores: NRs. 45,000 reference. Source: https://gadgethousenepal.com/product/intel-core-i7-10700-desktop-processor-8-cores/
+- Intel Core i5-10400F 10th Generation Processor: NRs. 27,800 reference. Source: https://gadgethousenepal.com/product/intel-core-i5-10400f-10th-generation-processor/
+- ASUS Prime GeForce RTX 5080 OC Edition 16GB GDDR7 Graphics Card: NRs. 1,99,900 reference. Source: https://gadgethousenepal.com/product/asus-prime-geforce-rtx-5080-oc-editionprice-in-nepal/
+- ASUS Prime Radeon RX 9070 XT OC Edition: NRs. 1,34,999 reference. Source: https://gadgethousenepal.com/product/asus-prime-radeon-rx-9070-xt-oc-editionprice-in-nepal/
+- GeForce RTX 5070 WINDFORCE OC SFF 12GB Graphics Card: NRs. 1,09,999 reference. Source: https://gadgethousenepal.com/product/geforce-rtx-5070-windforce-oc-sff-12gbprice-in-nepal/
+- MSI Gaming RTX 5060 Ti 16G Ventus 2X OC Plus: NRs. 82,999 reference. Source: https://gadgethousenepal.com/product/msi-gaming-rtx-5060-ti-16g-ventus-2x-oc-plusprice-in-nepal/
+- ASUS GeForce RTX 5060 Ti Dual 8GB OC Gaming Graphics Card: NRs. 69,999 reference. Source: https://gadgethousenepal.com/product/asus-geforce-rtx-5060-ti-dual-8gb-oc-gaming-graphics-card/
+- MSI Gaming RTX 5060 8G Inspire 2X OC Graphics Card: NRs. 68,999 reference. Source: https://gadgethousenepal.com/product/msi-gaming-rtx-5060-8g-inspire-2x-oc-graphics-cardprice-in-nepal/
+- ASUS Prime GeForce RTX™ 5060 8GB GDDR7 OC Edition Graphics Card: NRs. 59,999 reference. Source: https://gadgethousenepal.com/product/asus-prime-geforce-rtx-5060-8gb-gddr7-oc-edition-graphics-cardprice-in-nepal/
+- MSI GeForce RTX 5060 8G Ventus 2X OC White Graphics Card: NRs. 56,999 reference. Source: https://gadgethousenepal.com/product/msi-geforce-rtx-5060-8g-ventus-2x-oc-white-graphics-cardprice-in-nepal/
+- MSI Gaming RTX 5060 8G Ventus 2X OC: NRs. 58,000 reference. Source: https://gadgethousenepal.com/product/msi-gaming-rtx-5060-8g-ventus-2x-ocprice-in-nepal/
+- GIGABYTE RTX 4060 Eagle OC 8GB: NRs. 53,999 reference. Source: https://gadgethousenepal.com/product/gigabyte-rtx-4060-eagle-oc-8gbprice-in-nepal/
+- ASUS Dual GeForce RTX 4060 V2 OC: NRs. 50,999 reference. Source: https://gadgethousenepal.com/product/asus-dual-geforce-rtx-4060-v2-ocprice-in-nepal/
+- ASUS Dual GeForce RTX 5050 8GB GDDR6 OC (comming soon): NRs. 69,999 reference. Source: https://gadgethousenepal.com/product/asus-dual-geforce-rtx-5050-8gb-gddr6-ocprice-in-nepal/
+- ASUS Dual GeForce RTX 3050 V2 8GB GDDR6: NRs. 36,000 reference. Source: https://gadgethousenepal.com/product/asus-dual-geforce-rtx-3050-v2-8gb-gddr6price-in-nepal/
+- ASUS Dual NVIDIA GeForce RTX 3050 6GB OC Edition Gaming Graphics Card: NRs. 33,900 reference. Source: https://gadgethousenepal.com/product/asus-dual-nvidia-geforce-rtx-3050-6gb-oc-edition-gaming-graphics-cardprice-in-nepal/
+- Gigabyte GeForce RTX 4090 GAMING OC 24G Graphics Card: NRs. 2,84,999 reference. Source: https://gadgethousenepal.com/product/gigabyte-geforce-rtx-4090-gaming-oc-24g-graphics-card/
+- INNO3D GEFORCE GTX 1660 super Twin X2 6GB Graphic Card: NRs. 37,000 reference. Source: https://gadgethousenepal.com/product/inno3d-geforce-gtx-1660-twin-x2-6gb-graphic-card/
+- INNO3D NVIDIA GEFORCE RTX 2060 Graphics Card Twin X2 6GB GDDR6: NRs. 39,000 reference. Source: https://gadgethousenepal.com/product/inno3d-nvidia-geforce-rtx-2060/
+- Inno3d GeForce RTX 3070 Graphics Card Suprime X 8GB GDDR6X Gaming: NRs. 78,000 reference. Source: https://gadgethousenepal.com/product/geforce-rtx-3070-graphics-card/
+- Inno3d GeForce RTX 3070 Ti Graphics Card SUPRIM X 8G Gaming – 8GB GDDR6X: NRs. 87,500 reference. Source: https://gadgethousenepal.com/product/inno3d-geforce-rtx-3070-ti-graphics-card/
+- INNO3D NVIDIA GEFORCE GTX 1650 Twin X2 OC 4 GB GDDR6: NRs. 28,000 reference. Source: https://gadgethousenepal.com/product/inno3d-nvidia-geforce-gtx-1650-twin-x2-oc-4-gb-gddr6/
+- INNO3D NVIDIA GEFORCE RTX 3060 Twin X2 OC 12 GB GDDR6: NRs. 59,500 reference. Source: https://gadgethousenepal.com/product/inno3d-nvidia-geforce-rtx-3060/
+- INNO3D GEFORCE RTX 3060 Ti TWIN X2 OC LHR: NRs. 68,000 reference. Source: https://gadgethousenepal.com/product/inno3d-geforce-rtx-3060-ti-twin-x2/
+- INNO3D GeForce RTX 4070 iCHILL X3 DLSS3, NVIDIA GPU: NRs. 1,03,000 reference. Source: https://gadgethousenepal.com/product/inno3d-geforce-rtx-4070-ichill-x3-dlss3-nvidia-gpu/
+- INNO3D GeForce RTX 4070 Ti GRAPHICS CARD iChill X3, 12288 MB GDDR6X: NRs. 1,35,000 reference. Source: https://gadgethousenepal.com/product/inno3d-geforce-rtx-4070-ti-graphics-card/
+- INNO3D GEFORCE RTX 4090 X3 OC GRAPHICS CARD LIQUID COOLED: NRs. 2,75,000 reference. Source: https://gadgethousenepal.com/product/inno3d-geforce-rtx-4090-x3-oc-graphics-card/
+- ZOTAC GAMING GeForce RTX 4080 16GB Trinity Graphics Card: NRs. 1,91,000 reference. Source: https://gadgethousenepal.com/product/zotac-gaming-geforce-rtx-4080-16gb-trinity-graphics-card/
+- ZOTAC GAMING GeForce RTX 4070 Ti Trinity Graphics Card: NRs. 1,29,000 reference. Source: https://gadgethousenepal.com/product/zotac-gaming-geforce-rtx-4070-ti-trinity-graphics-card/
+- ZOTAC GAMING GeForce RTX 3060 Ti GDDR6X Twin Edge White Edition: NRs. 66,000 reference. Source: https://gadgethousenepal.com/product/zotac-gaming-geforce-rtx-3060-ti-gddr6x-twin-edge-white-edition/
+- ZOTAC GAMING GeForce RTX 3060 Ti Twin Edge OC Graphics Card: NRs. 61,000 reference. Source: https://gadgethousenepal.com/product/zotac-gaming-geforce-rtx-3060-ti-twin-edge-oc-graphics-card/
+- ZOTAC GAMING GeForce RTX 3060 Twin Edge OC Graphics Card: NRs. 46,000 reference. Source: https://gadgethousenepal.com/product/zotac-gaming-geforce-rtx-3060-twin-edge-oc-graphics-card/
+- ZOTAC GAMING GeForce GTX 1650 AMP Core GDDR6 Graphics Card: NRs. 24,000 reference. Source: https://gadgethousenepal.com/product/zotac-gaming-geforce-gtx-1650-amp-core-gddr6-graphics-card/
+- PNY GeForce RTX 4070 Ti 12GB XLR8 Gaming VERTO EPIC-X RGB Triple Fan DLSS 3: NRs. 1,35,000 reference. Source: https://gadgethousenepal.com/product/pny-geforce-rtx-4070-ti-12gb-xlr8/
+- PNY GeForce RTX 4090 24GB XLR8 Gaming VERTO™ EPIC-X RGB Triple Fan DLSS 3: NRs. 2,60,000 reference. Source: https://gadgethousenepal.com/product/pny-geforce-rtx-4090-24gb-xlr8/
+- PNY GeForce RTX™ 4080 16GB XLR8 Gaming VERTO™ EPIC-X RGB Overclocked Triple Fan DLSS 3: NRs. 1,89,999 reference. Source: https://gadgethousenepal.com/product/pny-geforce-rtx-4080-16gb-xlr8/
+- PNY GeForce RTX 4070 Ti 12GB OC XLR8 Gaming Verto TF: NRs. 1,27,000 reference. Source: https://gadgethousenepal.com/product/pny-geforce-rtx-4070-ti-12gb-oc-xlr8-gaming-verto-tf/
+- Biostar GeForce GT610 VN610 2GB, SDDR3: NRs. 7,000 reference. Source: https://gadgethousenepal.com/product/biostar-geforce-gt610-vn610-2gb-sddr3/
+- The PNY GeForce® GTX 1650 4GB GDDR6 Dual Fan: NRs. 30,000 reference. Source: https://gadgethousenepal.com/product/the-pny-geforce-gtx-1650-4gb-gddr6-dual-fan/
+- GALAX GeForce RTX 4080 16GB GDDR6X SG 1-Click OC: NRs. 2,24,000 reference. Source: https://gadgethousenepal.com/product/galax-geforce-rtx-4080-16gb-gddr6x-sg-1-click-oc/
+- Manli GeForce RTX 3060 LHR (M2500+N630) Graphics Card: NRs. 55,000 reference. Source: https://gadgethousenepal.com/product/manli-geforce-rtx-3060-lhr-m2500n630-graphics-card/
+- MANLI GeForce GTX 1660Ti Gallardo (M2436+N537): NRs. 65,000 reference. Source: https://gadgethousenepal.com/product/manli-geforce-gtx-1660ti/
+- MANLI GeForce GTX 1660 Super Gallardo (M2436+N537): NRs. 61,000 reference. Source: https://gadgethousenepal.com/product/manli-geforce-gtx-1660-super-gallardo-m2436n537/
+- Manli GeForce RTX 3060 Ti: NRs. 69,000 reference. Source: https://gadgethousenepal.com/product/manli-geforce-rtx-3060-ti/
+- MSI Gaming GeForce RTX 4090 24GB GDRR6X 384-Bit HDMI/DP Nvlink Tri-Frozr 3 Ada Lovelace Architecture Graphics Card (RTX 4090 Gaming Trio 24G): NRs. 3,05,000 reference. Source: https://gadgethousenepal.com/product/msi-gaming-geforce-rtx-4090-24gb-gdrr6x-384-bit-hdmi-dp-nvlink-tri-frozr-3-ada-lovelace-architecture-graphics-card-rtx-4090-gaming-trio-24g/
+- MSI RTX 4080 GAMING X TRIO Graphics Card 16GB GDDR6X PCI Express 4.0 Video Card: NRs. 2,15,000 reference. Source: https://gadgethousenepal.com/product/msi-rtx-4080-gaming-x-trio-graphics-card-16gb-gddr6x-pci-express-4-0-video-card/
+- MSI GeForce RTX 4080 16GB VENTUS 3X OC: NRs. 2,16,000 reference. Source: https://gadgethousenepal.com/product/msi-geforce-rtx-4080-16gb-ventus-3x-oc/
+- MSI Gaming GeForce RTX 3070 8GB GDRR6: NRs. 97,800 reference. Source: https://gadgethousenepal.com/product/msi-gaming-geforce-rtx-3070-8gb-gdrr6/
+- GIGABYTE GeForce RTX 3050 Gaming OC 8G Graphics Card: NRs. 48,000 reference. Source: https://gadgethousenepal.com/product/gigabyte-geforce-rtx-3050-gaming-oc-8g-graphics-card/
+- GIGABYTE GeForce RTX 3060 Gaming OC: NRs. 64,499 reference. Source: https://gadgethousenepal.com/product/gigabyte-geforce-rtx-3060-gaming-oc/
+- MSI GEFORCE GTX 1050ti 4GB Gaming X: NRs. 23,500 reference. Source: https://gadgethousenepal.com/product/msi-geforce-gtx-1050ti-4gb-gaming-x/
+- ASRock Radeon RX 5700 XT DirectX 12 RX 5700 XT TAICHI X 8G OC+ 8GB 256-Bit GDDR6: NRs. 49,999 reference. Source: https://gadgethousenepal.com/product/asrock-radeon-rx-5700-xt-directx-12-rx-5700-xt-taichi-x-8g-oc-8gb-256-bit-gddr6/
+- Colorful iGame GeForce RTX 2070 SUPER Advanced OC-V Gaming Graphic Card: NRs. 84,800 reference. Source: https://gadgethousenepal.com/product/colorful-igame-geforce-rtx-2070-super-advanced-oc-v-gaming-graphic-card/
+- Colorful GeForce RTX 2070 8GB DDR6: NRs. 80,000 reference. Source: https://gadgethousenepal.com/product/colorful-geforce-rtx-2070-8gb-ddr6/
+- iGame GeForce RTX 3080 Neptune OC 10G-V 10GB DDR6X: NRs. 1,38,800 reference. Source: https://gadgethousenepal.com/product/igame-geforce-rtx-3080-neptune-oc-10g-v-10gb-ddr6x/
+- iGame GeForce RTX 3080 Ultra OC 10G-V 10GB DDR6X: NRs. 1,21,800 reference. Source: https://gadgethousenepal.com/product/igame-geforce-rtx-3080-ultra-oc-10g-v-10gb-ddr6x/
+- ASUS GeForce RTX 2080 O8G ROG STRIX OC Edition 8GB GDDR6: NRs. 1,60,000 reference. Source: https://gadgethousenepal.com/product/asus-geforce-rtx-2080-o8g-rog-strix-oc-edition-8gb-gddr6/
+- ASUS GeForce GTX 1080 8GB Turbo Graphic Card TURBO: NRs. 72,800 reference. Source: https://gadgethousenepal.com/product/asus-geforce-gtx-1080-8gb-turbo-graphic-card-turbo/
+- iGame GeForce RTX 3080 Vulcan X OC 10G-V 10GB DDR6x: NRs. 1,42,800 reference. Source: https://gadgethousenepal.com/product/igame-geforce-rtx-3080-vulcan-x-oc-10g-v-10gb-ddr6x/
+- ZOTAC RTX 2060 SUPER AMP Extreme 8GB GDDR6 Gaming Graphics Extreme Overclock: NRs. 68,800 reference. Source: https://gadgethousenepal.com/product/zotac-rtx-2060-super-amp-extreme-8gb-gddr6-gaming-graphics-extreme-overclock/
+- GIGABYTE GeForce RTX 2080 Ti Gaming OC 11GB Graphic Card: NRs. 1,75,800 reference. Source: https://gadgethousenepal.com/product/gigabyte-geforce-rtx-2080-ti-gaming-oc-11gb-graphic-card/
+- ASUS Dual Radeon RX 5700 EVO OC edition 8GB GDDR6: NRs. 69,000 reference. Source: https://gadgethousenepal.com/product/asus-dual-radeon-rx-5700-evo-oc-edition-8gb-gddr6/
+- PNY RTX 3060 12 GB XLR8 Graphics VGA Card: NRs. 63,000 reference. Source: https://gadgethousenepal.com/product/pny-rtx-3060-12-gb-xlr8-graphics-vga-card/
+- Colorful iGame GTX 1660 Super Ultra 6GB GDDR6 Triple Fan Graphics Card with One-Key OC: NRs. 54,000 reference. Source: https://gadgethousenepal.com/product/colorful-igame-gtx-1660-super-ultra-6gb-gddr6-triple-fan-graphics-card-with-one-key-oc-2/
+- Colorful iGame GeForce RTX 2070 Super Vulcan X OC-V 8GB Graphics Card: NRs. 92,800 reference. Source: https://gadgethousenepal.com/product/colorful-igame-geforce-rtx-2070-super-vulcan-x-oc-v-8gb-graphics-card-2/
+- XFX RX 5700 Xt Thicc III Ultra 8GB 2025MHz GDDR6 Graphics Card: NRs. 72,800 reference. Source: https://gadgethousenepal.com/product/xfx-rx-5700-xt-thicc-iii-ultra-8gb-2025mhz-gddr6-graphics-card/
+- MSI GeForce RTX 2070 SUPER GAMING X 8GB GDRR6 Graphics Card: NRs. 92,800 reference. Source: https://gadgethousenepal.com/product/msi-geforce-rtx-2070-super-gaming-x-8gb-gdrr6-graphics-card/
+- MSI Gaming RTX 2080 Super 8GB GDRR6 OC Graphics Card: NRs. 1,20,800 reference. Source: https://gadgethousenepal.com/product/msi-gaming-rtx-2080-super-8gb-gdrr6-oc-graphics-card-2/
+- MSI Gaming RTX 2080 Super 8GB GDRR6 OC Graphics Card: NRs. 1,28,800 reference. Source: https://gadgethousenepal.com/product/msi-gaming-rtx-2080-super-8gb-gdrr6-oc-graphics-card/
+- MSI Gaming GTX 1660 Ti 6GB GDRR6 Dual Fan VR Ready OC Graphics Card: NRs. 44,800 reference. Source: https://gadgethousenepal.com/product/msi-gaming-gtx-1660-ti-6gb-gdrr6-dual-fan-vr-ready-oc-graphics-card/
+- MSI Gaming RTX 2060 Super 8GB GDRR6 G-Overclocked Graphics Card: NRs. 56,000 reference. Source: https://gadgethousenepal.com/product/msi-gaming-rtx-2060-super-8gb-gdrr6-g-overclocked-graphics-card/
+- GIGABYTE AORUS GeForce RTX 2080 Super 8G Graphics Card, 3x WINDFORCE Fans, 8GB 256-Bit GDDR6: NRs. 1,30,800 reference. Source: https://gadgethousenepal.com/product/gigabyte-aorus-geforce-rtx-2080-super-8g-graphics-card-3x-windforce-fans-8gb-256-bit-gddr6/
+- Colorful iGame RTX 2060 Super Ultra 8GB GDDR6 Triple Fan Gaming Graphics Card with One-Key OC: NRs. 62,800 reference. Source: https://gadgethousenepal.com/product/colorful-igame-rtx-2060-super-ultra-8gb-gddr6-triple-fan-gaming-graphics-card-with-one-key-oc/
+- Colorful iGame RTX 2080 Super Advanced OC 8GB GDDR6 Triple Heavy Armor Fan Gaming Graphics Card with One-Key OC: NRs. 1,10,800 reference. Source: https://gadgethousenepal.com/product/colorful-igame-rtx-2080-super-advanced-oc-8gb-gddr6-triple-heavy-armor-fan-gaming-graphics-card-with-one-key-oc/
+- Colorful iGame GeForce RTX 2070 Super Vulcan X OC-V 8GB Graphics Card: NRs. 92,800 reference. Source: https://gadgethousenepal.com/product/colorful-igame-geforce-rtx-2070-super-vulcan-x-oc-v-8gb-graphics-card/
+- Colorful iGame GeForce RTX 2080 SUPER Vulcan X OC GDDR6 8G E-sports Gaming Graphics Card: NRs. 1,18,800 reference. Source: https://gadgethousenepal.com/product/colorful-igame-geforce-rtx-2080-super-vulcan-x-oc-gddr6-8g-e-sports-gaming-graphics-card/
+- Colorful iGame GTX 1660 Super Ultra 6GB GDDR6 Triple Fan Graphics Card with One-Key OC: NRs. 38,800 reference. Source: https://gadgethousenepal.com/product/colorful-igame-gtx-1660-super-ultra-6gb-gddr6-triple-fan-graphics-card-with-one-key-oc/
+- Colorful iGame GTX 1660 Ti Ultra 6GB GDDR6 Graphics Card: NRs. 44,800 reference. Source: https://gadgethousenepal.com/product/colorful-igame-gtx-1660-ti-ultra-6gb-gddr6-graphics-card/
+- Colorful iGame RTX 2060 SUPER Ultra-V 8GB GDDR6 Graphics Card: NRs. 56,800 reference. Source: https://gadgethousenepal.com/product/colorful-igame-rtx-2060-graphic-card/
+- Gigabyte GeForce GTX 1660 Super OC 6GB Graphics Card, 3 Fans: NRs. 46,000 reference. Source: https://gadgethousenepal.com/product/gigabyte-geforce-gtx-1660-super-oc-6gb-graphics-card-3-fans/
+- MSI GeForce RTX 3080 VENTUS 3X 10GB GDDR6 Graphics Card: NRs. 1,30,000 reference. Source: https://gadgethousenepal.com/product/msi-geforce-rtx-3080-ventus-3x-10gb-gddr6-graphics-card/
+- MSI GRAPHICS CARDS GEFORCE GTX 1650 VENTUS XS 4G OC: NRs. 46,000 reference. Source: https://gadgethousenepal.com/product/msi-graphics-cards-geforce-gtx-1650-ventus-xs-4g-oc/
+- Pny GeForce RTX 3070 8GB XLR8 Graphics Card: NRs. 91,999 reference. Source: https://gadgethousenepal.com/product/pny-geforce-rtx-3070-8gb-xlr8-graphics-card/
+- PNY RTX 3050 Graphics Card 8 GB GDDR6: NRs. 40,999 reference. Source: https://gadgethousenepal.com/product/pny-rtx-3050-graphics-card-8-gb-gddr6/
+- PNY GEFORCE GTX 1660 Ti Dual Fan XLR8 Graphics Card: NRs. 54,999 reference. Source: https://gadgethousenepal.com/product/pny-geforce-gtx-1660-ti-dual-fan-xlr8-graphics-card/
+- GEFORCE RTX 3080 ICHILL X3 10GB GDDR6X: NRs. 1,80,000 reference. Source: https://gadgethousenepal.com/product/geforce-rtx-3080-ichill-x3-10gb-gddr6x/
+- GeForce RTX 3060 Inno3D Twin X2 OC 12GB: NRs. 1,08,000 reference. Source: https://gadgethousenepal.com/product/inno3d-geforce-rtx-3060-twin-x2-oc/
+- ASUS PRIME Z790-P WIFI CSM Motherboard: NRs. 39,000 reference. Source: https://gadgethousenepal.com/product/asus-prime-z790-p-wifi-csm-motherboardprice-in-nepal/
+- ASRock Z790 Pro RS/D4 Motherboard: NRs. 30,500 reference. Source: https://gadgethousenepal.com/product/asrock-z790-pro-rs-d4-motherboardprice-in-nepal/
+- GIGABYTE B650M Gaming Plus WiFi Motherboard: NRs. 25,500 reference. Source: https://gadgethousenepal.com/product/gigabyte-b650m-gaming-plus-wifi-motherboardprice-in-nepal/
+- ASUS B760M-AYW WiFi Motherboard: NRs. 23,499 reference. Source: https://gadgethousenepal.com/product/asus-b760m-ayw-wifi-motherboardprice-in-nepal/
+- ASUS Prime B650M-A DDR5 Micro-ATX Motherboard: NRs. 25,000 reference. Source: https://gadgethousenepal.com/product/asus-prime-b650m-a-ddr5-micro-atx-motherboardprice-in-nepal/
+- ASRock A620M-HDV/M.2+ Motherboard: NRs. 15,500 reference. Source: https://gadgethousenepal.com/product/asrock-a620m-hdv-m-2-motherboard-price-in-nepal/
+- MSI B550M PRO-VDH WiFi ProSeries Motherboard: NRs. 18,000 reference. Source: https://gadgethousenepal.com/product/msi-b550m-pro-vdh-wifi-proseries-motherboardprice-in-nepal/
+- ASUS Prime B450M-A II AMD AM4 Micro-ATX Motherboard: NRs. 16,500 reference. Source: https://gadgethousenepal.com/product/asus-prime-b450m-a-ii-amd-am4-micro-atx-motherboardprice-in-nepal/
+- ASRock H610M-HDV/M.2+ D5 LGA 1700 Micro-ATX DDR5 Motherboard: NRs. 13,199 reference. Source: https://gadgethousenepal.com/product/asrock-h610m-hdv-m-2-d5-lga-1700-micro-atx-ddr5-motherboardprice-in-nepal/
+- ASUS Prime H610M-E D4 Motherboard: NRs. 13,999 reference. Source: https://gadgethousenepal.com/product/asus-prime-h610m-e-d4-motherboardprice-in-nepal/
+- MSI A520M-A PRO Gaming Motherboard: NRs. 9,499 reference. Source: https://gadgethousenepal.com/product/msi-a520m-a-pro-gaming-motherboardprice-in-nepal/
+- Gigabyte B450m DS3H Motherboard for Ryzen AM4 CPU and APU: NRs. 11,499 reference. Source: https://gadgethousenepal.com/product/gigabyte-b450m-ds3h-motherboard-for-ryzen-am4-cpu-and-apu/
+- MSI B550 Gaming GEN3 Motherboard Gaming (AMD AM4, DDR4, PCIe 3.0, SATA 6Gb/s, M.2, USB 3.2 Gen 1, HDMI, ATX, AMD Ryzen 5000/4000 Series Processors): NRs. 22,000 reference. Source: https://gadgethousenepal.com/product/msi-b550-gaming-gen3-motherboard-gaming-amd-am4-ddr4-pcie-3-0-sata-6gb-s-m-2-usb-3-2-gen-1-hdmi-atx-amd-ryzen-5000-4000-series-processors/
+- MSI B550M PRO-VDH WIFI Motherboard: NRs. 21,000 reference. Source: https://gadgethousenepal.com/product/msi-b550m-pro-vdh-wifi-motherboard/
+- MSI PRO Z690-A WiFi ProSeries Motherboard: NRs. 35,000 reference. Source: https://gadgethousenepal.com/product/msi-pro-z690-a-wifi-proseries-motherboard/
+- MSI X470 GAMING PLUS Max Motherboard: NRs. 19,300 reference. Source: https://gadgethousenepal.com/product/msi-x470-gaming-plus-max-motherboard/
+- MSI MAG B660M Mortar WiFi 6E DDR4 Gaming Motherboard: NRs. 29,499 reference. Source: https://gadgethousenepal.com/product/msi-mag-b660m-mortar-wifi-6e-ddr4-gaming-motherboard/
+- ASUS TUF Gaming B550M-PLUS WiFi 6 AMD micro ATX Motherboard PCIe 4.0: NRs. 27,999 reference. Source: https://gadgethousenepal.com/product/asus-tuf-gaming-b550m-plus-wifi-6-amd-micro-atx-motherboard-pcie-4-0/
+- Asrock B365M Motherboard: NRs. 16,800 reference. Source: https://gadgethousenepal.com/product/asrock-b365m-motherboard/
+- ASRock B450M PRO 4 MicroATX Motherboard: NRs. 15,800 reference. Source: https://gadgethousenepal.com/product/asrock-b450m-pro-4-microatx-motherboard/
+- ASRock B450 Steel Legend AMD Ryzen ATX Motherboard: NRs. 18,800 reference. Source: https://gadgethousenepal.com/product/asrock-b450-steel-legend-amd-ryzen-atx-motherboard/
+- ASRock B365M PRO 4 ATX Motherboard: NRs. 14,800 reference. Source: https://gadgethousenepal.com/product/asrock-b365m-pro-4-atx-motherboard/
+- ASRock Z390 Pro4 Intel Z390 ATX Intel Motherboard: NRs. 18,800 reference. Source: https://gadgethousenepal.com/product/asrock-z390-pro4-intel-z390-atx-intel-motherboard/
+- ASRock Z390 Phantom Gaming ATX Intel Motherboard: NRs. 22,800 reference. Source: https://gadgethousenepal.com/product/asrock-z390-phantom-gaming-atx-intel-motherboard/
+- ASRock B450M-HDV R4.0 Micro ATX AMD Motherboard: NRs. 11,800 reference. Source: https://gadgethousenepal.com/product/asrock-b450m-hdv-r4-0-micro-atx-amd-motherboard/
+- ASRock B450M Steel Legend Micro ATX Motherboard: NRs. 17,800 reference. Source: https://gadgethousenepal.com/product/asrock-b450m-steel-legend-micro-atx-motherboard/
+- ASUS ROG Strix B450-F Gaming AMD B450 AM4 ATX Gaming Motherboard: NRs. 27,400 reference. Source: https://gadgethousenepal.com/product/asus-rog-strix-b450-f-gaming-amd-b450-am4-atx-gaming-motherboard/
+- Asus Prime X570-Pro PCIe Gen4, USB 3.2 Gen 2 ATX Motherboard: NRs. 32,800 reference. Source: https://gadgethousenepal.com/product/asus-prime-x570-pro-pcie-gen4-usb-3-2-gen-2-atx-motherboard/
+- ASUS Prime B550M-A (Wi-Fi) AMD Ryzen Micro ATX Motherboard PCIe 4.0: NRs. 26,800 reference. Source: https://gadgethousenepal.com/product/asus-prime-b550m-a-wi-fi-amd-ryzen-micro-atx-motherboard-pcie-4-0/
+- ASUS Prime B550M-A AMD Ryzen micro ATX Motherboard PCIe 4.0: NRs. 24,800 reference. Source: https://gadgethousenepal.com/product/asus-prime-b550m-a-amd-ryzen-micro-atx-motherboard-pcie-4-0/
+- ASUS Prime B550-PLUS AMD Ryzen ATX Motherboard PCIe 4.0 Gen: NRs. 26,800 reference. Source: https://gadgethousenepal.com/product/asus-prime-b550-plus-amd-ryzen-atx-motherboard-pcie-4-0-gen-2/
+- ASRock Z490 Steel ATX Intel 10th Gen Motherboard: NRs. 31,800 reference. Source: https://gadgethousenepal.com/product/asrock-z490-steel-atx-intel-10th-gen-motherboard/
+- ASRock Z390 Steel Legend ATX Intel 8/9th gen Gen Motherboard: NRs. 23,800 reference. Source: https://gadgethousenepal.com/product/asrock-z390-steel-legend-atx-intel-8-9th-gen-gen-motherboard/
+- ASUS TUF Gaming Z490-Plus Intel 10th Gen ATX Motherboard: NRs. 34,800 reference. Source: https://gadgethousenepal.com/product/asus-tuf-gaming-z490-plus-intel-10th-gen-atx-motherboard/
+- Asus TUF Gaming X570-Plus (Wi-Fi) ATX Motherboard: NRs. 36,800 reference. Source: https://gadgethousenepal.com/product/asus-tuf-gaming-x570-plus-wi-fi-atx-motherboard/
+- ASUS TUF Gaming H470-PRO WiFi 6 intel 10th Gen ATX Motherboard: NRs. 30,800 reference. Source: https://gadgethousenepal.com/product/asus-tuf-gaming-h470-pro-wifi-6-intel-10th-gen-atx-motherboard/
+- ASUS TUF Gaming B550-PLUS AMD Ryzen ATX Motherboard PCIe 4.0: NRs. 29,800 reference. Source: https://gadgethousenepal.com/product/asus-tuf-gaming-b550-plus-amd-ryzen-atx-motherboard-pcie-4-0/
+- ASUS TUF B450-PLUS Gaming AMD Ryzen ATX Gaming Motherboard: NRs. 19,800 reference. Source: https://gadgethousenepal.com/product/asus-tuf-b450-plus-gaming-amd-ryzen-atx-gaming-motherboard/
+- Asus Rog Strix Z390-H Gaming Motherboard: NRs. 27,800 reference. Source: https://gadgethousenepal.com/product/asus-rog-strix-z390-h-gaming-motherboard/
+- Asus ROG Strix X570-F Gaming ATX Motherboard: NRs. 44,800 reference. Source: https://gadgethousenepal.com/product/asus-rog-strix-x570-f-gaming-atx-motherboard/
+- ASUS ROG Strix X299-E Gaming II ATX Gaming Motherboard LGA 2066, Wi-Fi 6 8X DIMM: NRs. 46,800 reference. Source: https://gadgethousenepal.com/product/asus-rog-strix-x299-e-gaming-ii-atx-gaming-motherboard-lga-2066-wi-fi-6-8x-dimm/
+- ASUS ROG Strix B550-F Gaming AMD ATX Gaming Motherboard, PCIe 4.0: NRs. 38,800 reference. Source: https://gadgethousenepal.com/product/asus-rog-strix-b550-f-gaming-amd-atx-gaming-motherboard-pcie-4-0/
+- ASUS TUF Gaming Z490-Plus Intel 10th Gen ATX Motherboard WiFi: NRs. 36,800 reference. Source: https://gadgethousenepal.com/product/asus-tuf-gaming-z490-plus-intel-10th-gen-atx-motherboard-wifi/
+- COLORFUL X570 GAMING PRO V14 ATX Motherboard Type C Connector Internal: NRs. 29,800 reference. Source: https://gadgethousenepal.com/product/colorful-x570-gaming-pro-v14-atx-motherboard-type-c-connector-internal/
+- Colorful CVN B550M GAMING FROZEN V14 Motherboard OC Support AMD Ryzen: NRs. 20,800 reference. Source: https://gadgethousenepal.com/product/colorful-cvn-b550m-gaming-frozen-v14-motherboard-oc-support-amd-ryzen/
+- Colorful CVN B450M GAMING V14 AMD Motherboard: NRs. 16,800 reference. Source: https://gadgethousenepal.com/product/colorful-cvn-b450m-gaming-v14-amd-motherboard/
+- COLORFUL BATTLE-AX Z390AK GAMING V20 Motherboard: NRs. 17,800 reference. Source: https://gadgethousenepal.com/product/colorful-battle-ax-z390ak-gaming-v20-motherboard/
+- MSI B450 TOMAHAWK MAX AMD ATX AMD Motherboard: NRs. 18,000 reference. Source: https://gadgethousenepal.com/product/msi-b450-tomahawk-max-amd-atx-amd-motherboard/
+- GIGABYTE Z490 VISION G Intel 10th Gen Z490 ATX Motherboard SLI Support: NRs. 36,800 reference. Source: https://gadgethousenepal.com/product/gigabyte-z490-vision-g-intel-10th-gen-z490-atx-motherboard-sli-support/
+- GIGABYTE Z390 DESIGNARE Thunderbolt 3 Wifi Motherboard: NRs. 42,800 reference. Source: https://gadgethousenepal.com/product/gigabyte-z390-designare-thunderbolt-3-wifi-motherboard/
+- GIGABYTE X399 Designare EX AMD Ryzen Thread Ripper TR4 WIFI Motherboard: NRs. 68,800 reference. Source: https://gadgethousenepal.com/product/gigabyte-x399-designare-ex-amd-ryzen-thread-ripper-tr4-wifi-motherboard/
+- Gigabyte Ultra Durable Z490 GAMING X 10th gen ATX Motherboard: NRs. 32,800 reference. Source: https://gadgethousenepal.com/product/gigabyte-ultra-durable-z490-gaming-x-10th-gen-atx-motherboard/
+- GIGABYTE B550 Gaming X Motherboard: NRs. 24,800 reference. Source: https://gadgethousenepal.com/product/gigabyte-b550-gaming-x-motherboard/
+- ASUS Prime B550-PLUS AMD Ryzen ATX Motherboard PCIe 4.0 Gen: NRs. 26,800 reference. Source: https://gadgethousenepal.com/product/asus-prime-b550-plus-amd-ryzen-atx-motherboard-pcie-4-0-gen/
+- MSI MAG B550 TOMAHAWK ATX AMD Motherboard: NRs. 28,800 reference. Source: https://gadgethousenepal.com/product/msi-mag-b550-tomahawk-atx-amd-motherboard/
+- MSI AMD Motherboard MPG X570 Gaming Plus: NRs. 29,000 reference. Source: https://gadgethousenepal.com/product/msi-amd-motherboard-mpg-x570-gaming-plus/
+- Esonic G41CPL Motherboard for Intel Core 2 DUO: NRs. 4,080 reference. Source: https://gadgethousenepal.com/product/esonic-g41cpl-motherboard-for-intel-core-2-duo/
+- Esonic H61 Motherboard For 2nd and 3rd Generation Intel Processor: NRs. 5,800 reference. Source: https://gadgethousenepal.com/product/esonic-h61-motherboard-for-2nd-and-3rd-generation-intel-processor/
+- MSI Motherboard H110M Pro VD Plus For intel 6th Generation Processor: NRs. 7,499 reference. Source: https://gadgethousenepal.com/product/msi-motherboard-h110m-pro-vd-plus-for-intel-6th-generation-processor/
+- MSI B365M Pro-VDH Motherboard: NRs. 13,500 reference. Source: https://gadgethousenepal.com/product/msi-b365m-pro-vdh-motherboard-for-8th-and-9th-generation-intel-processor/
+- Esonic H81 JEL Motherboard for 4th Gen Intel Processor Intel Socket 1150: NRs. 6,600 reference. Source: https://gadgethousenepal.com/product/esonic-h81-jel-motherboard-for-4th-gen-intel-processor-intel-socket-1150/
+- Msi Z490 Gaming Plus 10th Gen Motherboard: NRs. 26,500 reference. Source: https://gadgethousenepal.com/product/msi-z490-gaming-plus-10th-gen-motherboard/
+- ASUS Z390 ATX gaming motherboard with OptiMem II: NRs. 37,000 reference. Source: https://gadgethousenepal.com/product/asus-z390-atx-gaming-motherboard-with-optimem-ii/
+- ASRock Intel Z690M Phantom Gaming 4 mATX Motherboard: NRs. 32,999 reference. Source: https://gadgethousenepal.com/product/asrock-intel-z690m-phantom-gaming-4-matx-motherboard/
+- ASUS Tuf B365m plus Gaming motherboard: NRs. 20,000 reference. Source: https://gadgethousenepal.com/product/asus-tuf-b365m-plus-gaming-motherboard/
+- GIGABYTE GA-A320M-S2H Micro ATX AMD Motherboard: NRs. 12,000 reference. Source: https://gadgethousenepal.com/product/gigabyte-ga-a320m-s2h-micro-atx-amd-motherboard/
+- Esonic G41 CPL Motherboard: NRs. 3,600 reference. Source: https://gadgethousenepal.com/product/esonic-g41-cpl-motherboard/
+- PC Build With Ryzen 7 7700X RTX 3060 Ti ASRock X670E. RAM 32GB DDR5 5200Mhz: NRs. 2,89,000 reference. Source: https://gadgethousenepal.com/product/pc-build-with-ryzen-7-7700x/
+- Desktop Computer Set i7-11th Gen | MSI B560m Motherboard | 16 GB RAM 3600 MHz | 512 GB M.2 NVME SSD | 1 TB HDD | RTX 3060ti: NRs. 1,64,000 reference. Source: https://gadgethousenepal.com/product/desktop-computer-set-i7-11th-gen-msi-b560m-motherboard/
+- Desktop Computer Set Ryzen 5 5600X | 16 GB | 256 GB | 1 TB | GTX 1650 | 24″ G24F Gaming Monitor: NRs. 1,49,999 reference. Source: https://gadgethousenepal.com/product/desktop-computer-set-ryzen-5-5600x/
+- i7 13th Gen RTX 3060 PC Build: NRs. 1,80,000 reference. Source: https://gadgethousenepal.com/product/i7-13th-gen-rtx-3060-pc-build/
+- AMD Ryzen 5 5600G Gaming PC with Koorui 165Hz Monitor: NRs. 4,55,000 reference. Source: https://gadgethousenepal.com/product/i9-13th-gen-rtx-3060-pc-build-high-performance-gaming-editing/
+- Desktop PC Build Computer Set | Intel I3 4th Gen | 19″ LED Monitor | 4 GB RAM | 256 GB SSD: NRs. 38,800 reference. Source: https://gadgethousenepal.com/product/desktop-pc-build-computer-set-intel-i3-4th-gen-19%e2%80%b3-led-monitor-4-gb-ram-256-gb-ssd/
+- Desktop PC Computer Set Intel I3 10th Gen With 19″ LED Monitor, Mouse, Keyboard: NRs. 54,500 reference. Source: https://gadgethousenepal.com/product/desktop-pc-computer-set-intel-i3-10th-gen-with-19%e2%80%b3-led-monitor-mouse-keyboard/
+- Assembled Desktop PC Set With 15″ Monitor: NRs. 22,500 reference. Source: https://gadgethousenepal.com/product/assembled-desktop-pc-set-with-15%e2%80%b3-monitor/
+- Desktop PC Computer Set Intel I5 3rd Gen With Monitor | 19″ LED Monitor | 4 GB RAM | 256 GB SSD: NRs. 30,500 reference. Source: https://gadgethousenepal.com/product/desktop-pc-computer-set-intel-i5-3rd-gen-19%e2%80%b3-led-monitor/
+- Intel i7-13700K Gaming PC Build with GTX 1660 SUPER: NRs. 1,68,300 reference. Source: https://gadgethousenepal.com/product/i7-13-gen-pc-build/
+- Budget Gaming PC Build With AMD Ryzen 5 5600G: NRs. 49,999 reference. Source: https://gadgethousenepal.com/product/budget-gaming-pc-build-with-amd-ryzen-5-5600g/
+- PC Build AMD ryzen 5 3600 GTX 1650 4GB OC Graphics: NRs. 1,29,000 reference. Source: https://gadgethousenepal.com/product/amd-ryzen-5-3600-pc-build-nepal/
+- Pc Build With AMD Ryzen Threadripper 3970X NVIDIA Quadro K5000 8GB: NRs. 6,40,500 reference. Source: https://gadgethousenepal.com/product/pc-build-with-amd-ryzen-threadripper-3970x-nvidia-quadro-k5000-8gb/
+- Intel core i9-12900K 12 Gen RTX 3080 , RTX 3080 10 GB CORSAIR 4000D WHITE CASING: NRs. 3,40,000 reference. Source: https://gadgethousenepal.com/product/intel-core-i9-12900k-12-gen-rtx-3080-rtx-3080-10-gb-corsair-4000d-white-casing/
+- RYZEN 5 5600X GTX 1660 Super PC Build: NRs. 1,25,000 reference. Source: https://gadgethousenepal.com/product/ryzen-5-5600x-gtx-1660-super/
+- Ryzen 5 5600X RTX 3060 PC Build: NRs. 1,41,500 reference. Source: https://gadgethousenepal.com/product/ryzen-5-5600x-rtx-3060-pc-build/
+- Pc Build With I5 13 Gen Processor And Rtx 3060: NRs. 2,25,000 reference. Source: https://gadgethousenepal.com/product/pc-build-with-i5-13900k-processor-13-gen-and-rtx-3060/
+- Pc Build With i5 13 Gen Processor And RTX 3050: NRs. 2,25,000 reference. Source: https://gadgethousenepal.com/product/pc-build-with-i5-13-gen-processor-and-rtx-3050/
+- MSI Gaming GeForce RTX 4090 24GB INTEL CORE I7-13700k. Designed for Professional Gamers: NRs. 5,12,500 reference. Source: https://gadgethousenepal.com/product/msi-gaming-geforce-rtx-4090-24gb-intel-core-i7-13700k-designed-for-professional-gamers/
+- INTEL CORE I9-13900k MSI RTX 4090 24GB PC Build in Nepal For Gamers And Content Creators: NRs. 5,91,550 reference. Source: https://gadgethousenepal.com/product/intel-core-i9-13900k-msi-rtx-4090-24gb-pc-build-in-nepal-for-gamers-and-content-creators/
+- MSI RTX 4080 16 GB VENTUS 3X INTEL CORE I7-13700k. Designed for Rendering PC Build In Nepal: NRs. 4,35,000 reference. Source: https://gadgethousenepal.com/product/msi-rtx-4080-16-gb-ventus-3x-intel-core-i7-13700k-designed-for-rendering-pc-build-in-nepal/
+- INTEL CORE I9-13900k RTX 3080 16 GB GAMING X TRIO PC BUILD IN NEPAL: NRs. 3,90,000 reference. Source: https://gadgethousenepal.com/product/pc-build-with-rtx-3080-i9-13-gen/
+- Beelink T4 Pro Mini PC Windows 10 Desktop Computer, 4K Smart TV Box 4GB Ram 64GB Rom WiFi Bluetooth: NRs. 17,800 reference. Source: https://gadgethousenepal.com/product/beelink-t4-pro-mini-pc-windows-10-desktop-computer-4k-smart-tv-box-4gb-ram-64gb-rom-wifi-bluetooth/
+- Insta360 Mic Pro Wireless Microphone | 32-Bit Float Recording E-Ink Display: NRs. 35,499 reference. Source: https://gadgethousenepal.com/product/insta360-mic-pro-wireless-microphone/
+- DJI Mic Mini 2 Wireless Microphone: NRs. 11,499 reference. Source: https://gadgethousenepal.com/product/dji-mic-mini-2-wireless-microphone/
+- W-KING KS06 20W Wireless Voice Amplifier with UHF Microphone: NRs. 6,999 reference. Source: https://gadgethousenepal.com/product/w-king-ks06-20w-wireless-voice-amplifier-with-uhf-microphone/
+- W-KING KS06 8W Rechargeable Wireless Voice Amplifier with Teacher's Microphone: NRs. 4,799 reference. Source: https://gadgethousenepal.com/product/w-king-ks06-8w-rechargeable-wireless-voice-amplifier-with-teachers-microphone/
+- W-KING KS10+ Wireless Teacher’s Microphone Voice Amplifier: NRs. 4,199 reference. Source: https://gadgethousenepal.com/product/w-king-ks10-wireless-teachers-microphone-voice-amplifier/
+- MAONO PD100XS USB/XLR Dynamic Gaming Microphone with Boom Arm: NRs. 12,499 reference. Source: https://gadgethousenepal.com/product/maono-pd100xs-usb-xlr-dynamic-gaming-microphone-with-boom-arm/
+- MAONO PD200X Price USB XLR microphone: NRs. 14,999 reference. Source: https://gadgethousenepal.com/product/maono-pd200x-price-usb-xlr-microphone/
+- FIFINE AmpliGame A8 Plus USB Condenser Microphone: NRs. 11,999 reference. Source: https://gadgethousenepal.com/product/fifine-ampligame-a8-plus-usb-condenser-microphone/
+- ACEFAST R3 Wireless Magnetic Lavalier Microphone – Professional Wireless Mic for Creators: NRs. 6,999 reference. Source: https://gadgethousenepal.com/product/acefast-r3-wireless-magnetic-lavalier-microphone/
+- Hollyland LARK A1 Wireless Microphone for iPhone Android: NRs. 6,500 reference. Source: https://gadgethousenepal.com/product/hollyland-lark-a1-wireless-microphone-for-iphone-android/
+- BOYA wireless microphone Set BY-V2 / BY-V20 (Type-C / iOS): NRs. 5,499 reference. Source: https://gadgethousenepal.com/product/boya-wireless-microphone-set-by-v2-by-v20/
+- FIFINE Tank6 USB/XLR Dynamic Studio Microphone: NRs. 15,499 reference. Source: https://gadgethousenepal.com/product/fifine-tank6-usb-xlr-dynamic-studio-microphone/
+- FIFINE Profile3 USB Condenser Microphone: NRs. 10,499 reference. Source: https://gadgethousenepal.com/product/fifine-profile3-usb-condenser-microphone/
+- FIFINE AmpliTank Ampli3 Sound Card: The Ultimate Audio Solution for Creators: NRs. 13,799 reference. Source: https://gadgethousenepal.com/product/fifine-amplitank-ampli3-sound-card-the-ultimate-audio-solution-for-creators/
+- FIFINE AmpliTank Tank3 USB/XLR Dynamic Microphone: NRs. 9,999 reference. Source: https://gadgethousenepal.com/product/fifine-amplitank-tank3-usb-xlr-dynamic-microphone/
+- PeopleLink Pro Audio DSP: NRs. 3,63,999 reference. Source: https://gadgethousenepal.com/product/peoplelink-pro-audio-dsp/
+- PeopleLink CM Alpha Mic : Ideal for Classrooms and Large Conference Rooms: NRs. 87,999 reference. Source: https://gadgethousenepal.com/product/peoplelink-cm-alpha-mic-for-conference-rooms-buy-in-nepal/
+- FIFINE SC3 Gaming Audio Mixer 48V Phantom Power: NRs. 6,999 reference. Source: https://gadgethousenepal.com/product/fifine-sc3-gaming-audio-mixer-48v-phantom-power/
+- FIFINE M6 Wireless Lavalier Lapel Microphone System for Phones/Tablets, 2.4GHz Cordless Condenser Omnidirectional Clip-on Mic, USB C Receiver, for Video, Interview, Vlog, YouTube, Recording-M6: NRs. 4,499 reference. Source: https://gadgethousenepal.com/product/fifine-m6-wireless-lavalier-lapel-microphone-system-for-phones-tablets-2-4ghz-cordless-condenser-omnidirectional-clip-on-mic-usb-c-receiver-for-video-interview-vlog-youtube-recording-m6/
+- FIFINE BM88 Microphone Arm Stand: NRs. 7,199 reference. Source: https://gadgethousenepal.com/product/fifine-bm88-microphone-arm-stand/
+- FIFINE A6T White Streaming Gaming USB Microphone White: NRs. 7,499 reference. Source: https://gadgethousenepal.com/product/fifine-a6t-white-streaming-gaming-usb-microphone/
+- FIFINE K688 Dynamic Microphone, XLR/USB Podcast Recording PC: NRs. 9,999 reference. Source: https://gadgethousenepal.com/product/fifine-k688-dynamic-microphone-xlr-usb-podcast-recording-pc/
+- W-KING KS05+ WIRELESS TEACHING SPEAKER MICROPHONE: NRs. 6,499 reference. Source: https://gadgethousenepal.com/product/w-king-ks05-wireless-teaching-speaker-microphone/
+- Fifine K720 USB Type-C Cardioid Condenser Microphone: NRs. 7,499 reference. Source: https://gadgethousenepal.com/product/fifine-k720-usb-type-c-cardioid-condenser-microphone/
+- FIFINE K651 USB DYNAMIC MICROPHONE BUNDLE WITH A RGB SHOCK MOUNT TOUCH-SENSITIVE MUTE BUTTON: NRs. 6,999 reference. Source: https://gadgethousenepal.com/product/fifine-k651-usb-dynamic-microphone/
+- FIFINE A16 External E-Sport Speaker for Streaming \ Bluetooth: NRs. 5,499 reference. Source: https://gadgethousenepal.com/product/fifine-a16-speaker-price-in-nepal/
+- FIFINE T669 Condenser USB Microphone Kit with Adjustable Arm Stand Shock Mount for PC and MAC: NRs. 7,999 reference. Source: https://gadgethousenepal.com/product/fifine-t669-condenser-usb-microphone-price-in-nepal/
+- FIFINE AM8 RGB USB/XLR DYNAMIC MIC WITH TOUCH-MUTE BUTTON, I/O CONTROLS: NRs. 9,999 reference. Source: https://gadgethousenepal.com/product/fifine-am8-rgb-usb-xlr-dynamic-mic/
+- WIRELESS LAVALIER MICROPHONES CLIP-ON: NRs. 2,999 reference. Source: https://gadgethousenepal.com/product/wireless-lavalier-microphones-clip-on/
+- KS01 W-KING MICROPHONE FOR TEACHER WITH BLUETOOTH SPEAKER SET: NRs. 2,799 reference. Source: https://gadgethousenepal.com/product/ks01-w-king-microphone-for-teacher-with-bluetooth-speaker-set/
+- RAPOO CM500 Omnidirectional Conference Microphone: NRs. 36,250 reference. Source: https://gadgethousenepal.com/product/rapoo-cm500-omnidirectional-conference-microphone/
+- Microphone BK5 wireless karaoke mic: NRs. 2,300 reference. Source: https://gadgethousenepal.com/product/microphone-bk5-wireless-karaoke-mic/
+- Fantech MCX02 Leviosa Gaming Microphone: NRs. 5,999 reference. Source: https://gadgethousenepal.com/product/fantech-mcx02-leviosa-gaming-microphone/
+- FANTECH LEVIOSA MCX01 GAMING MICROPHONE: NRs. 5,199 reference. Source: https://gadgethousenepal.com/product/fantech-leviosa-mcx01-gaming-microphone/
+- BOSE Professional Karaoke Microphone UHF Dual Channel Handheld, 200ft Range Receiver and 2 Handheld Mic Set: NRs. 4,200 reference. Source: https://gadgethousenepal.com/product/bose-professional-karaoke-microphone-uhf-dual-channel-handheld-microphone-200ft-range-receiver-and-2-handheld-mic-set/
+- BOYA BY-PM700 USB Computer Microphone for Vlog Conference Live, Condenser Microphone,Recording, Interview, Vlog, Game, Podcast: NRs. 16,500 reference. Source: https://gadgethousenepal.com/product/boya-by-pm700-usb-computer-microphone-for-vlog-conference-live-condenser-microphonerecording-interview-vlog-game-podcast/
+- BOYA BY-VM600 Cardioid Microphone 3.5mm For Interview: NRs. 4,999 reference. Source: https://gadgethousenepal.com/product/boya-by-vm600-cardioid-microphone-3-5mm-for-interview/
+- BOYA by-XM6 2.4GHz Dual Wireless Lavalier Microphone System Camera Phone Video Recording: NRs. 14,999 reference. Source: https://gadgethousenepal.com/product/boya-by-xm6-2-4ghz-dual-wireless-lavalier-microphone-system-camera-phone-video-recording/
+- BOYA BY-M110 3.5mm TRRS Miniature Microphone: NRs. 2,499 reference. Source: https://gadgethousenepal.com/product/boya-by-m110-3-5mm-trrs-miniature-microphone/
+- BOYA BY-M1DM Dual Condenser Microphone Genuine: NRs. 2,900 reference. Source: https://gadgethousenepal.com/product/boya-by-m1dm-dual-condenser-microphone-genuine/
+- BOYA BY-V01 Shotgun Stereo Condenser Microphone: NRs. 3,200 reference. Source: https://gadgethousenepal.com/product/boya-by-v01-shotgun-stereo-condenser-microphone/
+- BOYA BY-M1 Pro Microphone: NRs. 3,500 reference. Source: https://gadgethousenepal.com/product/boya-by-m1-pro-microphone/
+- BOYA BY-BM3011 Camera Microphone: NRs. 4,200 reference. Source: https://gadgethousenepal.com/product/boya-by-bm3011-camera-microphone/
+- BOYA BY-WFM12 Wireless VHF Condenser Microphone: NRs. 11,500 reference. Source: https://gadgethousenepal.com/product/boya-by-wfm12-wireless-vhf-condenser-microphone/
+- BOYA BY-WM4 Pro Wireless Studio Interview Microphone: NRs. 12,000 reference. Source: https://gadgethousenepal.com/product/boya-by-wm4-pro-wireless-studio-interview-microphone/
+- Boya by-WM4 Pro K2 2.4G Wireless Microphone System: NRs. 18,500 reference. Source: https://gadgethousenepal.com/product/boya-by-wm4-pro-k2-2-4g-wireless-microphone-system/
+- Fifine A6T Microphone – Black: NRs. 7,499 reference. Source: https://gadgethousenepal.com/product/fifine-a6t-microphone/
+- W-KING KS12 Microphone Speaker: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/w-king-ks12-microphone-speaker/
+- HyperX Quadcast gaming microphone: NRs. 14,999 reference. Source: https://gadgethousenepal.com/product/hyperx-quadcast-gaming-microphone/
+- Redragon Seyfert GM100 Stream Microphone: NRs. 4,499 reference. Source: https://gadgethousenepal.com/product/redragon-seyfert-gm100-stream-microphone/
+- Redragon GM200 Gaming Stream Microphone: NRs. 4,449 reference. Source: https://gadgethousenepal.com/product/redragon-gm200-gaming-stream-microphone/
+- BM 800 Microphone: NRs. 1,999 reference. Source: https://gadgethousenepal.com/product/bm-800-microphone/
+- Boya MM1 High Copy Microphone: NRs. 1,800 reference. Source: https://gadgethousenepal.com/product/boya-mm1-high-copy-microphone/
+- Boya M1DM High Copy Dual Microphone: NRs. 1,600 reference. Source: https://gadgethousenepal.com/product/boya-m1dm-high-copy-dual-microphone/
+- Boya BYM1 100% genuine Black: NRs. 1,650 reference. Source: https://gadgethousenepal.com/product/boya-bym1/
+- Boya By M1 Omnidirectional Lavalier Microphone (Copy): NRs. 950 reference. Source: https://gadgethousenepal.com/product/boya-by-m1-microphone-copy/
+- Redragon GM300 Microphone: NRs. 5,500 reference. Source: https://gadgethousenepal.com/product/redragon-gm300-gaming-stream-microphone/
+- Fantech Shooter III X WGP13X Wireless Gaming Controller: NRs. 6,499 reference. Source: https://gadgethousenepal.com/product/fantech-shooter-iii-x-wgp13x-wireless-gaming-controller/
+- Fantech EOS PRO II S WGP15V2S Wireless Gaming Controller: NRs. 5,999 reference. Source: https://gadgethousenepal.com/product/fantech-eos-pro-ii-s-wgp15v2s-wireless-gaming-controller/
+- Fantech NOVA II D Wireless Gaming Controller (WGP16D): NRs. 8,999 reference. Source: https://gadgethousenepal.com/product/fantech-nova-ii-d-wireless-gaming-controller-wgp16d/
+- GameSir Tegenaria Lite Wired Controller: NRs. 2,599 reference. Source: https://gadgethousenepal.com/product/gamesir-tegenaria-lite-wired-controller/
+- Fantech WGP12S Revolver III Wireless Controller – Hall Effect, 1000Hz 12 Macro Buttons: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/fantech-wgp12s-revolver-iii-wireless-controller-hall-effect-1000hz-12-macro-buttons/
+- Fantech WGP13S Multi-Platform Wireless Gamepad – Hall Effect Joystick Trigger, 1000Hz Polling: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/fantech-wgp13s-multi-platform-wireless-gamepad-hall-effect-joystick-trigger-1000hz-polling/
+- Flydigi Vader 5 Pro Premium Controller for PC – Hall Effect: NRs. 13,999 reference. Source: https://gadgethousenepal.com/product/flydigi-vader-5-pro-premium-controller-for-pc-hall-effect/
+- WGP15 V2S EOS PRO II S Gamepad – Tri-Mode Wireless Multi-Platform Gaming Controller: NRs. 5,999 reference. Source: https://gadgethousenepal.com/product/wgp15-v2s-eos-pro-ii-s-gamepad-tri-mode-wireless-multi-platform-gaming-controller/
+- NOVA PRO WGP14V2 Clear Wireless/Wired Gaming Controller – Hall Effect Joysticks, RGB Lighting, Touchpad, Multi-Platform Compatible: NRs. 5,499 reference. Source: https://gadgethousenepal.com/product/nova-pro-wgp14v2-clear-wireless-wired-gaming-controller-hall-effect-joysticks-rgb-lighting-touchpad-multi-platform-compatible/
+- AJAZZ GP100 Tri-Mode Wireless Gaming Controller with Charging Dock: NRs. 5,499 reference. Source: https://gadgethousenepal.com/product/ajazz-gp100-tri-mode-wireless-gaming-controller/
+- Fantech WGP15 V2S EOS PRO II Multi-Platform Wireless Gamepad: NRs. 5,999 reference. Source: https://gadgethousenepal.com/product/fantech-wgp15-v2s-eos-pro-ii-multi-platform-wireless-gamepad/
+- DAREU H106 Wireless Gaming Controller with Charging Dock – Premium Quality Reliable Performance: NRs. 5,500 reference. Source: https://gadgethousenepal.com/product/dareu-h106-wireless-gaming-controller-with-charging-dock-premium-quality-reliable-performance/
+- DAREU H105 Tri-Mode Wireless Gamepad 360° Joystick Controller: NRs. 4,500 reference. Source: https://gadgethousenepal.com/product/dareu-h105-tri-mode-wireless-gamepad-360-joystick-controller/
+- DAREU H105 Mechanical Wireless Gaming Controller: NRs. 4,500 reference. Source: https://gadgethousenepal.com/product/dareu-h105-mechanical-wireless-gaming-controller/
+- DAREU H101Gamepad | 360° Joystick | Hall-Effect | 1000Hz | 155g Wired: NRs. 2,499 reference. Source: https://gadgethousenepal.com/product/dareu-h101-tri-mode-gamepad/
+- Dareu H100 Tri-Mode Hall Effect Controller | 1000Hz | 155g Lightweight Precision Gamepad: NRs. 2,999 reference. Source: https://gadgethousenepal.com/product/dareu-h100-tri-mode-hall-effect-controller/
+- GameSir Nova HD Rumble NS Wireless Controller: NRs. 6,499 reference. Source: https://gadgethousenepal.com/product/gamesir-nova-hd-rumble-ns-wireless-controller/
+- GAMESIR Spirit Fox Wired Controller: NRs. 3,499 reference. Source: https://gadgethousenepal.com/product/gamesir-spirit-fox-wired-controller/
+- Redragon G710 Wired Gaming Controller: NRs. 4,000 reference. Source: https://gadgethousenepal.com/product/redragon-g710-wired-gaming-controllerprice-in-nepal/
+- FLYDIGI APEX 4 Wireless PC Controller – Assassin’s Creed Limited Edition, 1000Hz Polling Rate: NRs. 17,499 reference. Source: https://gadgethousenepal.com/product/flydigi-apex-4-wireless-pc-controller-assassins-creed-limited-edition-1000hz-polling-rate/
+- FLYDIGI Vader 4 Pro Controller: NRs. 10,499 reference. Source: https://gadgethousenepal.com/product/flydigi-vader-4-pro-controller/
+- FLYDIGI Vader 4 Pro: NRs. 9,999 reference. Source: https://gadgethousenepal.com/product/flydigi-vader-4-pro/
+- FLYDIGI DuneFox Wireless Controller: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/flydigi-dunefox-wireless-controller/
+- FLYDIGI Direwolf 3 Wireless Controller – Hall Effect Precision: NRs. 6,999 reference. Source: https://gadgethousenepal.com/product/flydigi-direwolf-3-wireless-controller-hall-effect-precision/
+- PXN P5 Wireless Gaming Controller: NRs. 4,199 reference. Source: https://gadgethousenepal.com/product/pxn-p5-wireless-gaming-controller/
+- PXN 0082 Arcade Stick – Ultimate Fighting Game Controller: NRs. 6,499 reference. Source: https://gadgethousenepal.com/product/pxn-0082-arcade-stick/
+- MX3 Backlit Wireless Remote: NRs. 1,099 reference. Source: https://gadgethousenepal.com/product/mx3-backlit-wireless-remote/
+- Fantech Nova Wgp14 Gamepad PC, PS3, PS4, Android, IOS, and MacOS: NRs. 5,599 reference. Source: https://gadgethousenepal.com/product/fantech-nova-wgp14-gamepad/
+- PlayStation 4 Controller DualShock 4 Wireless – Jet Black: NRs. 1,999 reference. Source: https://gadgethousenepal.com/product/playstation-4-controller-dualshock-4-wireless-jet-black/
+- FANTECH GP13 Gaming Controller Shooter II: NRs. 2,299 reference. Source: https://gadgethousenepal.com/product/fantech-gp13-gaming-controller/
+- RAPOO V600S WIRELESS CONTROLLER VIBRATION GAME JOYSTICK FOR PLAYSTATION: NRs. 5,950 reference. Source: https://gadgethousenepal.com/product/rapoo-v600s-wireless-controller-vibration-game-joystick-for-playstation/
+- Rapoo V600 Controller Gamepad Vibration Shock: NRs. 3,950 reference. Source: https://gadgethousenepal.com/product/rapoo-v600-controller-gamepad-vibration-shock/
+- Fantech SHOOTER II WGP13 Joystick – controller, Wireless For Windows PC – PS3: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/fantech-shooter-ii-wgp13-joystick-controller-wireless-for-windows-pc-ps3/
+- Gen Game X3 Wireless Controller: NRs. 1,899 reference. Source: https://gadgethousenepal.com/product/gen-game-x3-wireless-controller/
+- S3 Wireless Controller Gen Game: NRs. 1,999 reference. Source: https://gadgethousenepal.com/product/s3-wireless-controller-gen-game/
+- CONTROLLER FOR XBOX 360 WIRED: NRs. 1,899 reference. Source: https://gadgethousenepal.com/product/controller-for-xbox-360-wired/
+- Redragon G812 Gaming Controller Bluetooth: NRs. 5,500 reference. Source: https://gadgethousenepal.com/product/redragon-g812-gaming-controller-bluetooth/
+- Fantech WGP12 wireless controller Gaming: NRs. 3,499 reference. Source: https://gadgethousenepal.com/product/fantech-wgp12-wireless-controller-gaming/
+- Fantech GP12 Gaming Controller For PC: NRs. 2,499 reference. Source: https://gadgethousenepal.com/product/fantech-gp12-gaming-controller-for-pc/
+- UGREEN 20000mAh 30W Fast Charging Power Bank: NRs. 5,999 reference. Source: https://gadgethousenepal.com/product/ugreen-20000mah-30w-fast-charging-power-bank/
+- UGREEN Nexode Power Bank 20000mAh 130W with Built-in USB-C Cable: NRs. 12,499 reference. Source: https://gadgethousenepal.com/product/ugreen-nexode-power-bank-20000mah-130w-with-built-in-usb-c-cable/
+- Hoco J100 Power Bank 10000mAh: NRs. 1,799 reference. Source: https://gadgethousenepal.com/product/hoco-j100-power-bank-10000mah/
+- HOCO J101 10000mAh Power Bank 22.5W Fast Charge: NRs. 1,899 reference. Source: https://gadgethousenepal.com/product/hoco-j101-10000mah-power-bank-22-5w-fast-charge/
+- Promate PowerPod-20 20000mAh 35W Power Bank with Built-In USB-C Lightning Cables: NRs. 6,999 reference. Source: https://gadgethousenepal.com/product/promate-powerpod-20-20000mah-35w-power-bank-with-built-in-usb-c-lightning-cables/
+- Promate PowerUp-C 5000mAh Power Bank with Built-In USB-C Connector: NRs. 2,999 reference. Source: https://gadgethousenepal.com/product/promate-powerup-c-5000mah-power-bank-with-built-in-usb-c-connector/
+- UGREEN Nexode 25000mAh 200W Power Bank with PD 3.1 Fast Charging: NRs. 16,999 reference. Source: https://gadgethousenepal.com/product/ugreen-nexode-25000mah-200w-power-bank-with-pd-3-1-fast-charging/
+- UGREEN Nexode 20000mAh 145W Qi2 Power Bank with MagSafe Wireless Charging: NRs. 21,999 reference. Source: https://gadgethousenepal.com/product/ugreen-nexode-20000mah-145w-qi2-power-bank-with-magsafe-wireless-charging/
+- UGREEN 25000mAh 145W Power Bank with PD 3.1 Fast Charging: NRs. 11,499 reference. Source: https://gadgethousenepal.com/product/ugreen-25000mah-145w-power-bank-with-pd-3-1-fast-charging/
+- ACEFAST M18 PD22.5W 10000mAh Power Bank with Wireless Charging Built-in Cable: NRs. 9,799 reference. Source: https://gadgethousenepal.com/product/acefast-m18-pd22-5w-10000mah-power-bank/
+- ACEFAST M4 20000mAh PD67W Power Bank – 67W Fast Charging: NRs. 7,999 reference. Source: https://gadgethousenepal.com/product/acefast-m4-20000mah-pd67w-power-bank-67w-fast-charging/
+- ACEFAST M11-10000 30W Qi2 Magnetic Power Bank – 10000mAh: NRs. 5,499 reference. Source: https://gadgethousenepal.com/product/acefast-m11-10000-30w-qi2-magnetic-power-bank-10000mah/
+- ACEFAST M24 10000mAh Power Bank 22.5W – Magnetic Wireless Charging with Stand: NRs. 4,799 reference. Source: https://gadgethousenepal.com/product/acefast-m24-10000mah-power-bank-22-5w-magnetic-wireless-charging-with-stand/
+- Anker Prime 20,000mAh 200W Power Bank Ultra Fast Portable Laptop Charger: NRs. 29,999 reference. Source: https://gadgethousenepal.com/product/anker-prime-20000mah-200w-power-bank-ultra-fast-portable-laptop-charger/
+- Promate USB-C Power Bank Acme-PD20 10000mAh battery capacity: NRs. 4,699 reference. Source: https://gadgethousenepal.com/product/promate-usb-c-power-bank-acme-pd20-10000mah-battery-capacity/
+- Promate 10000mAh Power Bank, Super-Slim: NRs. 2,799 reference. Source: https://gadgethousenepal.com/product/promate-10000mah-power-bank/
+- 90000mAh Power Supply Station 300W Portable Battery Power Bank Inverter USB C PD for Outdoor Camping: NRs. 18,900 reference. Source: https://gadgethousenepal.com/product/90000mah-power-supply-station/
+- Anker PowerCore Select 20000 MAh Power Bank: NRs. 6,999 reference. Source: https://gadgethousenepal.com/product/anker-powercore-select-20000-mah-power-bank/
+- Anker 533 PowerHouse – 389Wh | 300W: NRs. 99,999 reference. Source: https://gadgethousenepal.com/product/anker-533-powerhouse-389wh-300w/
+- Anker Magnetic Power Bank 622 MagGO: NRs. 9,499 reference. Source: https://gadgethousenepal.com/product/anker-magnetic-power-bank-622-maggo/
+- REMAX Lango Power Bank 20000mAh: NRs. 1,499 reference. Source: https://gadgethousenepal.com/product/remax-lango-power-bank-20000mah/
+- Anker PowerCore 20100mAh Powerbank Portable Charger: NRs. 4,499 reference. Source: https://gadgethousenepal.com/product/anker-powercore-20100mah-powerbank-portable/
+- ANKER 10000MAH POWER BANK SERIES 3: NRs. 4,499 reference. Source: https://gadgethousenepal.com/product/anker-10000mah-power-bank/
+- JOYROOM TCW01 20W 3-Port Universal Travel Adapter – Black: NRs. 2,499 reference. Source: https://gadgethousenepal.com/product/joyroom-tcw01-20w-3-port-universal-travel-adapter-black/
+- UGREEN Nexode 45W Charger with Retractable USB-C Cable: NRs. 4,149 reference. Source: https://gadgethousenepal.com/product/ugreen-nexode-45w-charger-with-retractable-usb-c-cable/
+- UGREEN 45W GaN Fast Charger with Retractable Cable: NRs. 5,999 reference. Source: https://gadgethousenepal.com/product/ugreen-45w-gan-fast-charger-with-retractable-cable/
+- UGREEN 65W GaN Fast Charger with Retractable Cable: NRs. 7,499 reference. Source: https://gadgethousenepal.com/product/ugreen-65w-gan-fast-charger-with-retractable-cable/
+- Plextone GS1 Mark III Type-C Adapter – 3-in-1 Audio Charging: NRs. 2,199 reference. Source: https://gadgethousenepal.com/product/plextone-gs1-mark-iii-type-c-adapter-3-in-1-audio-charging/
+- AJAZZ AKP01E 8-in-1 USB Type-C Hub Docking Station: NRs. 8,499 reference. Source: https://gadgethousenepal.com/product/ajazz-akp01e-8-in-1-usb-type-c-hub-docking-station/
+- Ugreen 45057 2-in-1 Magnetic Wireless Charger: NRs. 8,499 reference. Source: https://gadgethousenepal.com/product/ugreen-45057-2-in-1-magnetic-wireless-charger/
+- Anker 322 PowerLine USB-C to Lightning Cable 6ft 60W Fast Charging: NRs. 2,999 reference. Source: https://gadgethousenepal.com/product/anker-322-powerline-usb-c-to-lightning-cable-6ft-60w-fast-charging/
+- Anker Prime 67W GaN Wall Charger: NRs. 6,999 reference. Source: https://gadgethousenepal.com/product/anker-prime-67w-gan-wall-charger/
+- Anker Zolo 20W Charger: NRs. 2,499 reference. Source: https://gadgethousenepal.com/product/anker-zolo-20w-charger/
+- Anker 533 Magnetic Wireless Charger (3-in-1 Stand): NRs. 7,599 reference. Source: https://gadgethousenepal.com/product/anker-533-magnetic-wireless-charger-3-in-1-stand/
+- Verbatim Universal Travel Adapter 20W – USB-C, USB-A: NRs. 4,499 reference. Source: https://gadgethousenepal.com/product/verbatim-universal-travel-adapter-20w-usb-c-usb-a/
+- Verbatim 3-Port 30W GaN Charger: NRs. 4,199 reference. Source: https://gadgethousenepal.com/product/verbatim-3-port-30w-gan-charger/
+- Verbatim GNC-65 GaN 65W Charger – 3-in-1 Fast Charging, USB-C PD USB-A QC 3.0: NRs. 4,999 reference. Source: https://gadgethousenepal.com/product/verbatim-gnc-65-gan-65w-charger/
+- Verbatim 35W GaN Wall Charger – USB-C PD 35W USB-A QC 3.0 Ports: NRs. 3,499 reference. Source: https://gadgethousenepal.com/product/verbatim-35w-gan-wall-charger-usb-c-pd-35w-usb-a-qc-3-0-ports/
+- Verbatim USB-C to HDMI 4K Adapter Male-to-Male, 1.5m – Ultra HD 4K: NRs. 4,199 reference. Source: https://gadgethousenepal.com/product/verbatim-usb-c-to-hdmi-4k-adapter-male-to-male/
+- UGREEN RG 30W USB C Charger Nexode Robot GaN Fast Charger: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/ugreen-rg-30w-usb-c-charger-nexode-robot-gan-fast-charger/
+- Honeywell Mini Display Port to HDMI Adapter – 4K x 2K@30Hz Resolution 3.0 Gbps Transmission Speed: NRs. 3,240 reference. Source: https://gadgethousenepal.com/product/honeywell-mini-display-port-to-hdmi-adapter/
+- Honeywell 3-in-1 HDMI to VGA Adapter – 1080p@60Hz Resolution Blazing 6.75GB Transfer Speed!: NRs. 2,870 reference. Source: https://gadgethousenepal.com/product/honeywell-3-in-1-hdmi-to-vga-adapter-1080p60hz-resolution-blazing-6-75gb-transfer-speed/
+- UGREEN USB 2.0 Hub 4 Ports 1m (White): NRs. 999 reference. Source: https://gadgethousenepal.com/product/ugreen-usb-2-0-hub-4-ports-1m-white/
+- LDNIO A6140C 140W Charger GaN Tech 6 Multi Ports: NRs. 6,199 reference. Source: https://gadgethousenepal.com/product/ldnio-a6140c-140w-charger-gan-tech-6-multi-ports/
+- LDNIO 100W GaN Super Fast Charger Q408: NRs. 5,499 reference. Source: https://gadgethousenepal.com/product/ldnio-100w-gan-super-fast-charger-q408/
+- LDNIO 45W Fast Charging Charger with C-Type Cable for All Mobiles | 2 Ports USB A, USB-C, White: NRs. 1,699 reference. Source: https://gadgethousenepal.com/product/ldnio-45w-fast-charging-charger-with-c-type-for-all-mobiles-2-ports-usb-a-usb-c-white/
+- LDNIO 65W GaN Super Fast Charger Q366: NRs. 2,999 reference. Source: https://gadgethousenepal.com/product/ldnio-65w-gan-super-fast-charger-q366/
+- Anker 45W USB C Charger, 313 Ace 2 GaN technology: NRs. 4,499 reference. Source: https://gadgethousenepal.com/product/anker-45w-usb-c-charger-313-ace-2-gan-technology/
+- Anker 30W Foldable Charger, 511 Nano 3: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/anker-30w-foldable-charger/
+- Promate GaNPort2-45PD Charger – 45W USB-C, MFI Certified: NRs. 5,999 reference. Source: https://gadgethousenepal.com/product/promate-ganport2-45pd-charger-45w-usb-c-mfi-certified/
+- Promate PowerPort-33 GaNFast Charger, MFI Certified: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/promate-powerport-33-ganfast-charger-mfi-certified/
+- Promate BiPlug-2 17W High-Speed Dual Port Charger: NRs. 2,499 reference. Source: https://gadgethousenepal.com/product/promate-biplug-2-17w-high-speed-dual-port-charger/
+- Promate VolTrip-Duo 3.4A Car Charger: NRs. 1,099 reference. Source: https://gadgethousenepal.com/product/promate-voltrip-duo-3-4a-car-charger/
+- Verbatim USB-C to HDMI 4K Adapter: NRs. 4,499 reference. Source: https://gadgethousenepal.com/product/verbatim-usb-c-to-hdmi-4k-adapter/
+- Verbatim 200cm Step-Up Lightning Cable MFI Certified: NRs. 2,499 reference. Source: https://gadgethousenepal.com/product/verbatim-200cm-step-up-lightning-cable/
+- Promate PadHub-Pro: USB-C Multimedia Hub PadHub-Pro, 4-in-1 USB-C hub made for tablets and USB-C laptops. Mirror or extend your USB-C PC/laptop/tablet screen, stream 4K UHD: NRs. 4,999 reference. Source: https://gadgethousenepal.com/product/promate-padhub-pro-usb-c-multimedia-hub-padhub-pro-4-in-1-usb-c-hub-made-for-tablets-and-usb-c-laptops-mirror-or-extend-your-usb-c-pc-laptop-tablet-screen-stream-4k-uhd/
+- Promate PrimeHub-Mini: Ultra-Compact USB-C Hub with 100W Power Delivery: NRs. 8,299 reference. Source: https://gadgethousenepal.com/product/promate-primehub-mini-ultra-compact-usb-c-hub-with-100w-power-delivery/
+- Promate PrimeHub-Pro Ultra-Fast Multiport USB-C Hub, 100W Power Delivery, 4K HDMI, 1080p VGA, Ethernet, AUX, SD/TF Card, and 4x USB-A ports.: NRs. 10,299 reference. Source: https://gadgethousenepal.com/product/promate-primehub-pro-usb-c-multiport-hub/
+- Promate XCord-CC Type C Cable: NRs. 999 reference. Source: https://gadgethousenepal.com/product/promate-xcord-cc-type-c-cable/
+- Plextone GS1 iPhone Splitter Lightning Adapter – Experience PD 30W Fast Charging and Crystal Clear Audio: NRs. 2,100 reference. Source: https://gadgethousenepal.com/product/plextone-gs1-iphone-splitter-lightning-adapter-experience-pd-30w-fast-charging-and-crystal-clear-audio/
+- Plextone GS MAX Mark III – 4-in-1 Gaming Adapter + 60W Fast Charging: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/plextone-gs-max-mark-iii-4-in-1-gaming-adapter-60w-fast-charging/
+- Verbatim 4-in-1 USB 3.1 Hub with Type C Adaptor: NRs. 2,999 reference. Source: https://gadgethousenepal.com/product/verbatim-4-in-1-usb-3-1-hub-with-type-c-adaptor/
+- VERBATIM Dual Ports 36W QC3.0 Charger: NRs. 3,100 reference. Source: https://gadgethousenepal.com/product/verbatim-dual-ports-36w-qc3-0-charger/
+- VERBATIM 4 Port 100W Charger PD 3.0 QC 3.0 GaN USB: NRs. 11,000 reference. Source: https://gadgethousenepal.com/product/verbatim-4-port-100w-charger-pd-3-0-qc-3-0-gan-usb/
+- Verbatim 4.8A 4 Ports Traveller Charger Grey – 4 Port 45W PD QC Universal Travel Adapter: NRs. 2,999 reference. Source: https://gadgethousenepal.com/product/verbatim-4-8a-4-ports-traveller-charger-grey-4-port-45w-pd-qc-universal-travel-adapter/
+- UGREEN USB C Extension Cable 2M | USB 3.1 Gen 2 10Gbps | Thunderbolt 3 Compatible | PD 100W Fast Charging: NRs. 2,145 reference. Source: https://gadgethousenepal.com/product/ugreen-usb-c-extension-cable-2m-usb-3-1-gen-2-10gbps-thunderbolt-3-compatible-pd-100w-fast-charging/
+- Promate TripMate-GaN65 Charger 65W Dual USB-C Power Delivery Ports: NRs. 9,299 reference. Source: https://gadgethousenepal.com/product/promate-tripmate-gan65-charger/
+- Honeywell 6-in-1 Type C Docking Station: NRs. 11,999 reference. Source: https://gadgethousenepal.com/product/honeywell-6-in-1-type-c-docking-station/
+- LDNIO Z6 Universal Travel Adapter Gan Charger 65W – Compact and Versatile: NRs. 4,499 reference. Source: https://gadgethousenepal.com/product/ldnio-z6-universal-travel-adapter-gan-charger-65w-compact-and-versatile/
+- Transparent 10-in-1 USB C HUB Dongle, USB C Adapter Docking Station with 4K: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/transparent-10-in-1-usb-c-hub-dongle/
+- Anker PowerPort PD+2 Wall Charger (A2626KD1) USB C: NRs. 5,299 reference. Source: https://gadgethousenepal.com/product/anker-powerport-pd2-wall-charger/
+- Anker USB C Charger 33W, 323 Charger, 2 Port Compact Charger with Foldable Plug: NRs. 2,999 reference. Source: https://gadgethousenepal.com/product/anker-usb-c-charger-33w/
+- Anker 65W PD Charger Adapter with 6 ft USB-C to USB-C Cable: NRs. 7,999 reference. Source: https://gadgethousenepal.com/product/anker-65w-pd-charger-adapter-with-6-ft-usb-c-to-usb-c-cable/
+- Anker Nano II 30W Charger Adapter: NRs. 3,499 reference. Source: https://gadgethousenepal.com/product/anker-nano-ii-30w-charger-adapter/
+- NEXGEN 4K HDMI CABLE PRO SERIES 10M: NRs. 1,999 reference. Source: https://gadgethousenepal.com/product/nexgen-4k-hdmi-cable-pro-series-10m/
+- NEXGEN 4K HDMI CABLE PRO SERIES 5M: NRs. 1,399 reference. Source: https://gadgethousenepal.com/product/nexgen-4k-hdmi-cable-pro-series-5m-2/
+- NEXGEN 4K HDMI CABLE PRO SERIES 5M: NRs. 1,399 reference. Source: https://gadgethousenepal.com/product/nexgen-4k-hdmi-cable-pro-series-5m/
+- NEXGEN 4K HDMI CABLE PRO SERIES 3M: NRs. 999 reference. Source: https://gadgethousenepal.com/product/nexgen-4k-hdmi-cable-pro-series-3m/
+- NEXGEN 4K HDMI CABLE PRO SERIES 1.5M: NRs. 699 reference. Source: https://gadgethousenepal.com/product/nexgen-4k-hdmi-cable-pro-series-1-5m/
+- NEXGEN 4K HDMI CABLE PRO SERIES: NRs. 699 reference. Source: https://gadgethousenepal.com/product/nexgen-4k-hdmi-cable-pro-series/
+- Apple 20W USB-C Power Adapter: NRs. 4,500 reference. Source: https://gadgethousenepal.com/product/apple-20w-usb-c-power-adapter/
+- FANTECH COILED CABLE AC701: NRs. 2,099 reference. Source: https://gadgethousenepal.com/product/fantech-coiled-cable-ac701/
+- Laptop Charger Power Cord Cable: NRs. 119 reference. Source: https://gadgethousenepal.com/product/laptop-charger-power-cord-cable/
+- UGREEN USB C to Lightning Cable – MFi: NRs. 2,700 reference. Source: https://gadgethousenepal.com/product/ugreen-usb-c-to-lightning-cable-mfi/
+- Rapoo PA20 MINI Fast Charger 20W (Output: USB-C): NRs. 1,700 reference. Source: https://gadgethousenepal.com/product/rapoo-pa20-mini-fast-charger-20w-output-usb-c/
+- Rapoo Pa65 GaN 65 Watts USB Type-C +USB Wall Charger: NRs. 4,250 reference. Source: https://gadgethousenepal.com/product/rapoo-pa65-gan-65-watts-usb-type-c-usb-wall-charger/
+- Rapoo XD200C USB-C Multi Function Adapter 10 in 1 USB Dongle.: NRs. 11,200 reference. Source: https://gadgethousenepal.com/product/rapoo-xd200c-usb-c-multi-function-adapter-10-in-1-usb-dongle/
+- Ugreen HDMI Female to Female Adapter Black: NRs. 349 reference. Source: https://gadgethousenepal.com/product/ugreen-hdmi-female-to-female-adapter-black/
+- USB TO ETHERNET CONVERTER CABLE: NRs. 399 reference. Source: https://gadgethousenepal.com/product/usb-to-ethernet-converter-cable/
+- Mini DisplayPort (Mini DP) to VGA Adapter: NRs. 750 reference. Source: https://gadgethousenepal.com/product/mini-displayport-mini-dp-to-vga-adapter/
+- Belkin USB Type-C to VGA Adapter, Works with Chromebook Certified (5.9 Inches) (F2CU037btBLK): NRs. 3,750 reference. Source: https://gadgethousenepal.com/product/belkin-usb-type-c-to-vga-adapter-works-with-chromebook-certified-5-9-inches-f2cu037btblk/
+- EARLDOM W21 MULTIFUNCTIONAL TYPE C HUB: NRs. 4,699 reference. Source: https://gadgethousenepal.com/product/earldom-w21-multifunctional-type-c-hub/
+- TYPE-C USB 3.1 TO USB2.0 2 IN 1 HUB CARD READER PORT ADAPTER: NRs. 799 reference. Source: https://gadgethousenepal.com/product/type-c-usb-3-1-to-usb2-0-2-in-1-hub-card-reader-port-adapter/
+- Portable Multi-function 3 in 1 USB-C Type C / USB 3.0 / Micro USB Combo OTG Card Reader Adapter Converter USB Hub: NRs. 1,299 reference. Source: https://gadgethousenepal.com/product/portable-multi-function-3-in-1-usb-c-type-c-usb-3-0-micro-usb-combo-otg-card-reader-adapter-converter-usb-hub/
+- USB TYPE-C TO GIGABIT ETHERNET 3 PORT USB HUB: NRs. 1,999 reference. Source: https://gadgethousenepal.com/product/usb-type-c-to-gigabit-ethernet-3-port-usb-hub/
+- UGREEN TYPE C TO 10 IN 1 USB HUB: NRs. 12,000 reference. Source: https://gadgethousenepal.com/product/ugreen-type-c-to-10-in-1-usb-hub/
+- Onten (OT-9591B) USB C Hub 8 in 1 Type C Hub Adapter with 1Gbps Ethernet, 4K HDMI, VGA, PD Charging, 2 USB3.0, 3.55mm Audio, SD Card Reader for MacBook Pro and Other Type C Laptops: NRs. 3,899 reference. Source: https://gadgethousenepal.com/product/onten-ot-9591b-usb-c-hub-8-in-1-type-c-hub-adapter-with-1gbps-ethernet-4k-hdmi-vga-pd-charging-2-usb3-0-3-55mm-audio-sd-card-reader-for-macbook-pro-and-other-type-c-laptops/
+- NEXGEN TYPE C HUB (4 IN 1) USB-C port into a HDMI, VGA, USB 3.0, Power Port: NRs. 2,799 reference. Source: https://gadgethousenepal.com/product/nexgen-type-c-hub-4-in-1-usb-c-port-into-a-hdmi-vga-usb-3-0-power-port/
+- NEXGEN TYPE C HUB (5 IN 1): NRs. 3,799 reference. Source: https://gadgethousenepal.com/product/nexgen-type-c-hub-5-in-1/
+- NEXGEN 3 IN 1 TYPE C HUB + ETHERNET: NRs. 1,699 reference. Source: https://gadgethousenepal.com/product/nexgen-3-in-1-type-c-hub-ethernet/
+- Verbatim 8-in-1 Type C Hub With VGA, HDMI,RJ45,USB3.0x2 PD 60W SD earjack: NRs. 12,500 reference. Source: https://gadgethousenepal.com/product/verbatim-8-in-1-type-c-hub-with-vga-hdmirj45usb3-0x2-pd-60w-sd-earjack/
+- Belkin Universal Car Charger with Micro USB Charge Sync Cable (10 Watt/ 2.1 Amp): NRs. 1,250 reference. Source: https://gadgethousenepal.com/product/belkin-universal-car-charger-with-micro-usb-charge-sync-cable-10-watt-2-1-amp/
+- BELKIN Type C Cable F2CU029bt1M-BLK 3.1 USB-A to USB-C Data Cable, 3ft: NRs. 1,875 reference. Source: https://gadgethousenepal.com/product/belkin-type-c-cable-f2cu029bt1m-blk-3-1-usb-a-to-usb-c-data-cable-3ft/
+- Belkin Pro Series USB 2.0 Printer Device Cable: NRs. 1,125 reference. Source: https://gadgethousenepal.com/product/belkin-pro-series-usb-2-0-printer-device-cable/
+- Belkin LAN Cable RJ45 Cat-6 Ethernet Patch Cable Connection – 14 Feet: NRs. 625 reference. Source: https://gadgethousenepal.com/product/belkin-lan-cable-rj45-cat-6-ethernet-patch-cable-connection-14-feet/
+- Belkin USB-C to HDMI Adapter + Charge: NRs. 4,999 reference. Source: https://gadgethousenepal.com/product/belkin-usb-c-to-hdmi-adapter-charge/
+- Belkin 3.0 USB-C to USB-A Adapter (USB Type-C) F2CU036BTBLK: NRs. 1,600 reference. Source: https://gadgethousenepal.com/product/belkin-3-0-usb-c-to-usb-a-adapter-usb-type-c-f2cu036btblk/
+- Belkin 100-Watt 3.1 USB-C to USB-C Charging Cable (3.3 Feet / 1 Meter): NRs. 4,500 reference. Source: https://gadgethousenepal.com/product/belkin-100-watt-3-1-usb-c-to-usb-c-charging-cable-3-3-feet-1-meter/
+- Belkin Lightning Audio + Charge Rockstar, iPhone Lightning Audio Adapter , White: NRs. 8,100 reference. Source: https://gadgethousenepal.com/product/belkin-lightning-audio-charge-rockstar-iphone-lightning-audio-adapter-white/
+- Belkin Universal Cable with Micro-USB, USB-C and Lightning Connectors: NRs. 3,500 reference. Source: https://gadgethousenepal.com/product/belkin-universal-cable-with-micro-usb-usb-c-and-lightning-connectors/
+- Belkin Micro B to USB 3.0 Cable (F3U166b03): NRs. 1,375 reference. Source: https://gadgethousenepal.com/product/belkin-micro-b-to-usb-3-0-cable-f3u166b03/
+- Belkin MIXIT Micro USB Cable, 2 M: NRs. 499 reference. Source: https://gadgethousenepal.com/product/belkin-mixit-micro-usb-cable-2-m/
+- Belkin MIXIT↑™ Micro USB Charge Sync Cable (F2CU012BT04-BLK): NRs. 375 reference. Source: https://gadgethousenepal.com/product/belkin-mixit%e2%86%91-micro-usb-charge-sync-cable-f2cu012bt04-blk/
+- Belkin MIXIT↑ Sync/Charge Lightning Data Transfer Cable: NRs. 1,375 reference. Source: https://gadgethousenepal.com/product/belkin-mixit%e2%86%91-sync-charge-lightning-data-transfer-cable/
+- Belkin F8V3311BT30 HDMI cable 9.1 m Supports Ethernet: NRs. 8,100 reference. Source: https://gadgethousenepal.com/product/belkin-f8v3311bt30-hdmi-cable-9-1-m-hdmi-type-a-standard-black-f8v3311bt30-9-1-m-hdmi-type-a-standard-hdmi-type-a-standard-black/
+- Belkin 4K Ultra High Speed HDMI 2.1 Braided Cable With Ethernet: NRs. 1,200 reference. Source: https://gadgethousenepal.com/product/belkin-4k-ultra-high-speed-hdmi-2-1-braided-cable/
+- Belkin High Speed HDMI Cable Supports Ethernet, 3D, 4K, 1080p, Audio Return for Television (1 Meter, Black): NRs. 999 reference. Source: https://gadgethousenepal.com/product/belkin-high-speed-hdmi-cable-supports-ethernet-3d-4k-1080p-audio-return-for-television-1-meter-black/
+- Belkin F8J236BT10-BLK USB To Lightning Cable 10 Feet: NRs. 4,600 reference. Source: https://gadgethousenepal.com/product/belkin-f8j236bt10-blk-usb-to-lightning-cable/
+- Belkin DuraTek Plus Lightning to USB-A Cable with Strap: NRs. 3,500 reference. Source: https://gadgethousenepal.com/product/belkin-duratek-plus-lightning-to-usb-a-cable-with-strap/
+- Belkin RockStar 3.5mm Audio Cable with USB-C Connector F7U079BT: NRs. 2,600 reference. Source: https://gadgethousenepal.com/product/belkin-rockstar-3-5mm-audio-cable-with-usb-c-connector-f7u079bt/
+- Belkin 11-in-1 USB-C Dock with 4K, 100W PD, USB-A, Ethernet, SD – for MacBook more: NRs. 18,750 reference. Source: https://gadgethousenepal.com/product/belkin-usb-c-11-in-1-multiport-dock-adapter-with-4k-hdmi-dp-vga-usb-c-100w-pd-pass-through-charging-3-usb-a-gigabit-ethernet-sd-microsd-3-5mm-ports-for-macbook-pro-air-xps-and-more/
+- Belkin USB-C Multimedia Adapter Usb C to VGA, HDMI, GBE, USB Adapter 100 Watt: NRs. 8,750 reference. Source: https://gadgethousenepal.com/product/belkin-usb-c-multimedia-adapter-usb-c-to-vga-hdmi-gbe-usb-a/
+- Belkin USB-C to HDMI Adapter (USB Type-C): NRs. 7,000 reference. Source: https://gadgethousenepal.com/product/belkin-usb-c-to-hdmi-adapter-usb-type-c/
+- Belkin USB-C to VGA + Charge Adapter, AVC001: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/belkin-usb-c-to-vga-charge-adapter-avc001/
+- Belkin 3.5 mm Audio Cable with Lightning® Connector, AV10172: NRs. 3,375 reference. Source: https://gadgethousenepal.com/product/belkin-3-5-mm-audio-cable-with-lightning-connector-av10172/
+- Belkin F2CD024bt Mini DisplayPort to HDMI Adapter: NRs. 3,100 reference. Source: https://gadgethousenepal.com/product/belkin-f2cd024bt-mini-displayport-to-hdmi-adapter/
+- Belkin Mini Displayport to VGA Adapter (F2CD028bt),Black: NRs. 4,125 reference. Source: https://gadgethousenepal.com/product/belkin-mini-displayport-to-vga-adapter-f2cd028btblack/
+- Belkin USB C 6 in 1 Hub Adapter with 60W Power delivery, 5 Gbps Transfer Speed, Ethernet Port, 4K HDMI, USB C, SD Card and 2 USB A 3.0 2.0 Data Ports, for MacBook/iPad and More: NRs. 13,750 reference. Source: https://gadgethousenepal.com/product/belkin-usb-c-6-in-1-hub-adapter-with-60w-power-delivery-5-gbps-transfer-speed-ethernet-port-4k-hdmi-usb-c-sd-card-and-2-usb-a-3-0-2-0-data-ports-for-macbook-ipad-and-more/
+- Belkin 4-Port Travel Hub: NRs. 1,560 reference. Source: https://gadgethousenepal.com/product/belkin-4-port-travel-hub/
+- Belkin F7U088BTBLK Boost Up Wireless Charging Pad 10W – Qi Wireless Charger for iPhone And Android: NRs. 4,750 reference. Source: https://gadgethousenepal.com/product/belkin-f7u088btblk-boost-up-wireless-charging-pad-10w-qi-wireless-charger-for-iphone-and-android/
+- Belkin F7U070btBLK Boost Up Wireless Charging Stand 5W – Qi Wireless Charger for iPhone And Android: NRs. 3,750 reference. Source: https://gadgethousenepal.com/product/belkin-f7u070btblk-boost-up-wireless-charging-stand-5w-qi-wireless-charger-for-iphone-and-android/
+- Linksys USB3GIG: USB 3.0 Gigabit Ethernet Adapter: NRs. 5,100 reference. Source: https://gadgethousenepal.com/product/linksys-usb3gig-usb-3-0-gigabit-ethernet-adapter/
+- Linksys USB Wireless Network Adapter, Dual-Band wireless Adapter for PC, 600Mbps (AC600) Speed – WUSB6100M: NRs. 1,499 reference. Source: https://gadgethousenepal.com/product/linksys-usb-wireless-network-adapter-dual-band-wireless-adapter-for-pc-600mbps-ac600-speed-wusb6100m/
+- UGREEN Micro USB+USB-C to USB 3.0 OTG Adapter-30453: NRs. 799 reference. Source: https://gadgethousenepal.com/product/ugreen-micro-usbusb-c-to-usb-3-0-otg-adapter-30453/
+- Anker PowerPort Atom III Slim Wall Charger with a 45W USB C Port: NRs. 7,499 reference. Source: https://gadgethousenepal.com/product/anker-powerport-atom-iii-slim-wall-charger-with-a-45w-usb-c-port/
+- Anker Magnetic Charging Station 637 – MagGo Wireless Charger for iPhone13/12, 8-in-1 Power Strip with 3 AC,2 USB A,2 USB C, Max 65W Power Delivery Desktop Accessory for MacBook Pro: NRs. 10,999 reference. Source: https://gadgethousenepal.com/product/anker-magnetic-charging-station-637-mago-magnetic-wireless-charger-for-iphone13-12-8-in-1-power-strip-with-3-ac2-usb-a2-usb-c-max-65w-power-delivery-desktop-accessory-for-macbook-pro/
+- Fantech CWG301 65Watt Charger 2xPD + QC 65W Gan Charger Black: NRs. 4,199 reference. Source: https://gadgethousenepal.com/product/fantech-cwg301-65watt-charger-2xpd-qc-65w-gan-charger-black/
+- Anker USB-C to USB-C Cable, 100W 3f: NRs. 1,600 reference. Source: https://gadgethousenepal.com/product/anker-usb-c-to-usb-c-cable-100w-3ft-usb-2-0-for-macbook-pro-ipad-pro-ipad-air-4-ipad-mini-6-galaxy-s21-pixel-switch-midnight-black/
+- Anker Powerline Micro USB – Charging – Data Cable 3ft: NRs. 699 reference. Source: https://gadgethousenepal.com/product/anker-powerline-micro-usb-charging-data-cable-6ft/
+- Anker USB C to Lightning Data Cable [ Apple Mfi Certified]: NRs. 2,999 reference. Source: https://gadgethousenepal.com/product/anker-usb-c-to-lightning-data-cable-apple-mfi-certified/
+- Anker Usb To Lightning 3ft Lightning Apple MFi Certified Data Cable: NRs. 2,199 reference. Source: https://gadgethousenepal.com/product/anker-usb-to-lightning-3ft-lightning-apple-mfi-certified-data-cable/
+- Anker USB-C to 90 Degree Lightning Data Cable (6 ft) MFi Certified: NRs. 2,999 reference. Source: https://gadgethousenepal.com/product/anker-usb-c-to-90-degree-lightning-data-cable-6-ft-mfi-certified/
+- Anker PowerPort III-3, 65W USB-C Charger: NRs. 6,999 reference. Source: https://gadgethousenepal.com/product/anker-usb-c-charger-powerport-iii-3-ports-3-65w-3-port-pps-fast-charger-adapter-usb-wall-charger-6-outlets-and-2-usb-ports/
+- Anker PowerPort PD 2 30W 2 Port Fast Charger with 18W USB C Power Adapter, Nepal: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/anker-powerport-pd-2-30w-2-port-fast-charger-with-18w-usb-c-power-adapter-foldable-powerport-pd-2-charger-for-ipad-pro-iphone-pixel-galaxy-usb-c-charger-nepal/
+- Anker 65W PowerPort III – 3 Black ,USB C Charger. 2 Port for MacBook Pro/Air, iPhone 14/13/12/11, iPad Pro, Android Nepal: NRs. 6,999 reference. Source: https://gadgethousenepal.com/product/anker-65w-powerport-iii-3-black-usb-c-charger-2-port-for-macbook-pro-air-iphone-14-13-12-11-ipad-pro-android-macbook-nepal/
+- Anker PowerPort II – 2 UL Certified 49.5W Wall Charger with Foldable Plug, One 30W Power Delivery Port for MacBook, IOS, Android: NRs. 3,999 reference. Source: https://gadgethousenepal.com/product/anker-powerport-ii-ul-certified-49-5w-wall-charger-with-foldable-plug-one-30w-power-delivery-port-for-macbook-ios-android/
+- Anker PowerPort mini USB Charger, Anker 2-Pack Dual Port 12W Wall Charger with Foldable Plug, PowerPort mini for iPhone and Android: NRs. 1,499 reference. Source: https://gadgethousenepal.com/product/anker-powerport-mini-usb-charger-anker-2-pack-dual-port-12w-wall-charger-with-foldable-plug-powerport-mini-for-iphone-and-android/
+- Camera Charger,1080p with 8gb memory card, Nanny Cam, Surveillance Full HD: NRs. 4,499 reference. Source: https://gadgethousenepal.com/product/camera-charger1080p/
+- Ugreen 5.0 Bluetooth Adapter: NRs. 1,399 reference. Source: https://gadgethousenepal.com/product/ugreen-5-0-bluetooth-adapter/
+- UGREEN M.2 NVMe To USB C SSD Enclosure Adapter, 20Gbps C 3.2 Gen 2×2: NRs. 11,250 reference. Source: https://gadgethousenepal.com/product/ugreen-m-2-nvme-to-usb-c-ssd-enclosure-adapter-20gbps-c-3-2-gen-2x2/
+- UGREEN USB 2.0 TO VGA CONVERTER: NRs. 6,875 reference. Source: https://gadgethousenepal.com/product/ugreen-usb-2-0-to-vga-converter/
+- Ugreen 2.5 Inches USB 3.0 to SATA Enclosure: NRs. 1,399 reference. Source: https://gadgethousenepal.com/product/ugreen-2-5-inches-usb-3-0-to-sata-enclosure/
+- PAKITE PAT-220 50M 2.4G Wireless AV Audio Video Transmitter Receiver IR Remote Extender: NRs. 5,500 reference. Source: https://gadgethousenepal.com/product/pakite-pat-220-50m-2-4g-wireless-av-audio-video-transmitter-receiver-ir-remote-extender/
+- UNIVERSAL TRAVEL AC POWER ADAPTOR PLUG with 2 USB PORT: NRs. 649 reference. Source: https://gadgethousenepal.com/product/universal-travel-ac-power-adaptor-plug-with-2-usb-port/
+- LDNIO HOME CHARGER (A2522C) USB +TYPE-C 30W LED: NRs. 1,699 reference. Source: https://gadgethousenepal.com/product/ldnio-home-charger-a2522c-usb-type-c-30w-led/
+- Type C Hub 11 in 1 Multifunction: NRs. 3,899 reference. Source: https://gadgethousenepal.com/product/type-c-hub-11-in-1-multifunction/
+- UGREEN USB Male To Female Extension Cable: NRs. 850 reference. Source: https://gadgethousenepal.com/product/ugreen-usb-male-to-female-extension-cable/
+- UGREEN RJ45 100 PEICE: NRs. 1,099 reference. Source: https://gadgethousenepal.com/product/ugreen-rj45-100-peice/
+- UGREEN Mini DisplayPort to HDMI Adapter: NRs. 1,199 reference. Source: https://gadgethousenepal.com/product/ugreen-mini-displayport-to-hdmi-adapter/
+- UGREEN DVI MALE TO HDMI FEMALE ADAPTER CABLE: NRs. 699 reference. Source: https://gadgethousenepal.com/product/ugreen-dvi-male-to-hdmi-female-adapter-cable/
+- UGREEN DVI to HDMI Adapter: NRs. 699 reference. Source: https://gadgethousenepal.com/product/ugreen-dvi-to-hdmi-adapter/
+- Ugreen 4k Displayport Cable 2m: NRs. 1,799 reference. Source: https://gadgethousenepal.com/product/ugreen-4k-dislayport-cable-2m/
+- UGREEN HDMI TO VGA CONVERTER: NRs. 1,299 reference. Source: https://gadgethousenepal.com/product/ugreen-hdmi-to-vga-converter/
+- UGREEN Video Capture Card 4K HDMI to USB/USB-C: NRs. 4,999 reference. Source: https://gadgethousenepal.com/product/video-capture-card-4k-hdmi-to-usb-usb-c/
+- Ugreen Display Port to VGA Adapter: NRs. 1,599 reference. Source: https://gadgethousenepal.com/product/ugreen-display-port-to-vga-adapter/
+- Anker Nano Charger + Type C to Lightning Cable Combo: NRs. 5,499 reference. Source: https://gadgethousenepal.com/product/anker-usb-c-charger-20w-usb-c-to-lightning-cable-mfi-certified-for-iphone-13-13-mini-13-pro-13-pro-max-ipad-pro-and-more/
+- USB HUB WITH TYPE C UGREEN- 4 PORT: NRs. 2,199 reference. Source: https://gadgethousenepal.com/product/usb-hub-with-type-c-ugreen-4-port/
+- Anker Powerline Select+ 3FT: NRs. 1,899 reference. Source: https://gadgethousenepal.com/product/anker-powerline-select-3ft/
+- Anker PowerWave Wireless 7.5 Charging Pad: NRs. 3,499 reference. Source: https://gadgethousenepal.com/product/anker-powerwave-7-5-fast-wireless-charging-pad-with-internal-cooling-fan/
+- PLEXTONE MARK II TYPE C TO AUX (3.5MM): NRs. 1,999 reference. Source: https://gadgethousenepal.com/product/plextone-mark-ii-type-c-to-aux-3-5mm/
+- PLEXTONE Multipurpose USB-C MARK III: NRs. 2,699 reference. Source: https://gadgethousenepal.com/product/plextone-multipurpose-usb-c-4-in-1-usb-c-multifuction-adapter-hub/
+- PLEXTONE TYPE-C TO 3.5MM GS1 MARK I: NRs. 1,899 reference. Source: https://gadgethousenepal.com/product/plextone-gs-type-c-to-3-5mm-aux-and-lightning/
+- 2 PORT HDMI SPLITTER: NRs. 1,499 reference. Source: https://gadgethousenepal.com/product/2-port-hdmi-splitter-19201080-60hz-support-audio/
+- NEXGEN TYPE C HUB (10 IN 1): NRs. 4,699 reference. Source: https://gadgethousenepal.com/product/nexgen-type-c-hub-10-in-1/
+- UGREEN 2K 30FPS USB Webcam: NRs. 5,499 reference. Source: https://gadgethousenepal.com/product/ugreen-2k-30fps-usb-webcam/
+- Verbatim AWC-01 Full HD 1080p Autofocus Webcam with Built-in Microphone: NRs. 4,999 reference. Source: https://gadgethousenepal.com/product/verbatim-awc-01-full-hd-1080p-autofocus-webcam-with-built-in-microphone/
+- Verbatim AWC-03 Ultra HD 4K Webcam with Dual Microphone: NRs. 13,999 reference. Source: https://gadgethousenepal.com/product/verbatim-awc-03-ultra-hd-4k-webcam-with-dual-microphone/
+- FIFINE K420 2K Webcam 4MP Computer Web Camera 1440P: NRs. 5,499 reference. Source: https://gadgethousenepal.com/product/fifine-k420-2k-webcam-4mp-computer-web-camera-1440p/
+- logitech C922 Pro Stream Webcam 1080P Camera for HD Video Streaming Recording: NRs. 12,000 reference. Source: https://gadgethousenepal.com/product/logitech-c922-pro-stream-webcam/
+- Logitech StreamCam Webcam for Streaming and Content Creation, Full HD 1080p 60 fps: NRs. 21,000 reference. Source: https://gadgethousenepal.com/product/logitech-streamcam-webcam/
+- Logitech BRIO 4K CC1000E webcam: NRs. 27,999 reference. Source: https://gadgethousenepal.com/product/logitech-brio-4k-cc1000e-webcam/
+- Logitech C270 HD WEBCAM – Pink: NRs. 3,300 reference. Source: https://gadgethousenepal.com/product/logitech-c270-hd-webcam-price-in-nepal/
+- Rapoo C1620 HD Video Conference Camera 20x Optical Zoom: NRs. 93,750 reference. Source: https://gadgethousenepal.com/product/rapoo-c1620-hd-video-conference-camera-20x-optical-zoom/
+- Rapoo Webcam C200 – 720P: NRs. 3,500 reference. Source: https://gadgethousenepal.com/product/rapoo-webcam-c200-720p/
+- Creative Live Cam Sync Webcam 1080p – Full HD Wide-angle with Dual Built-in Mic: NRs. 7,500 reference. Source: https://gadgethousenepal.com/product/creative-live-cam-sync-webcam-1080p-full-hd-wide-angle-with-dual-built-in-mic/
+- BenQ DVY23 20x zoom conference camera Webcam: NRs. 1,98,000 reference. Source: https://gadgethousenepal.com/product/benq-dvy23-20x-zoom-conference-camera-webcam/
+- BENQ DVY22 4K Digital Zoom Conference Camera Webcam: NRs. 75,000 reference. Source: https://gadgethousenepal.com/product/benq-dvy22-4k-digital-zoom-conference-camera-webcam/
+- Benq DVY21 Compact Full HD Webcam: NRs. 25,000 reference. Source: https://gadgethousenepal.com/product/benq-dvy21-compact-full-hd-webcam/
+- LOGITECH C310 WEBCAM HD: NRs. 5,999 reference. Source: https://gadgethousenepal.com/product/logitech-c310-webcam-hd/
+- Logitech MeetUp Webcam 4k Video and Audio Conferencing System for Small Meeting Rooms: NRs. 2,12,000 reference. Source: https://gadgethousenepal.com/product/logitech-meetup-webcam-4k-video-and-audio-conferencing-system-for-small-meeting-rooms/
+- Logitech C925-e Webcam with HD Video and Built-In Stereo Microphones – Black: NRs. 31,250 reference. Source: https://gadgethousenepal.com/product/logitech-c925-e-webcam-with-hd-video-and-built-in-stereo-microphones-black/
+- T95C1 Android Smart TV Box 8.0MP Camera with MIC 2.4 5G WIFI 4K: NRs. 5,800 reference. Source: https://gadgethousenepal.com/product/t95c1-android-smart-tv-box-8-0mp-camera-with-mic-2-45g-wifi-4k/
+- Xiaomi Mi TV webcam: NRs. 4,500 reference. Source: https://gadgethousenepal.com/product/xiaomi-mi-tv-webcam/
+- Rapoo C500 Webcam 4K: NRs. 12,999 reference. Source: https://gadgethousenepal.com/product/rapoo-c500-webcam-4k/
+- Xtrike Me Webcam 640 480: NRs. 1,799 reference. Source: https://gadgethousenepal.com/product/xtrike-me-webcam-640x480/
+- Vidlok W77 Webcam: NRs. 3,500 reference. Source: https://gadgethousenepal.com/product/vidlok-w77-webcam/
+- Vidlok Business Webcam W91 with Built-in Speaker: NRs. 4,500 reference. Source: https://gadgethousenepal.com/product/vidlok-business-webcam-w91-with-built-in-speaker/
+- 1080p Webcam, HD Mini Plug and Play: NRs. 1,800 reference. Source: https://gadgethousenepal.com/product/1080p-webcam-hd-mini-plug-and-play/
+- Fantech Luminous C30 1440P Webcam Camera: NRs. 5,299 reference. Source: https://gadgethousenepal.com/product/fantech-luminous-c30-1440p-webcam-camera/
+- Redragon GW600 FOBOS 720P Webcam: NRs. 3,000 reference. Source: https://gadgethousenepal.com/product/redragon-gw600-fobos-720p-webcam/
+- Redragon GW900 APEX 1080P 30FPS WEBCAM: NRs. 5,000 reference. Source: https://gadgethousenepal.com/product/redragon-gw900-apex-1080p-30fps-webcam/
+- Redragon GW800 HITMAN 1080P Webcam: NRs. 4,000 reference. Source: https://gadgethousenepal.com/product/redragon-gw800-hitman-1080p-webcam/

@@ -1,5 +1,8 @@
 (() => {
   'use strict';
+  const changeSearch=document.querySelector('#price-change-search'),direction=document.querySelector('#price-direction');
+  if(changeSearch&&direction){const filterChanges=()=>{let count=0;document.querySelectorAll('.change-row').forEach(row=>{row.hidden=!row.dataset.changeName.includes(changeSearch.value.trim().toLowerCase())||(direction.value!=='all'&&row.dataset.direction!==direction.value);if(!row.hidden)count++;});document.querySelector('#change-results').textContent=count+' devices with recorded changes';document.querySelector('.no-price-changes').hidden=count>0;};changeSearch.addEventListener('input',filterChanges);direction.addEventListener('change',filterChanges);}
+
   const brandSearch=document.querySelector('#brand-search');
   if(brandSearch){
     brandSearch.addEventListener('input',()=>{
