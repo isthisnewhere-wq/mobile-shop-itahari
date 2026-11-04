@@ -3014,5 +3014,8 @@
   "DESIGN.md",
   "publish-files.json",
   "verify-store.cjs",
-  "verify-catalog.cjs"
+  "verify-catalog.cjs",
+  "electronics-scene.webp",
+  "visual-refresh.cjs",
+  "BACKGROUND-ASSET.md"
 ]
