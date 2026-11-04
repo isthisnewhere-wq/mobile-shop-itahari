@@ -73,7 +73,7 @@ for(const file of published.filter(f=>f.endsWith('.html'))){
  if(head===undefined||body===undefined)throw Error('Invalid page '+file);
  head=head.replace(/<link\b[^>]*rel="stylesheet"[^>]*>/g,'').replace(/<script\b[^>]*src="theme.js(?:\?[^"<>]*)?"[^>]*><\/script>/g,'').replace(/<script data-theme-init>[\s\S]*?<\/script>/g,'');
  head=head.replace(/<link\b[^>]*rel="icon"[^>]*>/g,'');
- head+='<link rel="icon" type="image/svg+xml" href="eakraj-mascot.svg"><link rel="stylesheet" href="style.css?v=prices-6"><script data-theme-init>document.documentElement.classList.add("js");</script><script src="theme.js?v=readable-2" defer></script>';
+ head+='<link rel="icon" type="image/svg+xml" href="eakraj-mascot.svg"><link rel="stylesheet" href="style.css?v=prices-6"><script data-theme-init>document.documentElement.classList.add("js");</script><script src="theme.js?v=prices-6" defer></script>';
  if(file==='index.html'){body=home;head=head.replace(/<title>[\s\S]*?<\/title>/,'<title>Electronics prices in Nepal | Eakraj Mobile Shop</title>').replace(/<meta name="description"[^>]*>/,'<meta name="description" content="Explore Nepal electronics prices in NPR. Browse phones, laptops, earbuds, speakers, keyboards, and accessories with sourced reference prices and specifications.">');}
  else if(file==='brands.html')body=brandDirectory();
  else body=catalogLayout(body);
