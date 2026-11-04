@@ -1,6 +1,25 @@
 {
   "attempted": "2026-11-04",
-  "checked": 1461,
+  "checked": 149,
   "total": 1463,
-  "errors": []
+  "errors": [
+    "Retail batch 0: HTTP 403",
+    "Retail batch 75: HTTP 403",
+    "Retail batch 150: HTTP 403",
+    "Retail batch 225: HTTP 403",
+    "Retail batch 300: HTTP 403",
+    "Retail batch 375: HTTP 403",
+    "Retail batch 450: HTTP 403",
+    "Retail batch 525: HTTP 403",
+    "Retail batch 600: HTTP 403",
+    "Retail batch 675: HTTP 403",
+    "Retail batch 750: HTTP 403",
+    "Retail batch 825: HTTP 403",
+    "Retail batch 900: HTTP 403",
+    "Retail batch 975: HTTP 403",
+    "Retail batch 1050: HTTP 403",
+    "Retail batch 1125: HTTP 403",
+    "Retail batch 1200: HTTP 403",
+    "Retail batch 1275: HTTP 403"
+  ]
 }
