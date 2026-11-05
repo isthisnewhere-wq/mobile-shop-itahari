@@ -2996,6 +2996,9 @@
   "price-changes.html",
   "robots.txt",
   "sitemap.xml",
+  "BACKGROUND-ASSET.md",
+  "electronics-scene.webp",
+  "visual-refresh.cjs",
   "PRICE-UPDATES.md",
   "verify-prices.cjs",
   "electronics-categories.json",
@@ -3014,8 +3017,5 @@
   "DESIGN.md",
   "publish-files.json",
   "verify-store.cjs",
-  "verify-catalog.cjs",
-  "electronics-scene.webp",
-  "visual-refresh.cjs",
-  "BACKGROUND-ASSET.md"
+  "verify-catalog.cjs"
 ]
